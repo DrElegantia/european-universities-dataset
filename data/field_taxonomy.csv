@@ -1,0 +1,15 @@
+code,label_en,label_it
+MED,Medicine & Health,Medicina e Salute
+ENG,Engineering & Technology,Ingegneria e Tecnologia
+ART,"Arts, Design & Music","Arte, Design e Musica"
+BUS,"Business, Economics & Management",Economia e Management
+LAW,Law,Giurisprudenza
+AGR,"Agriculture, Forestry & Veterinary",Agraria e Veterinaria
+ARC,Architecture & Urban Planning,Architettura e Urbanistica
+EDU,Education & Sport Sciences,Scienze della Formazione e dello Sport
+THEO,Theology & Religious Studies,Teologia e Studi Religiosi
+ICT,Computer Science & IT,Informatica e IT
+SOC,Social & Political Sciences,Scienze Sociali e Politiche
+HUM,Humanities & Languages,Studi Umanistici e Lingue
+SCI,Natural Sciences & Mathematics,Scienze Naturali e Matematica
+COMP,Comprehensive (multi-field),Generalista (multidisciplinare)

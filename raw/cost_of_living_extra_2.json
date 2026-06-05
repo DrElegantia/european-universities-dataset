@@ -1,0 +1,452 @@
+[
+  {
+    "city": "Nizhniy Novgorod",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 379.8,
+    "monthly_other_eur": 611.5,
+    "monthly_total_eur": 991.3,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia",
+    "access_note": "Fetched from Numbeo. Rent (1br outside centre) = RUB 32375.00; single person estimated monthly costs (without rent) = RUB 52123.2, which Numbeo states equals EUR 611.5. Implied rate ~85.24 RUB/EUR applied to rent (32375.00/85.24 = 379.8). Total in RUB 84498.2 -> EUR 991.3."
+  },
+  {
+    "city": "Saratov",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 324.55,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Saratov",
+    "access_note": "Fetched from Numbeo (displayCurrency=EUR). Rent (1br outside centre) = EUR 324.55 (RUB 27666.67 on default page). 'Single person estimated monthly costs' summary box is ABSENT on this city page (insufficient contributor data), so monthly_other_eur is not available; left null per instructions."
+  },
+  {
+    "city": "Omsk",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 258.08,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Omsk",
+    "access_note": "Fetched from Numbeo (displayCurrency=EUR). Rent (1br outside centre) = EUR 258.08 (RUB 22000.00 on default page). 'Single person estimated monthly costs' summary box ABSENT on this city page; monthly_other_eur not available, left null."
+  },
+  {
+    "city": "Voronezh",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 215.07,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Voronezh",
+    "access_note": "Fetched from Numbeo (displayCurrency=EUR). Rent (1br outside centre) = EUR 215.07 (RUB 18333.33 on default page). 'Single person estimated monthly costs' summary box ABSENT on this city page; monthly_other_eur not available, left null."
+  },
+  {
+    "city": "Tirana",
+    "country_code": "AL",
+    "currency": "ALL",
+    "monthly_rent_eur": 443.8,
+    "monthly_other_eur": 666.8,
+    "monthly_total_eur": 1110.6,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Tirana",
+    "access_note": "Fetched from Numbeo. Rent (1br outside centre) = 42233.68 Lek (ALL); single person estimated monthly costs (without rent) = 63443.4 Lek, which Numbeo states equals EUR 666.8. Implied rate ~95.15 ALL/EUR applied to rent (42233.68/95.15 = 443.8). Total 105677.08 ALL -> EUR 1110.6."
+  },
+  {
+    "city": "Sofia",
+    "country_code": "BG",
+    "currency": "BGN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Sofia",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429 / 'Rate limit exceeded ... try again after 2026-07-01'). No figures fetched; left null per instructions (never invent)."
+  },
+  {
+    "city": "Timişoara",
+    "country_code": "RO",
+    "currency": "RON",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Timisoara",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Ivanovo",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Ivanovo",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Perm",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Perm",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Tomsk",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Tomsk",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Ulyanovsk",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Ulyanovsk",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Geneva",
+    "country_code": "CH",
+    "currency": "CHF",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Geneva",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Graz",
+    "country_code": "AT",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Graz",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Vitebsk",
+    "country_code": "BY",
+    "currency": "BYN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Vitebsk",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Antwerpen",
+    "country_code": "BE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Antwerp",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Sarajevo",
+    "country_code": "BA",
+    "currency": "BAM",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Sarajevo",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Varna",
+    "country_code": "BG",
+    "currency": "BGN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Varna",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Nantes",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Nantes",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Darmstadt",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Darmstadt",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Freiburg",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Freiburg-Im-Breisgau",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null. (Numbeo slug for Freiburg is typically 'Freiburg-Im-Breisgau'; verify on retry.)"
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Frankfurt",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Karlsruhe",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Karlsruhe",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Lübeck",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Lubeck",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Mannheim",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Mannheim",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Bremen",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Bremen",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Debrecen",
+    "country_code": "HU",
+    "currency": "HUF",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Debrecen",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Riga",
+    "country_code": "LV",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Riga",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Vilnius",
+    "country_code": "LT",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Vilnius",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Rotterdam",
+    "country_code": "NL",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Rotterdam",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Oslo",
+    "country_code": "NO",
+    "currency": "NOK",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Oslo",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Białystok",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Bialystok",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Valencia",
+    "country_code": "ES",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Valencia",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Lviv",
+    "country_code": "UA",
+    "currency": "UAH",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Lviv",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Salzburg",
+    "country_code": "AT",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Salzburg",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Innsbruck",
+    "country_code": "AT",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Innsbruck",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Linz",
+    "country_code": "AT",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Linz",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Hrodna",
+    "country_code": "BY",
+    "currency": "BYN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Grodno",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Homyel'",
+    "country_code": "BY",
+    "currency": "BYN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Gomel",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Mons",
+    "country_code": "BE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Mons",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Gent",
+    "country_code": "BE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Ghent",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Plovdiv",
+    "country_code": "BG",
+    "currency": "BGN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Plovdiv",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Zagreb",
+    "country_code": "HR",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Zagreb",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null. (Croatia adopted EUR in 2024.)"
+  },
+  {
+    "city": "Tampere",
+    "country_code": "FI",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Tampere",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Rouen",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Rouen",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  },
+  {
+    "city": "Angers",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Angers",
+    "access_note": "Not retrieved. Numbeo monthly request limit exhausted on this network (HTTP 429, resets 2026-07-01). No figures fetched; left null."
+  }
+]

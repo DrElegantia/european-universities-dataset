@@ -1,0 +1,19 @@
+{
+  "note": "Controlled vocabulary of broad fields (loosely based on ISCED-F 2013 broad groups). Each university is assigned ONE primary field_category by keyword classification on its institution name; general universities default to COMP (Comprehensive). keywords are matched on the accent-stripped lowercased name. Priority = order in this list (first match wins).",
+  "categories": [
+    {"code":"MED","label_en":"Medicine & Health","label_it":"Medicina e Salute","keywords":["medical","medicine","medizin","medecine","medico","medica","mediche","health","sante","salute","pharmac","farmac","farmaceut","dental","odonto","nursing","public health","sechenov","pirogov"]},
+    {"code":"ENG","label_en":"Engineering & Technology","label_it":"Ingegneria e Tecnologia","keywords":["technical","technolog","technische","technological","polytechnic","politecnico","politechnik","polytechnique","institute of technology","tekniska","teknillinen","teknisk","tehnic","mining","naval","maritime","aeronaut","aviation","mechanical","engineering","ingenieur","ingegneria"]},
+    {"code":"ART","label_en":"Arts, Design & Music","label_it":"Arte, Design e Musica","keywords":["fine arts","arts academy","academy of arts","conservator","conservatoire","conservatorio","music","musik","muzyczn","design","beaux-arts","belle arti","accademia di belle","kunst","film","cinema","theatre","theater","drama","dance","sztuk pieknych","akademia muzyczn"]},
+    {"code":"BUS","label_en":"Business, Economics & Management","label_it":"Economia e Management","keywords":["business","economics","economic","economia","management","commerce","commercial","ecole de commerce","school of economics","wirtschaft","handels","finance","trade"]},
+    {"code":"LAW","label_en":"Law","label_it":"Giurisprudenza","keywords":["law school","of law","juridic","droit","giuridic","legal studies"]},
+    {"code":"AGR","label_en":"Agriculture, Forestry & Veterinary","label_it":"Agraria e Veterinaria","keywords":["agricultur","agrari","agro","agricola","forestry","forest","sylvic","veterinary","veterinar","rural"]},
+    {"code":"ARC","label_en":"Architecture & Urban Planning","label_it":"Architettura e Urbanistica","keywords":["architecture","architettura","urban planning","urbanism"]},
+    {"code":"EDU","label_en":"Education & Sport Sciences","label_it":"Scienze della Formazione e dello Sport","keywords":["pedagog","education","teacher","physical education","sport","sports","fitness","scienze motorie"]},
+    {"code":"THEO","label_en":"Theology & Religious Studies","label_it":"Teologia e Studi Religiosi","keywords":["theolog","seminary","divinity","pontifical","islamic","bible","ecclesiast","theological"]},
+    {"code":"ICT","label_en":"Computer Science & IT","label_it":"Informatica e IT","keywords":["computer","informatics","information technology","cybernetic"]},
+    {"code":"SOC","label_en":"Social & Political Sciences","label_it":"Scienze Sociali e Politiche","keywords":["social sciences","political","public administration","international relations","sciences po"]},
+    {"code":"HUM","label_en":"Humanities & Languages","label_it":"Studi Umanistici e Lingue","keywords":["humanities","languages","linguistic","philolog","liberal arts"]},
+    {"code":"SCI","label_en":"Natural Sciences & Mathematics","label_it":"Scienze Naturali e Matematica","keywords":["natural sciences"]},
+    {"code":"COMP","label_en":"Comprehensive (multi-field)","label_it":"Generalista (multidisciplinare)","keywords":[]}
+  ]
+}

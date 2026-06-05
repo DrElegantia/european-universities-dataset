@@ -1,8 +1,10 @@
 # Sources
-Every figure in this dataset is traceable to a source below. Tuition and scholarship URLs are official ministry / agency / university pages or EU Eurydice; cost of living is Numbeo plus official student-budget/visa benchmarks; rankings are Times Higher Education 2026.
 
-## Base institution list
+Every figure is traceable to a source below. Tuition/scholarships = official ministry/agency/university pages or EU Eurydice; cost of living = Numbeo + official student-budget benchmarks; rankings = Times Higher Education 2026; base list = Hipolabs; cities = GeoNames.
+
+## Base institution list & cities
 - Hipolabs university-domains-list (MIT): https://github.com/Hipo/university-domains-list
+- GeoNames cities15000 (CC-BY 4.0): https://download.geonames.org/export/dump/
 
 ## Quality indicators (rankings)
 - Times Higher Education (THE) World University Rankings 2026: https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2026
@@ -97,46 +99,119 @@ Every figure in this dataset is traceable to a source below. Tuition and scholar
 - Montenegro: https://www.educations.com/countries/montenegro
 - Kosovo: https://www.unipage.net/en/9339/university_of_pristina
 
-## Cost of living
-- Munich (Germany): https://www.numbeo.com/cost-of-living/in/Munich
-- Munich (Germany): https://www.daad.de/en/studying-in-germany/living-in-germany/finances/
-- Heidelberg (Germany): https://www.numbeo.com/cost-of-living/in/Heidelberg
-- Paris (France): https://www.numbeo.com/cost-of-living/in/Paris
-- Paris (France): https://www.campusfrance.org/en/preparing-budget-student-France
-- Milan (Italy): https://www.numbeo.com/cost-of-living/in/Milan
-- Milan (Italy): https://www.unipd.it/en/studying-padova/funding-and-fees/living-costs
-- Bologna (Italy): https://www.numbeo.com/cost-of-living/in/Bologna
-- Rome (Italy): https://www.numbeo.com/cost-of-living/in/Rome
-- Amsterdam (Netherlands): https://www.numbeo.com/cost-of-living/in/Amsterdam
-- Amsterdam (Netherlands): https://www.studyinnl.org/finances/daily-student-expenses-and-cost-of-living-in-the-netherlands
-- Delft (Netherlands): https://www.numbeo.com/cost-of-living/in/Delft
-- Leuven (Belgium): https://www.numbeo.com/cost-of-living/in/Leuven
-- Leuven (Belgium): https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/etudes/favoris/sufficient-means-subsistence
-- Madrid (Spain): https://www.numbeo.com/cost-of-living/in/Madrid
-- Madrid (Spain): https://movingtospain.com/iprem-spain/
-- Barcelona (Spain): https://www.numbeo.com/cost-of-living/in/Barcelona
-- Vienna (Austria): https://www.numbeo.com/cost-of-living/in/Vienna
-- Vienna (Austria): https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
-- Zurich (Switzerland): https://www.numbeo.com/cost-of-living/in/Zurich
-- Zurich (Switzerland): https://www.uzh.ch/en/studies/application/entry/guidelines.html
-- Lausanne (Switzerland): https://www.numbeo.com/cost-of-living/in/Lausanne
-- Lausanne (Switzerland): https://www.study-abroad.org/blog/ch-student-visa-guide/
-- Stockholm (Sweden): https://www.numbeo.com/cost-of-living/in/Stockholm
-- Stockholm (Sweden): https://www.migrationsverket.se/en/you-want-to-apply/study/higher-education.html
-- Lund (Sweden): https://www.numbeo.com/cost-of-living/in/Lund
-- Copenhagen (Denmark): https://www.numbeo.com/cost-of-living/in/Copenhagen
-- Copenhagen (Denmark): https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-Education
-- Helsinki (Finland): https://www.numbeo.com/cost-of-living/in/Helsinki
-- Helsinki (Finland): https://migri.fi/en/income-requirement-for-students
-- Dublin (Ireland): https://www.numbeo.com/cost-of-living/in/Dublin
-- Dublin (Ireland): https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-fee-paying-private-primary-or-secondary-school/information-on-student-finances/
-- Warsaw (Poland): https://www.numbeo.com/cost-of-living/in/Warsaw
-- Warsaw (Poland): https://migrant.poznan.uw.gov.pl/en/slownik-pojec/sufficient-financial-resources-student
-- Prague (Czech Republic): https://www.numbeo.com/cost-of-living/in/Prague
-- Prague (Czech Republic): https://ipc.gov.cz/en/forms-and-documents/documents/proof-of-funds-for-the-residence-finances/
-- Lisbon (Portugal): https://www.numbeo.com/cost-of-living/in/Lisbon
-- Lisbon (Portugal): https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/means-of-subsistence
-- Coimbra (Portugal): https://www.numbeo.com/cost-of-living/in/Coimbra
+## Cost of living (Numbeo + official benchmarks)
+- Munich: https://www.numbeo.com/cost-of-living/in/Munich
+- Heidelberg: https://www.numbeo.com/cost-of-living/in/Heidelberg
+- Paris: https://www.numbeo.com/cost-of-living/in/Paris
+- Milan: https://www.numbeo.com/cost-of-living/in/Milan
+- Bologna: https://www.numbeo.com/cost-of-living/in/Bologna
+- Rome: https://www.numbeo.com/cost-of-living/in/Rome
+- Amsterdam: https://www.numbeo.com/cost-of-living/in/Amsterdam
+- Delft: https://www.numbeo.com/cost-of-living/in/Delft
+- Leuven: https://www.numbeo.com/cost-of-living/in/Leuven
+- Madrid: https://www.numbeo.com/cost-of-living/in/Madrid
+- Barcelona: https://www.numbeo.com/cost-of-living/in/Barcelona
+- Vienna: https://www.numbeo.com/cost-of-living/in/Vienna
+- Zurich: https://www.numbeo.com/cost-of-living/in/Zurich
+- Lausanne: https://www.numbeo.com/cost-of-living/in/Lausanne
+- Stockholm: https://www.numbeo.com/cost-of-living/in/Stockholm
+- Lund: https://www.numbeo.com/cost-of-living/in/Lund
+- Copenhagen: https://www.numbeo.com/cost-of-living/in/Copenhagen
+- Helsinki: https://www.numbeo.com/cost-of-living/in/Helsinki
+- Dublin: https://www.numbeo.com/cost-of-living/in/Dublin
+- Warsaw: https://www.numbeo.com/cost-of-living/in/Warsaw
+- Prague: https://www.numbeo.com/cost-of-living/in/Prague
+- Lisbon: https://www.numbeo.com/cost-of-living/in/Lisbon
+- Coimbra: https://www.numbeo.com/cost-of-living/in/Coimbra
+- London: https://www.numbeo.com/cost-of-living/in/London
+- Moscow: https://www.numbeo.com/cost-of-living/in/Moscow
+- Saint Petersburg: https://www.numbeo.com/cost-of-living/in/Saint-Petersburg
+- Berlin: https://www.numbeo.com/cost-of-living/in/Berlin
+- Toulouse: https://www.numbeo.com/cost-of-living/in/Toulouse
+- Lille: https://www.numbeo.com/cost-of-living/in/Lille
+- Lyon: https://www.numbeo.com/cost-of-living/in/Lyon
+- Bordeaux: https://www.numbeo.com/cost-of-living/in/Bordeaux
+- Wrocław: https://www.numbeo.com/cost-of-living/in/Wroclaw
+- Marseille: https://www.numbeo.com/cost-of-living/in/Marseille
+- Kraków: https://www.numbeo.com/cost-of-living/in/Krakow
+- Poznań: https://www.numbeo.com/cost-of-living/in/Poznan
+- Brussels: https://www.numbeo.com/cost-of-living/in/Brussels
+- Strasbourg: https://www.numbeo.com/cost-of-living/in/Strasbourg
+- Athens: https://www.numbeo.com/cost-of-living/in/Athens
+- Budapest: https://www.numbeo.com/cost-of-living/in/Budapest
+- Bucharest: https://www.numbeo.com/cost-of-living/in/Bucharest
+- Samara: https://www.numbeo.com/cost-of-living/in/Samara
+- Bratislava: https://www.numbeo.com/cost-of-living/in/Bratislava
+- Kharkiv: https://www.numbeo.com/cost-of-living/in/Kharkiv
+- Rennes: https://www.numbeo.com/cost-of-living/in/Rennes
+- Nancy: https://www.numbeo.com/cost-of-living/in/Nancy
+- Hamburg: https://www.numbeo.com/cost-of-living/in/Hamburg
+- Łódź: https://www.numbeo.com/cost-of-living/in/Lodz
+- Clermont-Ferrand: https://www.numbeo.com/cost-of-living/in/Clermont-Ferrand
+- Hannover: https://www.numbeo.com/cost-of-living/in/Hanover
+- Baden-Baden: https://www.numbeo.com/cost-of-living/in/Baden-Baden
+- Gdańsk: https://www.numbeo.com/cost-of-living/in/Gdansk
+- Kazan: https://www.numbeo.com/cost-of-living/in/Kazan
+- Odesa: https://www.numbeo.com/cost-of-living/in/Odesa
+- Kyiv: https://www.numbeo.com/cost-of-living/in/Kiev
+- Århus: https://www.numbeo.com/cost-of-living/in/Aarhus
+- Montpellier: https://www.numbeo.com/cost-of-living/in/Montpellier
+- Leipzig: https://www.numbeo.com/cost-of-living/in/Leipzig
+- Köln: https://www.numbeo.com/cost-of-living/in/Cologne
+- Stuttgart: https://www.numbeo.com/cost-of-living/in/Stuttgart
+- Katowice: https://www.numbeo.com/cost-of-living/in/Katowice
+- Lublin: https://www.numbeo.com/cost-of-living/in/Lublin
+- Szczecin: https://www.numbeo.com/cost-of-living/in/Szczecin
+- Cluj-Napoca: https://www.numbeo.com/cost-of-living/in/Cluj-Napoca
+- Iaşi: https://www.numbeo.com/cost-of-living/in/Iasi
+- Volgograd: https://www.numbeo.com/cost-of-living/in/Volgograd
+- Novosibirsk: https://www.numbeo.com/cost-of-living/in/Novosibirsk
+- Yaroslavl: https://www.numbeo.com/cost-of-living/in/Yaroslavl
+- Nizhniy Novgorod: https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia
+- Saratov: https://www.numbeo.com/cost-of-living/in/Saratov
+- Omsk: https://www.numbeo.com/cost-of-living/in/Omsk
+- Voronezh: https://www.numbeo.com/cost-of-living/in/Voronezh
+- Tirana: https://www.numbeo.com/cost-of-living/in/Tirana
+- Sofia: https://www.numbeo.com/cost-of-living/in/Sofia
+- Timişoara: https://www.numbeo.com/cost-of-living/in/Timisoara
+- Ivanovo: https://www.numbeo.com/cost-of-living/in/Ivanovo
+- Perm: https://www.numbeo.com/cost-of-living/in/Perm
+- Tomsk: https://www.numbeo.com/cost-of-living/in/Tomsk
+- Ulyanovsk: https://www.numbeo.com/cost-of-living/in/Ulyanovsk
+- Geneva: https://www.numbeo.com/cost-of-living/in/Geneva
+- Graz: https://www.numbeo.com/cost-of-living/in/Graz
+- Vitebsk: https://www.numbeo.com/cost-of-living/in/Vitebsk
+- Antwerpen: https://www.numbeo.com/cost-of-living/in/Antwerp
+- Sarajevo: https://www.numbeo.com/cost-of-living/in/Sarajevo
+- Varna: https://www.numbeo.com/cost-of-living/in/Varna
+- Nantes: https://www.numbeo.com/cost-of-living/in/Nantes
+- Darmstadt: https://www.numbeo.com/cost-of-living/in/Darmstadt
+- Freiburg: https://www.numbeo.com/cost-of-living/in/Freiburg-Im-Breisgau
+- Frankfurt am Main: https://www.numbeo.com/cost-of-living/in/Frankfurt
+- Karlsruhe: https://www.numbeo.com/cost-of-living/in/Karlsruhe
+- Lübeck: https://www.numbeo.com/cost-of-living/in/Lubeck
+- Mannheim: https://www.numbeo.com/cost-of-living/in/Mannheim
+- Bremen: https://www.numbeo.com/cost-of-living/in/Bremen
+- Debrecen: https://www.numbeo.com/cost-of-living/in/Debrecen
+- Riga: https://www.numbeo.com/cost-of-living/in/Riga
+- Vilnius: https://www.numbeo.com/cost-of-living/in/Vilnius
+- Rotterdam: https://www.numbeo.com/cost-of-living/in/Rotterdam
+- Oslo: https://www.numbeo.com/cost-of-living/in/Oslo
+- Białystok: https://www.numbeo.com/cost-of-living/in/Bialystok
+- Valencia: https://www.numbeo.com/cost-of-living/in/Valencia
+- Lviv: https://www.numbeo.com/cost-of-living/in/Lviv
+- Salzburg: https://www.numbeo.com/cost-of-living/in/Salzburg
+- Innsbruck: https://www.numbeo.com/cost-of-living/in/Innsbruck
+- Linz: https://www.numbeo.com/cost-of-living/in/Linz
+- Hrodna: https://www.numbeo.com/cost-of-living/in/Grodno
+- Homyel': https://www.numbeo.com/cost-of-living/in/Gomel
+- Mons: https://www.numbeo.com/cost-of-living/in/Mons
+- Gent: https://www.numbeo.com/cost-of-living/in/Ghent
+- Plovdiv: https://www.numbeo.com/cost-of-living/in/Plovdiv
+- Zagreb: https://www.numbeo.com/cost-of-living/in/Zagreb
+- Tampere: https://www.numbeo.com/cost-of-living/in/Tampere
+- Rouen: https://www.numbeo.com/cost-of-living/in/Rouen
+- Angers: https://www.numbeo.com/cost-of-living/in/Angers
 
 ## Scholarships
 - Erasmus+ Mobility Grant (study abroad): https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/studying-abroad
@@ -160,7 +235,7 @@ Every figure in this dataset is traceable to a source below. Tuition and scholar
 - Czech Republic - Government Scholarships for Developing Countries: https://msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries?lang=2
 - Portugal - Camoes Institute Scholarships: https://www.instituto-camoes.pt/en/index.php?Itemid=2581
 
-## Reference datasets (not all redistributed; used for framework/validation)
+## Reference datasets
 - ETER - European Tertiary Education Register (Open access (EU reuse terms)): https://national-policies.eacea.ec.europa.eu/eheso/micro-data-access
 - Eurostat - Education finance and enrolment (UOE, educ_uoe_*) (Eurostat reuse policy (CC-BY-style)): https://ec.europa.eu/eurostat/web/education-training/database
 - Eurydice - National Student Fee and Support Systems (EU reuse (CC-BY-style)): https://eurydice.eacea.ec.europa.eu/data-and-visuals/national-student-fees

@@ -1,0 +1,452 @@
+[
+  {
+    "city": "London",
+    "country_code": "GB",
+    "currency": "GBP",
+    "monthly_rent_eur": 1993.6,
+    "monthly_other_eur": 1284.4,
+    "monthly_total_eur": 3278.0,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/London",
+    "access_note": "rent 1,723.21 GBP converted at Numbeo internal rate 1 GBP=1.15691 EUR (derived from this page's single-person EUR/GBP pair)"
+  },
+  {
+    "city": "Moscow",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 735.51,
+    "monthly_other_eur": 772.5,
+    "monthly_total_eur": 1508.01,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Moscow",
+    "access_note": "rent 62,514.29 RUB converted at Numbeo internal rate 1 RUB=0.01177 EUR (derived from this page's single-person EUR/RUB pair)"
+  },
+  {
+    "city": "Saint Petersburg",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 465.37,
+    "monthly_other_eur": 649.3,
+    "monthly_total_eur": 1114.67,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg",
+    "access_note": "rent 39,551.72 RUB converted at Numbeo internal rate 1 RUB=0.01177 EUR (derived from this page's single-person EUR/RUB pair)"
+  },
+  {
+    "city": "Berlin",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": 925.77,
+    "monthly_other_eur": 1047.0,
+    "monthly_total_eur": 1972.77,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Berlin",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Toulouse",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 592.15,
+    "monthly_other_eur": 977.8,
+    "monthly_total_eur": 1569.95,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Toulouse",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Lille",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 624.67,
+    "monthly_other_eur": 913.9,
+    "monthly_total_eur": 1538.57,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Lille",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Lyon",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 589.56,
+    "monthly_other_eur": 1032.9,
+    "monthly_total_eur": 1622.46,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Lyon",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Bordeaux",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 682.0,
+    "monthly_other_eur": 959.1,
+    "monthly_total_eur": 1641.1,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Bordeaux",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Wrocław",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 641.16,
+    "monthly_other_eur": 780.6,
+    "monthly_total_eur": 1421.76,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Wroclaw",
+    "access_note": "rent 2,716.82 PLN converted at Numbeo internal rate 1 PLN=0.23599 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Marseille",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 579.0,
+    "monthly_other_eur": 1006.5,
+    "monthly_total_eur": 1585.5,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Marseille",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Kraków",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Krakow",
+    "access_note": "not fetched: Numbeo HTTP 429 rate-limit block on this IP at run time"
+  },
+  {
+    "city": "Poznań",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 571.33,
+    "monthly_other_eur": 715.1,
+    "monthly_total_eur": 1286.43,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Poznan",
+    "access_note": "rent 2,420.91 PLN converted at Numbeo internal rate 1 PLN=0.23600 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Zürich",
+    "country_code": "CH",
+    "currency": "CHF",
+    "monthly_rent_eur": 2077.67,
+    "monthly_other_eur": 1665.8,
+    "monthly_total_eur": 3743.47,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Zurich",
+    "access_note": "rent 1,909.29 CHF converted at Numbeo internal rate 1 CHF=1.08819 EUR (derived from this page's single-person EUR/CHF pair)"
+  },
+  {
+    "city": "Brussels",
+    "country_code": "BE",
+    "currency": "EUR",
+    "monthly_rent_eur": 986.84,
+    "monthly_other_eur": 1012.2,
+    "monthly_total_eur": 1999.04,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Brussels",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Strasbourg",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 645.11,
+    "monthly_other_eur": 1046.2,
+    "monthly_total_eur": 1691.31,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Strasbourg",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Athens",
+    "country_code": "GR",
+    "currency": "EUR",
+    "monthly_rent_eur": 527.69,
+    "monthly_other_eur": 836.7,
+    "monthly_total_eur": 1364.39,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Athens",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Budapest",
+    "country_code": "HU",
+    "currency": "HUF",
+    "monthly_rent_eur": 609.53,
+    "monthly_other_eur": 780.3,
+    "monthly_total_eur": 1389.83,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Budapest",
+    "access_note": "rent 216,509.60 HUF converted at Numbeo internal rate 1 HUF=0.00282 EUR (derived from this page's single-person EUR/HUF pair)"
+  },
+  {
+    "city": "Bucharest",
+    "country_code": "RO",
+    "currency": "RON",
+    "monthly_rent_eur": 405.39,
+    "monthly_other_eur": 661.7,
+    "monthly_total_eur": 1067.09,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Bucharest",
+    "access_note": "rent 2,126.42 RON converted at Numbeo internal rate 1 RON=0.19064 EUR (derived from this page's single-person EUR/RON pair)"
+  },
+  {
+    "city": "Samara",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Samara",
+    "access_note": "rent 28,333.33 RUB present but no FX pair on page to convert; Numbeo did not display 'single person estimated monthly costs' (insufficient data); monthly_other_eur null"
+  },
+  {
+    "city": "Bratislava",
+    "country_code": "SK",
+    "currency": "EUR",
+    "monthly_rent_eur": 722.31,
+    "monthly_other_eur": 841.0,
+    "monthly_total_eur": 1563.31,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Bratislava",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Kharkiv",
+    "country_code": "UA",
+    "currency": "UAH",
+    "monthly_rent_eur": 130.03,
+    "monthly_other_eur": 382.6,
+    "monthly_total_eur": 512.63,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Kharkiv",
+    "access_note": "rent 6,684.44 UAH converted at Numbeo internal rate 1 UAH=0.01945 EUR (derived from this page's single-person EUR/UAH pair)"
+  },
+  {
+    "city": "Rennes",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 521.2,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Rennes",
+    "access_note": "Numbeo did not display 'single person estimated monthly costs' (insufficient data); monthly_other_eur null"
+  },
+  {
+    "city": "Nancy",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 408.33,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Nancy",
+    "access_note": "Numbeo did not display 'single person estimated monthly costs' (insufficient data); monthly_other_eur null"
+  },
+  {
+    "city": "Hamburg",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": 870.64,
+    "monthly_other_eur": 1019.5,
+    "monthly_total_eur": 1890.14,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Hamburg",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Łódź",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 423.14,
+    "monthly_other_eur": 757.2,
+    "monthly_total_eur": 1180.34,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Lodz",
+    "access_note": "rent 1,793.08 PLN converted at Numbeo internal rate 1 PLN=0.23598 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Clermont-Ferrand",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 483.33,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Clermont-Ferrand",
+    "access_note": "Numbeo did not display 'single person estimated monthly costs' (insufficient data); monthly_other_eur null"
+  },
+  {
+    "city": "Hannover",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": 655.75,
+    "monthly_other_eur": 975.7,
+    "monthly_total_eur": 1631.45,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Hanover",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Baden-Baden",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Baden-Baden",
+    "access_note": "not fetched: Numbeo HTTP 429 rate-limit block on this IP at run time"
+  },
+  {
+    "city": "Gdańsk",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 686.76,
+    "monthly_other_eur": 788.4,
+    "monthly_total_eur": 1475.16,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Gdansk",
+    "access_note": "rent 2,910.00 PLN converted at Numbeo internal rate 1 PLN=0.23600 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Kazan",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 348.57,
+    "monthly_other_eur": 583.8,
+    "monthly_total_eur": 932.37,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Kazan",
+    "access_note": "rent 29,625.00 RUB converted at Numbeo internal rate 1 RUB=0.01177 EUR (derived from this page's single-person EUR/RUB pair)"
+  },
+  {
+    "city": "Odesa",
+    "country_code": "UA",
+    "currency": "UAH",
+    "monthly_rent_eur": 166.34,
+    "monthly_other_eur": 438.6,
+    "monthly_total_eur": 604.94,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Odesa",
+    "access_note": "rent 8,551.67 UAH converted at Numbeo internal rate 1 UAH=0.01945 EUR (derived from this page's single-person EUR/UAH pair)"
+  },
+  {
+    "city": "Kyiv",
+    "country_code": "UA",
+    "currency": "UAH",
+    "monthly_rent_eur": 321.64,
+    "monthly_other_eur": 461.7,
+    "monthly_total_eur": 783.34,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Kiev",
+    "access_note": "rent 16,534.22 UAH converted at Numbeo internal rate 1 UAH=0.01945 EUR (derived from this page's single-person EUR/UAH pair)"
+  },
+  {
+    "city": "Århus",
+    "country_code": "DK",
+    "currency": "DKK",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Aarhus",
+    "access_note": "not fetched: Numbeo HTTP 429 rate-limit block on this IP at run time"
+  },
+  {
+    "city": "Montpellier",
+    "country_code": "FR",
+    "currency": "EUR",
+    "monthly_rent_eur": 660.8,
+    "monthly_other_eur": 877.1,
+    "monthly_total_eur": 1537.9,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Montpellier",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Leipzig",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": 523.33,
+    "monthly_other_eur": 986.4,
+    "monthly_total_eur": 1509.73,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Leipzig",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Köln",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": 759.44,
+    "monthly_other_eur": 1054.7,
+    "monthly_total_eur": 1814.14,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Cologne",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Stuttgart",
+    "country_code": "DE",
+    "currency": "EUR",
+    "monthly_rent_eur": 744.18,
+    "monthly_other_eur": 1022.7,
+    "monthly_total_eur": 1766.88,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Stuttgart",
+    "access_note": "values read directly from Numbeo page (rent and single-person costs both in EUR)"
+  },
+  {
+    "city": "Katowice",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 454.67,
+    "monthly_other_eur": 650.9,
+    "monthly_total_eur": 1105.57,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Katowice",
+    "access_note": "rent 1,926.67 PLN converted at Numbeo internal rate 1 PLN=0.23599 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Lublin",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 496.16,
+    "monthly_other_eur": 683.6,
+    "monthly_total_eur": 1179.76,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Lublin",
+    "access_note": "rent 2,102.50 PLN converted at Numbeo internal rate 1 PLN=0.23598 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Szczecin",
+    "country_code": "PL",
+    "currency": "PLN",
+    "monthly_rent_eur": 451.93,
+    "monthly_other_eur": 677.0,
+    "monthly_total_eur": 1128.93,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Szczecin",
+    "access_note": "rent 1,915.00 PLN converted at Numbeo internal rate 1 PLN=0.23600 EUR (derived from this page's single-person EUR/PLN pair)"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "country_code": "RO",
+    "currency": "RON",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Cluj-Napoca",
+    "access_note": "not fetched: Numbeo HTTP 429 rate-limit block on this IP at run time"
+  },
+  {
+    "city": "Iaşi",
+    "country_code": "RO",
+    "currency": "RON",
+    "monthly_rent_eur": 377.79,
+    "monthly_other_eur": 600.1,
+    "monthly_total_eur": 977.89,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Iasi",
+    "access_note": "rent 1,981.67 RON converted at Numbeo internal rate 1 RON=0.19064 EUR (derived from this page's single-person EUR/RON pair)"
+  },
+  {
+    "city": "Volgograd",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Volgograd",
+    "access_note": "not fetched: Numbeo HTTP 429 rate-limit block on this IP at run time"
+  },
+  {
+    "city": "Novosibirsk",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": 350.01,
+    "monthly_other_eur": 618.5,
+    "monthly_total_eur": 968.51,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Novosibirsk",
+    "access_note": "rent 29,750.00 RUB converted at Numbeo internal rate 1 RUB=0.01177 EUR (derived from this page's single-person EUR/RUB pair)"
+  },
+  {
+    "city": "Yaroslavl",
+    "country_code": "RU",
+    "currency": "RUB",
+    "monthly_rent_eur": null,
+    "monthly_other_eur": null,
+    "monthly_total_eur": null,
+    "source_numbeo_url": "https://www.numbeo.com/cost-of-living/in/Yaroslavl",
+    "access_note": "not fetched: Numbeo HTTP 429 rate-limit block on this IP at run time"
+  }
+]

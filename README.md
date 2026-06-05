@@ -1,46 +1,48 @@
 # European Universities Dataset
 
-Structured, **source-cited** data on European universities: institutions, tuition fees, student cost of living, scholarships and quality indicators (rankings). Built as a clean data layer for a web app to be developed on top (e.g. a "study in Europe" cost/quality explorer).
+Structured, **source-cited**, **bilingual (IT/EN)** data on European universities: institutions (with city, coordinates and a controlled field category), tuition fees (numeric EUR ranges), student cost of living per city, scholarships and quality indicators (Times Higher Education rankings). Built as a clean data layer for a web app on top (a "study in Europe" cost/quality explorer).
 
-The data is **relational**: a base list of all European universities, plus dimension tables you join to it by `country` / `country_code` / `city` / university name. Most public-university tuition in Europe is set at the **country level** (country × cycle × EU/non-EU), so tuition lives in a per-country table; institution-specific exceptions (e.g. non-EU engineering fees, English-taught medicine) are in a separate table.
+The data is **relational**: a base list of all European universities plus dimension tables joined by `country_code` / `city` / university name. Most public-university tuition in Europe is set at the **country level** (country × cycle × EU/non-EU), so tuition lives in a per-country table; institution-specific exceptions are separate.
 
-## What's inside
+## What's inside (`data/`)
 
-| File (`data/`) | Rows | What it is |
+| File | Rows | What it is |
 |---|---|---|
-| `universities.csv` | 2392 | Every European university (name, country, domain, website) + THE world rank & overall score where matched |
-| `tuition_by_country.csv` | 45 | Tuition framework per country: bachelor/master × EU/non-EU, basis, official student budget, notes, sources |
-| `tuition_exceptions.csv` | 29 | Institution-specific tuition where it differs from the national rule (with source URL each) |
-| `cost_of_living_city.csv` | 23 | Monthly student cost of living per city (rent / other / total), Numbeo + official budget, with access notes |
-| `cost_of_living_country.csv` | 26 | Official national student-budget / visa financial-means benchmark per country |
-| `scholarships.csv` | 20 | EU-wide (Erasmus+, Erasmus Mundus) + national scholarships, with eligibility and source |
-| `faculties.csv` | 120 | Main faculties/fields for 24 reference universities |
-| `university_rankings.csv` | 1043 | Times Higher Education 2026 quality indicators for every ranked European university |
-| `dataset.json` | - | All of the above in one JSON, plus `meta` |
+| `universities.csv` | 2392 | Every European university: name, country, **city + lat/lon**, **field_category** (controlled, IT+EN), domain, website, THE world rank + overall score |
+| `tuition_by_country.csv` | 45 | Tuition per country as **numeric EUR min/max** for bachelor/master × EU/non-EU + `fee_type` + `data_quality` + bilingual notes |
+| `tuition_exceptions.csv` | 29 | Institution-specific tuition where it differs from the national rule (each with source) |
+| `cost_of_living_city.csv` | 66 | Monthly student cost of living per city (rent / other / total), Numbeo, with access notes |
+| `cost_of_living_country.csv` | 26 | Official national student-budget / visa benchmark per country (fallback) |
+| `scholarships.csv` | 20 | EU-wide + national scholarships, coverage & eligibility **in IT and EN**, with source |
+| `faculties.csv` | 120 | Faculties for 24 reference universities, each mapped to a `field_category` |
+| `field_taxonomy.csv` | 14 | The controlled field vocabulary (code, label_en, label_it) |
+| `university_rankings.csv` | 1043 | THE 2026 quality indicators for every ranked European university |
+| `i18n.json` | - | UI strings + enum labels (field categories, fee_type, data_quality) in EN/IT |
+| `dataset.json` | - | Everything in one JSON, plus `meta` |
 
-`raw/` keeps the **original sourced research** (one JSON per dimension) so every figure is traceable. `build_dataset.py` reshapes `raw/` + the upstream base list into `data/`. Re-run with `python3 build_dataset.py`.
+`raw/` keeps the original sourced research; `build_dataset.py` regenerates `data/` from `raw/` (run `python3 build_dataset.py`). `assign_cities.py` derives the city per university from the GeoNames gazetteer.
 
 ## How to join (for the app)
 
-- **University → tuition**: `universities.country_code` → `tuition_by_country.country_code`
-- **University → institution-specific tuition**: match `tuition_exceptions.university` to `universities.name` (fall back to the country framework when absent)
-- **University → cost of living**: by `city` to `cost_of_living_city`, else by `country_code` to `cost_of_living_country`
-- **University → scholarships**: EU-wide rows (`scope = EU-wide`) apply to all; national rows by `country`
-- **University → quality**: `universities.the_world_rank` / `the_overall_score` (already joined), or full detail via `university_rankings.matched_university_id` → `universities.id`
+- **University → tuition**: `universities.country_code` → `tuition_by_country.country_code`. Use the numeric `*_min_eur` / `*_max_eur` columns for price filters; show `fee_type` and a `data_quality` badge.
+- **University → institution-specific tuition**: match `tuition_exceptions.university` to `universities.name`; show it instead of the country framework when present.
+- **University → cost of living**: by `universities.city` → `cost_of_living_city.city` (same country_code); **if the city is not present, fall back** to `cost_of_living_country` by `country_code`.
+- **University → field filter**: `universities.field_category` (one of the 14 codes in `field_taxonomy.csv`). Every university has exactly one, so the filter has clean buckets.
+- **University → scholarships**: `scope = EU-wide` rows apply to all; `national` rows by `country`.
+- **University → quality**: `universities.the_world_rank` / `the_overall_score`, full pillar scores via `university_rankings.matched_university_id` → `universities.id`.
+- **Map**: `universities.lat` / `lon` (city-level coordinates) for the 1540 universities with a resolved city.
 
-## Important data caveats (read before building UI copy)
+## Important data caveats
 
-- **Tuition granularity.** For most European **public** universities tuition is uniform across faculties and set nationally; only the cases in `tuition_exceptions.csv` (and non-EU / English-taught / medicine programmes) differ. Do not present a per-faculty fee unless it exists in the exceptions table.
-- **EU vs non-EU.** "EU" columns mean home/EU/EEA students; "non-EU" means third-country. Post-Brexit, EU students in the UK pay **international** rates.
-- **`not found` / `not researched`.** Where no authoritative figure exists, the field says so explicitly. Never render these as `0` or invent a number.
-- **Ranking coverage.** Only ~1,043 of the 2,392 universities are ranked by THE; the rest legitimately have no quality score. 474 were auto-matched to the base list by name (Jaccard ≥ 0.6, precision-first); the full 1,043 remain in `university_rankings.csv`.
-- **Cost of living** is a point-in-time estimate (Numbeo, accessed June 2026) plus official student-budget benchmarks; treat as indicative, not a guaranteed budget.
-- **Currencies.** Non-euro countries show EUR-converted figures with the original currency and conversion noted in `notes` / `access_note`.
+- **No invented numbers.** Where no authoritative figure exists the field is empty and `data_quality` says `not_available` / `partial`. International (non-EU) fees in several Eastern-European countries are HEI-set ranges flagged `indicative` (from official study portals), not flat tariffs. Never render an empty value as `0`.
+- **EU vs non-EU.** `*_eu_*` = home/EU/EEA (for non-EU countries this means domestic/state-funded); `*_noneu_*` = international. Post-Brexit, EU students in the UK pay international rates.
+- **Field category is institution-level**, classified from the university name (e.g. "Technical University" → Engineering & Technology; general universities → Comprehensive). It is the institution's primary character, not an exhaustive programme list. ~62% of fields are Comprehensive.
+- **City** is derived from the university name via GeoNames (1540 of 2392 resolved; the rest fall back to national cost of living). Coordinates are city-level, not campus-level.
+- **Cost of living** is a point-in-time Numbeo estimate (accessed June 2026) plus official student-budget benchmarks; indicative, not a guaranteed budget. 66 cities have city-level data; uncovered cities use the national figure. (Numbeo rate-limited the run, so coverage can be extended later.)
+- **Currencies.** Non-euro countries show EUR-converted figures with the original currency in `currency` and details in the notes.
 
 ## Sources
 
-Every figure is traceable to an official or standard source. See `SOURCES.md` for the full list. Primary sources: national study portals and ministries, EU **Eurydice** national-fee pages, university fee pages, **Numbeo** (cost of living), **Times Higher Education** 2026 (rankings), **Hipolabs** university-domains-list (base institution list, MIT).
+Every figure is traceable. See `SOURCES.md`. Primary sources: national study portals and ministries, EU Eurydice national-fee pages, university fee pages, Numbeo (cost of living), Times Higher Education 2026 (rankings), Hipolabs university-domains-list (base list, MIT), GeoNames (cities, CC-BY).
 
-## Field definitions
-
-See `SCHEMA.md`.
+See `SCHEMA.md` for field definitions.

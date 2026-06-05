@@ -1,0 +1,210 @@
+{
+ "field_categories": {
+  "MED": {
+   "en": "Medicine & Health",
+   "it": "Medicina e Salute"
+  },
+  "ENG": {
+   "en": "Engineering & Technology",
+   "it": "Ingegneria e Tecnologia"
+  },
+  "ART": {
+   "en": "Arts, Design & Music",
+   "it": "Arte, Design e Musica"
+  },
+  "BUS": {
+   "en": "Business, Economics & Management",
+   "it": "Economia e Management"
+  },
+  "LAW": {
+   "en": "Law",
+   "it": "Giurisprudenza"
+  },
+  "AGR": {
+   "en": "Agriculture, Forestry & Veterinary",
+   "it": "Agraria e Veterinaria"
+  },
+  "ARC": {
+   "en": "Architecture & Urban Planning",
+   "it": "Architettura e Urbanistica"
+  },
+  "EDU": {
+   "en": "Education & Sport Sciences",
+   "it": "Scienze della Formazione e dello Sport"
+  },
+  "THEO": {
+   "en": "Theology & Religious Studies",
+   "it": "Teologia e Studi Religiosi"
+  },
+  "ICT": {
+   "en": "Computer Science & IT",
+   "it": "Informatica e IT"
+  },
+  "SOC": {
+   "en": "Social & Political Sciences",
+   "it": "Scienze Sociali e Politiche"
+  },
+  "HUM": {
+   "en": "Humanities & Languages",
+   "it": "Studi Umanistici e Lingue"
+  },
+  "SCI": {
+   "en": "Natural Sciences & Mathematics",
+   "it": "Scienze Naturali e Matematica"
+  },
+  "COMP": {
+   "en": "Comprehensive (multi-field)",
+   "it": "Generalista (multidisciplinare)"
+  }
+ },
+ "fee_type": {
+  "free": {
+   "en": "Free",
+   "it": "Gratis"
+  },
+  "flat": {
+   "en": "Flat fee",
+   "it": "Tariffa fissa"
+  },
+  "income_based": {
+   "en": "Income-based",
+   "it": "In base al reddito"
+  },
+  "per_credit": {
+   "en": "Per credit (ECTS)",
+   "it": "Per credito (ECTS)"
+  },
+  "free_or_paid": {
+   "en": "Free in national language / paid otherwise",
+   "it": "Gratis in lingua nazionale / a pagamento altrimenti"
+  },
+  "state_funded_or_paid": {
+   "en": "State-funded places + fee-paying places",
+   "it": "Posti finanziati dallo Stato + posti a pagamento"
+  }
+ },
+ "data_quality": {
+  "official": {
+   "en": "Official",
+   "it": "Ufficiale"
+  },
+  "official_range": {
+   "en": "Official (range)",
+   "it": "Ufficiale (intervallo)"
+  },
+  "indicative": {
+   "en": "Indicative (portal)",
+   "it": "Indicativo (portale)"
+  },
+  "partial": {
+   "en": "Home official, intl not published",
+   "it": "Nazionale ufficiale, internazionale non pubblicato"
+  },
+  "not_available": {
+   "en": "Not available",
+   "it": "Non disponibile"
+  }
+ },
+ "ui": {
+  "app_title": {
+   "en": "EduMap Europe",
+   "it": "EduMap Europe"
+  },
+  "search": {
+   "en": "Search universities",
+   "it": "Cerca universita"
+  },
+  "country": {
+   "en": "Country",
+   "it": "Paese"
+  },
+  "city": {
+   "en": "City",
+   "it": "Citta"
+  },
+  "field": {
+   "en": "Field",
+   "it": "Ambito"
+  },
+  "tuition": {
+   "en": "Tuition",
+   "it": "Retta"
+  },
+  "cost_of_living": {
+   "en": "Cost of living",
+   "it": "Costo della vita"
+  },
+  "scholarships": {
+   "en": "Scholarships",
+   "it": "Borse di studio"
+  },
+  "ranking": {
+   "en": "Ranking (THE)",
+   "it": "Classifica (THE)"
+  },
+  "bachelor": {
+   "en": "Bachelor",
+   "it": "Triennale"
+  },
+  "master": {
+   "en": "Master",
+   "it": "Magistrale"
+  },
+  "eu_students": {
+   "en": "EU / home students",
+   "it": "Studenti UE / nazionali"
+  },
+  "noneu_students": {
+   "en": "Non-EU students",
+   "it": "Studenti extra-UE"
+  },
+  "per_month": {
+   "en": "per month",
+   "it": "al mese"
+  },
+  "per_year": {
+   "en": "per year",
+   "it": "all'anno"
+  },
+  "rent": {
+   "en": "Rent",
+   "it": "Affitto"
+  },
+  "other_costs": {
+   "en": "Other costs",
+   "it": "Altre spese"
+  },
+  "data_not_available": {
+   "en": "Data not available",
+   "it": "Dato non disponibile"
+  },
+  "source": {
+   "en": "Source",
+   "it": "Fonte"
+  },
+  "compare": {
+   "en": "Compare",
+   "it": "Confronta"
+  },
+  "world_rank": {
+   "en": "World rank",
+   "it": "Posizione mondiale"
+  },
+  "overall_score": {
+   "en": "Overall score",
+   "it": "Punteggio complessivo"
+  },
+  "ranked_only": {
+   "en": "Ranked only",
+   "it": "Solo classificate"
+  },
+  "city_estimate": {
+   "en": "City estimate",
+   "it": "Stima citta"
+  },
+  "country_estimate_fallback": {
+   "en": "National estimate (no city data)",
+   "it": "Stima nazionale (nessun dato citta)"
+  }
+ }
+}

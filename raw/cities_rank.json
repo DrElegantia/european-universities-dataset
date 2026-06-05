@@ -1,0 +1,3297 @@
+[
+ {
+  "city": "London",
+  "country_code": "GB",
+  "university_count": 46
+ },
+ {
+  "city": "Paris",
+  "country_code": "FR",
+  "university_count": 39
+ },
+ {
+  "city": "Moscow",
+  "country_code": "RU",
+  "university_count": 34
+ },
+ {
+  "city": "Saint Petersburg",
+  "country_code": "RU",
+  "university_count": 33
+ },
+ {
+  "city": "Warsaw",
+  "country_code": "PL",
+  "university_count": 20
+ },
+ {
+  "city": "Berlin",
+  "country_code": "DE",
+  "university_count": 15
+ },
+ {
+  "city": "Toulouse",
+  "country_code": "FR",
+  "university_count": 13
+ },
+ {
+  "city": "Lille",
+  "country_code": "FR",
+  "university_count": 13
+ },
+ {
+  "city": "Vienna",
+  "country_code": "AT",
+  "university_count": 11
+ },
+ {
+  "city": "Lyon",
+  "country_code": "FR",
+  "university_count": 11
+ },
+ {
+  "city": "Bordeaux",
+  "country_code": "FR",
+  "university_count": 11
+ },
+ {
+  "city": "Wrocław",
+  "country_code": "PL",
+  "university_count": 10
+ },
+ {
+  "city": "Marseille",
+  "country_code": "FR",
+  "university_count": 10
+ },
+ {
+  "city": "Prague",
+  "country_code": "CZ",
+  "university_count": 10
+ },
+ {
+  "city": "Kraków",
+  "country_code": "PL",
+  "university_count": 10
+ },
+ {
+  "city": "Poznań",
+  "country_code": "PL",
+  "university_count": 10
+ },
+ {
+  "city": "Lisbon",
+  "country_code": "PT",
+  "university_count": 10
+ },
+ {
+  "city": "Zürich",
+  "country_code": "CH",
+  "university_count": 10
+ },
+ {
+  "city": "Brussels",
+  "country_code": "BE",
+  "university_count": 9
+ },
+ {
+  "city": "Strasbourg",
+  "country_code": "FR",
+  "university_count": 9
+ },
+ {
+  "city": "Munich",
+  "country_code": "DE",
+  "university_count": 9
+ },
+ {
+  "city": "Athens",
+  "country_code": "GR",
+  "university_count": 9
+ },
+ {
+  "city": "Budapest",
+  "country_code": "HU",
+  "university_count": 9
+ },
+ {
+  "city": "Bucharest",
+  "country_code": "RO",
+  "university_count": 9
+ },
+ {
+  "city": "Samara",
+  "country_code": "RU",
+  "university_count": 9
+ },
+ {
+  "city": "Bratislava",
+  "country_code": "SK",
+  "university_count": 9
+ },
+ {
+  "city": "Kharkiv",
+  "country_code": "UA",
+  "university_count": 8
+ },
+ {
+  "city": "Rennes",
+  "country_code": "FR",
+  "university_count": 8
+ },
+ {
+  "city": "Nancy",
+  "country_code": "FR",
+  "university_count": 8
+ },
+ {
+  "city": "Hamburg",
+  "country_code": "DE",
+  "university_count": 8
+ },
+ {
+  "city": "Łódź",
+  "country_code": "PL",
+  "university_count": 8
+ },
+ {
+  "city": "Leuven",
+  "country_code": "BE",
+  "university_count": 7
+ },
+ {
+  "city": "Clermont-Ferrand",
+  "country_code": "FR",
+  "university_count": 7
+ },
+ {
+  "city": "Hannover",
+  "country_code": "DE",
+  "university_count": 7
+ },
+ {
+  "city": "Baden-Baden",
+  "country_code": "DE",
+  "university_count": 7
+ },
+ {
+  "city": "Gdańsk",
+  "country_code": "PL",
+  "university_count": 7
+ },
+ {
+  "city": "Kazan",
+  "country_code": "RU",
+  "university_count": 7
+ },
+ {
+  "city": "Odesa",
+  "country_code": "UA",
+  "university_count": 7
+ },
+ {
+  "city": "Kyiv",
+  "country_code": "UA",
+  "university_count": 7
+ },
+ {
+  "city": "Århus",
+  "country_code": "DK",
+  "university_count": 6
+ },
+ {
+  "city": "Montpellier",
+  "country_code": "FR",
+  "university_count": 6
+ },
+ {
+  "city": "Leipzig",
+  "country_code": "DE",
+  "university_count": 6
+ },
+ {
+  "city": "Köln",
+  "country_code": "DE",
+  "university_count": 6
+ },
+ {
+  "city": "Stuttgart",
+  "country_code": "DE",
+  "university_count": 6
+ },
+ {
+  "city": "Dublin",
+  "country_code": "IE",
+  "university_count": 6
+ },
+ {
+  "city": "Katowice",
+  "country_code": "PL",
+  "university_count": 6
+ },
+ {
+  "city": "Lublin",
+  "country_code": "PL",
+  "university_count": 6
+ },
+ {
+  "city": "Szczecin",
+  "country_code": "PL",
+  "university_count": 6
+ },
+ {
+  "city": "Cluj-Napoca",
+  "country_code": "RO",
+  "university_count": 6
+ },
+ {
+  "city": "Iaşi",
+  "country_code": "RO",
+  "university_count": 6
+ },
+ {
+  "city": "Volgograd",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Novosibirsk",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Yaroslavl",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Nizhniy Novgorod",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Saratov",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Omsk",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Voronezh",
+  "country_code": "RU",
+  "university_count": 6
+ },
+ {
+  "city": "Barcelona",
+  "country_code": "ES",
+  "university_count": 6
+ },
+ {
+  "city": "Madrid",
+  "country_code": "ES",
+  "university_count": 6
+ },
+ {
+  "city": "Tirana",
+  "country_code": "AL",
+  "university_count": 5
+ },
+ {
+  "city": "Sofia",
+  "country_code": "BG",
+  "university_count": 5
+ },
+ {
+  "city": "Heidelberg",
+  "country_code": "DE",
+  "university_count": 5
+ },
+ {
+  "city": "Milan",
+  "country_code": "IT",
+  "university_count": 5
+ },
+ {
+  "city": "Rome",
+  "country_code": "IT",
+  "university_count": 5
+ },
+ {
+  "city": "Timişoara",
+  "country_code": "RO",
+  "university_count": 5
+ },
+ {
+  "city": "Ivanovo",
+  "country_code": "RU",
+  "university_count": 5
+ },
+ {
+  "city": "Perm",
+  "country_code": "RU",
+  "university_count": 5
+ },
+ {
+  "city": "Tomsk",
+  "country_code": "RU",
+  "university_count": 5
+ },
+ {
+  "city": "Ulyanovsk",
+  "country_code": "RU",
+  "university_count": 5
+ },
+ {
+  "city": "Stockholm",
+  "country_code": "SE",
+  "university_count": 5
+ },
+ {
+  "city": "Lausanne",
+  "country_code": "CH",
+  "university_count": 5
+ },
+ {
+  "city": "Geneva",
+  "country_code": "CH",
+  "university_count": 5
+ },
+ {
+  "city": "Graz",
+  "country_code": "AT",
+  "university_count": 4
+ },
+ {
+  "city": "Vitebsk",
+  "country_code": "BY",
+  "university_count": 4
+ },
+ {
+  "city": "Antwerpen",
+  "country_code": "BE",
+  "university_count": 4
+ },
+ {
+  "city": "Sarajevo",
+  "country_code": "BA",
+  "university_count": 4
+ },
+ {
+  "city": "Varna",
+  "country_code": "BG",
+  "university_count": 4
+ },
+ {
+  "city": "Copenhagen",
+  "country_code": "DK",
+  "university_count": 4
+ },
+ {
+  "city": "Helsinki",
+  "country_code": "FI",
+  "university_count": 4
+ },
+ {
+  "city": "Nantes",
+  "country_code": "FR",
+  "university_count": 4
+ },
+ {
+  "city": "Darmstadt",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Freiburg",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Frankfurt am Main",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Karlsruhe",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Lübeck",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Mannheim",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Bremen",
+  "country_code": "DE",
+  "university_count": 4
+ },
+ {
+  "city": "Debrecen",
+  "country_code": "HU",
+  "university_count": 4
+ },
+ {
+  "city": "Riga",
+  "country_code": "LV",
+  "university_count": 4
+ },
+ {
+  "city": "Vilnius",
+  "country_code": "LT",
+  "university_count": 4
+ },
+ {
+  "city": "Rotterdam",
+  "country_code": "NL",
+  "university_count": 4
+ },
+ {
+  "city": "Oslo",
+  "country_code": "NO",
+  "university_count": 4
+ },
+ {
+  "city": "Białystok",
+  "country_code": "PL",
+  "university_count": 4
+ },
+ {
+  "city": "Valencia",
+  "country_code": "ES",
+  "university_count": 4
+ },
+ {
+  "city": "Lviv",
+  "country_code": "UA",
+  "university_count": 4
+ },
+ {
+  "city": "Salzburg",
+  "country_code": "AT",
+  "university_count": 3
+ },
+ {
+  "city": "Innsbruck",
+  "country_code": "AT",
+  "university_count": 3
+ },
+ {
+  "city": "Linz",
+  "country_code": "AT",
+  "university_count": 3
+ },
+ {
+  "city": "Hrodna",
+  "country_code": "BY",
+  "university_count": 3
+ },
+ {
+  "city": "Homyel'",
+  "country_code": "BY",
+  "university_count": 3
+ },
+ {
+  "city": "Mons",
+  "country_code": "BE",
+  "university_count": 3
+ },
+ {
+  "city": "Gent",
+  "country_code": "BE",
+  "university_count": 3
+ },
+ {
+  "city": "Plovdiv",
+  "country_code": "BG",
+  "university_count": 3
+ },
+ {
+  "city": "Zagreb",
+  "country_code": "HR",
+  "university_count": 3
+ },
+ {
+  "city": "Tampere",
+  "country_code": "FI",
+  "university_count": 3
+ },
+ {
+  "city": "Rouen",
+  "country_code": "FR",
+  "university_count": 3
+ },
+ {
+  "city": "Angers",
+  "country_code": "FR",
+  "university_count": 3
+ },
+ {
+  "city": "Grenoble",
+  "country_code": "FR",
+  "university_count": 3
+ },
+ {
+  "city": "Ludwigshafen am Rhein",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Dresden",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Nuremberg",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Bochum",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Bonn",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Dortmund",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Düsseldorf",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Erfurt",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Göttingen",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Mainz",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Münster",
+  "country_code": "DE",
+  "university_count": 3
+ },
+ {
+  "city": "Pisa",
+  "country_code": "IT",
+  "university_count": 3
+ },
+ {
+  "city": "Utrecht",
+  "country_code": "NL",
+  "university_count": 3
+ },
+ {
+  "city": "Amsterdam",
+  "country_code": "NL",
+  "university_count": 3
+ },
+ {
+  "city": "Bydgoszcz",
+  "country_code": "PL",
+  "university_count": 3
+ },
+ {
+  "city": "Częstochowa",
+  "country_code": "PL",
+  "university_count": 3
+ },
+ {
+  "city": "Rzeszów",
+  "country_code": "PL",
+  "university_count": 3
+ },
+ {
+  "city": "Oradea",
+  "country_code": "RO",
+  "university_count": 3
+ },
+ {
+  "city": "Constanţa",
+  "country_code": "RO",
+  "university_count": 3
+ },
+ {
+  "city": "Târgu Mureş",
+  "country_code": "RO",
+  "university_count": 3
+ },
+ {
+  "city": "Astrakhan",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Belgorod",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Chelyabinsk",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Irkutsk",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Kursk",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Tolyatti",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Tyumen",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Tver",
+  "country_code": "RU",
+  "university_count": 3
+ },
+ {
+  "city": "Belgrade",
+  "country_code": "RS",
+  "university_count": 3
+ },
+ {
+  "city": "Košice",
+  "country_code": "SK",
+  "university_count": 3
+ },
+ {
+  "city": "Bern",
+  "country_code": "CH",
+  "university_count": 3
+ },
+ {
+  "city": "Luzern",
+  "country_code": "CH",
+  "university_count": 3
+ },
+ {
+  "city": "Donetsk",
+  "country_code": "UA",
+  "university_count": 3
+ },
+ {
+  "city": "Bath",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Birmingham",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Bristol",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Cardiff",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Glasgow",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Liverpool",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Leeds",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Swansea",
+  "country_code": "GB",
+  "university_count": 3
+ },
+ {
+  "city": "Vlorë",
+  "country_code": "AL",
+  "university_count": 2
+ },
+ {
+  "city": "Wels",
+  "country_code": "AT",
+  "university_count": 2
+ },
+ {
+  "city": "Brest",
+  "country_code": "BY",
+  "university_count": 2
+ },
+ {
+  "city": "Minsk",
+  "country_code": "BY",
+  "university_count": 2
+ },
+ {
+  "city": "Travnik",
+  "country_code": "BA",
+  "university_count": 2
+ },
+ {
+  "city": "Burgas",
+  "country_code": "BG",
+  "university_count": 2
+ },
+ {
+  "city": "Shumen",
+  "country_code": "BG",
+  "university_count": 2
+ },
+ {
+  "city": "Ruse",
+  "country_code": "BG",
+  "university_count": 2
+ },
+ {
+  "city": "Ostrava",
+  "country_code": "CZ",
+  "university_count": 2
+ },
+ {
+  "city": "Aalborg",
+  "country_code": "DK",
+  "university_count": 2
+ },
+ {
+  "city": "Tartu",
+  "country_code": "EE",
+  "university_count": 2
+ },
+ {
+  "city": "Tallinn",
+  "country_code": "EE",
+  "university_count": 2
+ },
+ {
+  "city": "Oulu",
+  "country_code": "FI",
+  "university_count": 2
+ },
+ {
+  "city": "Vaasa",
+  "country_code": "FI",
+  "university_count": 2
+ },
+ {
+  "city": "Turku",
+  "country_code": "FI",
+  "university_count": 2
+ },
+ {
+  "city": "Dijon",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Saint-Étienne",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Metz",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Mulhouse",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Le Havre",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Reims",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "La Rochelle",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Tours",
+  "country_code": "FR",
+  "university_count": 2
+ },
+ {
+  "city": "Speyer",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Reutlingen",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Aachen",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Augsburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Bielefeld",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Brandenburg an der Havel",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Flensburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Gießen",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Heilbronn",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Jena",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Kiel",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Kaiserslautern",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Koblenz",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Konstanz",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Oldenburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Osnabrück",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Potsdam",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Regensburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Rosenheim",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Trier",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Vechta",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Würzburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Schwäbisch Gmünd",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Magdeburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Paderborn",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Cottbus",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Lüneburg",
+  "country_code": "DE",
+  "university_count": 2
+ },
+ {
+  "city": "Thessaloníki",
+  "country_code": "GR",
+  "university_count": 2
+ },
+ {
+  "city": "Pécs",
+  "country_code": "HU",
+  "university_count": 2
+ },
+ {
+  "city": "Cork",
+  "country_code": "IE",
+  "university_count": 2
+ },
+ {
+  "city": "Galway",
+  "country_code": "IE",
+  "university_count": 2
+ },
+ {
+  "city": "Venice",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Bologna",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Bari",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Turin",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Trieste",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Naples",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Perugia",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Siena",
+  "country_code": "IT",
+  "university_count": 2
+ },
+ {
+  "city": "Kaunas",
+  "country_code": "LT",
+  "university_count": 2
+ },
+ {
+  "city": "Luxembourg",
+  "country_code": "LU",
+  "university_count": 2
+ },
+ {
+  "city": "Groningen",
+  "country_code": "NL",
+  "university_count": 2
+ },
+ {
+  "city": "Leiden",
+  "country_code": "NL",
+  "university_count": 2
+ },
+ {
+  "city": "Bergen",
+  "country_code": "NO",
+  "university_count": 2
+ },
+ {
+  "city": "Olsztyn",
+  "country_code": "PL",
+  "university_count": 2
+ },
+ {
+  "city": "Opole",
+  "country_code": "PL",
+  "university_count": 2
+ },
+ {
+  "city": "Kielce",
+  "country_code": "PL",
+  "university_count": 2
+ },
+ {
+  "city": "Zielona Góra",
+  "country_code": "PL",
+  "university_count": 2
+ },
+ {
+  "city": "Gdynia",
+  "country_code": "PL",
+  "university_count": 2
+ },
+ {
+  "city": "Coimbra",
+  "country_code": "PT",
+  "university_count": 2
+ },
+ {
+  "city": "Porto",
+  "country_code": "PT",
+  "university_count": 2
+ },
+ {
+  "city": "Sibiu",
+  "country_code": "RO",
+  "university_count": 2
+ },
+ {
+  "city": "Piteşti",
+  "country_code": "RO",
+  "university_count": 2
+ },
+ {
+  "city": "Khabarovsk",
+  "country_code": "RU",
+  "university_count": 2
+ },
+ {
+  "city": "Rostov-on-Don",
+  "country_code": "RU",
+  "university_count": 2
+ },
+ {
+  "city": "Smolensk",
+  "country_code": "RU",
+  "university_count": 2
+ },
+ {
+  "city": "Taganrog",
+  "country_code": "RU",
+  "university_count": 2
+ },
+ {
+  "city": "Vladivostok",
+  "country_code": "RU",
+  "university_count": 2
+ },
+ {
+  "city": "Banská Bystrica",
+  "country_code": "SK",
+  "university_count": 2
+ },
+ {
+  "city": "Prešov",
+  "country_code": "SK",
+  "university_count": 2
+ },
+ {
+  "city": "Trnava",
+  "country_code": "SK",
+  "university_count": 2
+ },
+ {
+  "city": "Nitra",
+  "country_code": "SK",
+  "university_count": 2
+ },
+ {
+  "city": "Girona",
+  "country_code": "ES",
+  "university_count": 2
+ },
+ {
+  "city": "Salamanca",
+  "country_code": "ES",
+  "university_count": 2
+ },
+ {
+  "city": "Basel",
+  "country_code": "CH",
+  "university_count": 2
+ },
+ {
+  "city": "Chur",
+  "country_code": "CH",
+  "university_count": 2
+ },
+ {
+  "city": "Fribourg",
+  "country_code": "CH",
+  "university_count": 2
+ },
+ {
+  "city": "Dnipro",
+  "country_code": "UA",
+  "university_count": 2
+ },
+ {
+  "city": "Luhansk",
+  "country_code": "UA",
+  "university_count": 2
+ },
+ {
+  "city": "Poltava",
+  "country_code": "UA",
+  "university_count": 2
+ },
+ {
+  "city": "Sumy",
+  "country_code": "UA",
+  "university_count": 2
+ },
+ {
+  "city": "Ternopil",
+  "country_code": "UA",
+  "university_count": 2
+ },
+ {
+  "city": "Dundee",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Oxford",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Canterbury",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Leicester",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Edinburgh",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Manchester",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Newcastle upon Tyne",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Newport",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Nottingham",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Sheffield",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Southampton",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "York",
+  "country_code": "GB",
+  "university_count": 2
+ },
+ {
+  "city": "Portsmouth",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Créteil",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Elbasan",
+  "country_code": "AL",
+  "university_count": 1
+ },
+ {
+  "city": "Shkodër",
+  "country_code": "AL",
+  "university_count": 1
+ },
+ {
+  "city": "Korçë",
+  "country_code": "AL",
+  "university_count": 1
+ },
+ {
+  "city": "Andorra la Vella",
+  "country_code": "AD",
+  "university_count": 1
+ },
+ {
+  "city": "Steyr",
+  "country_code": "AT",
+  "university_count": 1
+ },
+ {
+  "city": "Sankt Pölten",
+  "country_code": "AT",
+  "university_count": 1
+ },
+ {
+  "city": "Wiener Neustadt",
+  "country_code": "AT",
+  "university_count": 1
+ },
+ {
+  "city": "Klagenfurt am Wörthersee",
+  "country_code": "AT",
+  "university_count": 1
+ },
+ {
+  "city": "Mazyr",
+  "country_code": "BY",
+  "university_count": 1
+ },
+ {
+  "city": "Mahilyow",
+  "country_code": "BY",
+  "university_count": 1
+ },
+ {
+  "city": "Polotsk",
+  "country_code": "BY",
+  "university_count": 1
+ },
+ {
+  "city": "Gembloux",
+  "country_code": "BE",
+  "university_count": 1
+ },
+ {
+  "city": "Hasselt",
+  "country_code": "BE",
+  "university_count": 1
+ },
+ {
+  "city": "Mostar",
+  "country_code": "BA",
+  "university_count": 1
+ },
+ {
+  "city": "Bihać",
+  "country_code": "BA",
+  "university_count": 1
+ },
+ {
+  "city": "Banja Luka",
+  "country_code": "BA",
+  "university_count": 1
+ },
+ {
+  "city": "Tuzla",
+  "country_code": "BA",
+  "university_count": 1
+ },
+ {
+  "city": "Zenica",
+  "country_code": "BA",
+  "university_count": 1
+ },
+ {
+  "city": "Pleven",
+  "country_code": "BG",
+  "university_count": 1
+ },
+ {
+  "city": "Gabrovo",
+  "country_code": "BG",
+  "university_count": 1
+ },
+ {
+  "city": "Stara Zagora",
+  "country_code": "BG",
+  "university_count": 1
+ },
+ {
+  "city": "Veliko Tŭrnovo",
+  "country_code": "BG",
+  "university_count": 1
+ },
+ {
+  "city": "Dubrovnik",
+  "country_code": "HR",
+  "university_count": 1
+ },
+ {
+  "city": "Osijek",
+  "country_code": "HR",
+  "university_count": 1
+ },
+ {
+  "city": "Pula",
+  "country_code": "HR",
+  "university_count": 1
+ },
+ {
+  "city": "Rijeka",
+  "country_code": "HR",
+  "university_count": 1
+ },
+ {
+  "city": "Split",
+  "country_code": "HR",
+  "university_count": 1
+ },
+ {
+  "city": "Zadar",
+  "country_code": "HR",
+  "university_count": 1
+ },
+ {
+  "city": "Kyrenia",
+  "country_code": "CY",
+  "university_count": 1
+ },
+ {
+  "city": "Nicosia",
+  "country_code": "CY",
+  "university_count": 1
+ },
+ {
+  "city": "Pardubice",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Olomouc",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Zlín",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Liberec",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Hradec Králové",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Brno",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Odense",
+  "country_code": "DK",
+  "university_count": 1
+ },
+ {
+  "city": "Roskilde",
+  "country_code": "DK",
+  "university_count": 1
+ },
+ {
+  "city": "Joensuu",
+  "country_code": "FI",
+  "university_count": 1
+ },
+ {
+  "city": "Jyväskylä",
+  "country_code": "FI",
+  "university_count": 1
+ },
+ {
+  "city": "Lahti",
+  "country_code": "FI",
+  "university_count": 1
+ },
+ {
+  "city": "Lappeenranta",
+  "country_code": "FI",
+  "university_count": 1
+ },
+ {
+  "city": "Rovaniemi",
+  "country_code": "FI",
+  "university_count": 1
+ },
+ {
+  "city": "Kuopio",
+  "country_code": "FI",
+  "university_count": 1
+ },
+ {
+  "city": "Antibes",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Tarbes",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Fontenay-sous-Bois",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Alès",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Douai",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Brest",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Beauvais",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Amiens",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Cergy-Pontoise",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Caen",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Nice",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Limoges",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Avignon",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Évry",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Orléans",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Perpignan",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Poitiers",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Toulon",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Valenciennes",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Belfort",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Compiègne",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Troyes",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Saint-Quentin-en-Yvelines",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Hagen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Aschaffenburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Bad Honnef",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Biberach an der Riß",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Bingen am Rhein",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Deggendorf",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Eberswalde",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Gelsenkirchen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Ingolstadt",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Kempten (Allgäu)",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Landshut",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Merseburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Neubrandenburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Neu-Ulm",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Nordhausen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Nürtingen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Offenburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Pforzheim",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Rottenburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Schmalkalden",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Schwäbisch Hall",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Stralsund",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Wedel",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Ravensburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Wiesbaden",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Worms",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Zwickau",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Albstadt",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Bremerhaven",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Coburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Esslingen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Fulda",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Wismar",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Görlitz",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Mittweida",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Zittau",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Aalen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Saarbrücken",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Iserlohn",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Sankt Augustin",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Ludwigsburg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Weingarten",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Oberursel",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Braunschweig",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Chemnitz",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Freiberg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Ilmenau",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Bamberg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Bayreuth",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Essen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Universitäts- und Hansestadt Greifswald",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Halle (Saale)",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Hildesheim",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Kassel",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Marburg an der Lahn",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Passau",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Rostock",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Siegen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Tübingen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Weimar",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Witten",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Wuppertal",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Piraeus",
+  "country_code": "GR",
+  "university_count": 1
+ },
+ {
+  "city": "Ioánnina",
+  "country_code": "GR",
+  "university_count": 1
+ },
+ {
+  "city": "Pátra",
+  "country_code": "GR",
+  "university_count": 1
+ },
+ {
+  "city": "Dunaújváros",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Sopron",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Esztergom",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Miskolc",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Szeged",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Reykjavík",
+  "country_code": "IS",
+  "university_count": 1
+ },
+ {
+  "city": "Akureyri",
+  "country_code": "IS",
+  "university_count": 1
+ },
+ {
+  "city": "Athlone",
+  "country_code": "IE",
+  "university_count": 1
+ },
+ {
+  "city": "Carlow",
+  "country_code": "IE",
+  "university_count": 1
+ },
+ {
+  "city": "Tralee",
+  "country_code": "IE",
+  "university_count": 1
+ },
+ {
+  "city": "Limerick",
+  "country_code": "IE",
+  "university_count": 1
+ },
+ {
+  "city": "Waterford",
+  "country_code": "IE",
+  "university_count": 1
+ },
+ {
+  "city": "Modena",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Lucca",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Ancona",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Potenza",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Bergamo",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Brescia",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Bolzano",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Cagliari",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Cassino",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Chieti",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Catania",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Ferrara",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Foggia",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Florence",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Genoa",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Lecce",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Macerata",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Messina",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Palermo",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Padua",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Parma",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Pavia",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Reggio Calabria",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Salerno",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Sassari",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Teramo",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Trento",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Viterbo",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Udine",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "L'Aquila",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Verona",
+  "country_code": "IT",
+  "university_count": 1
+ },
+ {
+  "city": "Kosovo Polje",
+  "country_code": "XK",
+  "university_count": 1
+ },
+ {
+  "city": "Pristina",
+  "country_code": "XK",
+  "university_count": 1
+ },
+ {
+  "city": "Prizren",
+  "country_code": "XK",
+  "university_count": 1
+ },
+ {
+  "city": "Liepāja",
+  "country_code": "LV",
+  "university_count": 1
+ },
+ {
+  "city": "Daugavpils",
+  "country_code": "LV",
+  "university_count": 1
+ },
+ {
+  "city": "Rēzekne",
+  "country_code": "LV",
+  "university_count": 1
+ },
+ {
+  "city": "Ventspils",
+  "country_code": "LV",
+  "university_count": 1
+ },
+ {
+  "city": "Klaipėda",
+  "country_code": "LT",
+  "university_count": 1
+ },
+ {
+  "city": "Šiauliai",
+  "country_code": "LT",
+  "university_count": 1
+ },
+ {
+  "city": "Tetovo",
+  "country_code": "MK",
+  "university_count": 1
+ },
+ {
+  "city": "The Hague",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Breda",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Tilburg",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Delft",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Eindhoven",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Maastricht",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Wageningen",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Bodø",
+  "country_code": "NO",
+  "university_count": 1
+ },
+ {
+  "city": "Lillehammer",
+  "country_code": "NO",
+  "university_count": 1
+ },
+ {
+  "city": "Molde",
+  "country_code": "NO",
+  "university_count": 1
+ },
+ {
+  "city": "Stavanger",
+  "country_code": "NO",
+  "university_count": 1
+ },
+ {
+  "city": "Tromsø",
+  "country_code": "NO",
+  "university_count": 1
+ },
+ {
+  "city": "Radom",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Gliwice",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Wałcz",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Piła",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Koszalin",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Bielsko-Biala",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Toruń",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Płock",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Nowy Sącz",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Tarnów",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Pułtusk",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Słupsk",
+  "country_code": "PL",
+  "university_count": 1
+ },
+ {
+  "city": "Estoril",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Beja",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Bragança",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Castelo Branco",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Guarda",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Leiria",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Portalegre",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Santarém",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Setúbal",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Tomar",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Viana do Castelo",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Aveiro",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Évora",
+  "country_code": "PT",
+  "university_count": 1
+ },
+ {
+  "city": "Craiova",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Alba Iulia",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Arad",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Baia Mare",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Bacău",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Reşiţa",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Braşov",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Petroşani",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Ploieşti",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Suceava",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Târgu Jiu",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Târgovişte",
+  "country_code": "RO",
+  "university_count": 1
+ },
+ {
+  "city": "Bratsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Yelets",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Gorno-Altaysk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Gubkin",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Obninsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Izhevsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Petrozavodsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Kemerovo",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Krasnoyarsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Kurgan",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Kaliningrad",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Komsomolsk-on-Amur",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Kaluga",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Kostroma",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Magnitogorsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Murmansk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Velikiy Novgorod",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Orenburg",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Pyatigorsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Penza",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Rybinsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Syktyvkar",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Lipetsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Surgut",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Tambov",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Tula",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Ryazan’",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Bryansk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Ukhta",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Dubna",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Vologda",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Vladikavkaz",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Kirov",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "Yakutsk",
+  "country_code": "RU",
+  "university_count": 1
+ },
+ {
+  "city": "San Marino",
+  "country_code": "SM",
+  "university_count": 1
+ },
+ {
+  "city": "Kragujevac",
+  "country_code": "RS",
+  "university_count": 1
+ },
+ {
+  "city": "Novi Pazar",
+  "country_code": "RS",
+  "university_count": 1
+ },
+ {
+  "city": "Novi Sad",
+  "country_code": "RS",
+  "university_count": 1
+ },
+ {
+  "city": "Dubnica nad Váhom",
+  "country_code": "SK",
+  "university_count": 1
+ },
+ {
+  "city": "Ružomberok",
+  "country_code": "SK",
+  "university_count": 1
+ },
+ {
+  "city": "Skalica",
+  "country_code": "SK",
+  "university_count": 1
+ },
+ {
+  "city": "Trenčín",
+  "country_code": "SK",
+  "university_count": 1
+ },
+ {
+  "city": "Zvolen",
+  "country_code": "SK",
+  "university_count": 1
+ },
+ {
+  "city": "Ljubljana",
+  "country_code": "SI",
+  "university_count": 1
+ },
+ {
+  "city": "Maribor",
+  "country_code": "SI",
+  "university_count": 1
+ },
+ {
+  "city": "Arrasate / Mondragón",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Alicante",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Alcalá de Henares",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Almería",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Burgos",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Cadiz",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Sant Antoni de Portmany",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Ávila",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Castilla",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Córdoba",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "A Coruña",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Lleida",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Gasteiz / Vitoria",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Granada",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Huelva",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Jaén",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Castelló de la Plana",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "La Laguna",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Las Palmas de Gran Canaria",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Málaga",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Murcia",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Elche",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Baeza",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "León",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Oviedo",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Zaragoza",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Comillas",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Cartagena",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Tarragona",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Santiago de Compostela",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Sevilla",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Valladolid",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Vigo",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Centro",
+  "country_code": "ES",
+  "university_count": 1
+ },
+ {
+  "city": "Gothenburg",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Borås",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Halmstad",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Gävle",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Kalmar",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Skövde",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Jönköping",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Kristianstad",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Trollhättan",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Karlstad",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Linköping",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Lund",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Luleå",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Malmö",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Örebro",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Umeå",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Uppsala",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Växjö",
+  "country_code": "SE",
+  "university_count": 1
+ },
+ {
+  "city": "Solothurn",
+  "country_code": "CH",
+  "university_count": 1
+ },
+ {
+  "city": "Sankt Gallen",
+  "country_code": "CH",
+  "university_count": 1
+ },
+ {
+  "city": "Neuchâtel",
+  "country_code": "CH",
+  "university_count": 1
+ },
+ {
+  "city": "Rapperswil",
+  "country_code": "CH",
+  "university_count": 1
+ },
+ {
+  "city": "Schwyz",
+  "country_code": "CH",
+  "university_count": 1
+ },
+ {
+  "city": "Bila Tserkva",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Chernivtsi",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Ivano-Frankivsk",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Kryvyy Rih",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Sevastopol",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Kherson",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Uzhhorod",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Vinnytsya",
+  "country_code": "UA",
+  "university_count": 1
+ },
+ {
+  "city": "Aberdeen",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Aberystwyth",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Aston",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Bangor",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Bolton",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Bournemouth",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Bradford",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Uxbridge",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Brighton",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Cambridge",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Chelsea",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Chester",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Coventry",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Derby",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Durham",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Exeter",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Falmouth",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Greenwich",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Huddersfield",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Kingston upon Hull",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Lancaster",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Loughborough",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Lincoln",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Northampton",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Paisley",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Plymouth",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Belfast",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Reading",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Bedford",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Roehampton",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Salford",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Saint Andrews",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Stirling",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Sunderland",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Carmarthen",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Warwick",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "City of Westminster",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Wimbledon",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Wolverhampton",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Worcester",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Middlesbrough",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Villingen-Schwenningen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Bautzen",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Villach",
+  "country_code": "AT",
+  "university_count": 1
+ },
+ {
+  "city": "Győr",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Amberg",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Óbuda",
+  "country_code": "HU",
+  "university_count": 1
+ },
+ {
+  "city": "Wakefield",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Liège",
+  "country_code": "BE",
+  "university_count": 1
+ },
+ {
+  "city": "Mladá Boleslav",
+  "country_code": "CZ",
+  "university_count": 1
+ },
+ {
+  "city": "Detmold",
+  "country_code": "DE",
+  "university_count": 1
+ },
+ {
+  "city": "Besançon",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Dundalk",
+  "country_code": "IE",
+  "university_count": 1
+ },
+ {
+  "city": "Taunton",
+  "country_code": "GB",
+  "university_count": 1
+ },
+ {
+  "city": "Nîmes",
+  "country_code": "FR",
+  "university_count": 1
+ },
+ {
+  "city": "Almere Stad",
+  "country_code": "NL",
+  "university_count": 1
+ },
+ {
+  "city": "Swindon",
+  "country_code": "GB",
+  "university_count": 1
+ }
+]
