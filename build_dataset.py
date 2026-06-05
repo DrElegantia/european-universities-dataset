@@ -128,11 +128,28 @@ for fn in ["cost_of_living_extra_1.json","cost_of_living_extra_2.json"]:
         add_col(c["city"], CC2NAME.get(cc,""), cc, c.get("currency","EUR"), c.get("monthly_rent_eur"), c.get("monthly_other_eur"),
             c.get("monthly_total_eur"), None, c.get("source_numbeo_url"), "", c.get("access_note"))
 
-# ---------- cost of living: country ----------
+# ---------- cost of living: country (official + derived national average) ----------
 col_country_rows = []
+have_country = set()
 for country,(b,src) in sorted(budget_by_country.items()):
     col_country_rows.append({"country":country,"country_code":CC.get(country,""),"official_student_budget_eur_month":b,
         "source_url":src,"note":"Official national student-budget estimate or study-visa financial-means benchmark (see source)."})
+    have_country.add(country)
+# derived national fallback: for countries with city Numbeo data but no official budget,
+# use the average monthly_total of their cities (clearly flagged as derived, not official)
+from statistics import mean
+city_totals = {}
+for r in col_city_rows:
+    t = r.get("monthly_total_eur")
+    if isinstance(t,(int,float)) and r["country"]:
+        city_totals.setdefault(r["country"], []).append(t)
+for country, vals in sorted(city_totals.items()):
+    if country in have_country or not vals: continue
+    col_country_rows.append({"country":country,"country_code":CC.get(country,""),
+        "official_student_budget_eur_month":round(mean(vals)),
+        "source_url":"https://www.numbeo.com/cost-of-living/",
+        "note":f"Derived: average of {len(vals)} Numbeo city total(s) in this country (no official national benchmark available); indicative."})
+    have_country.add(country)
 
 # ---------- scholarships (bilingual) ----------
 SCH_IT = {

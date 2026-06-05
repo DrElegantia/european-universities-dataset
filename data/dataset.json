@@ -40400,6 +40400,48 @@
    "official_student_budget_eur_month": 1376,
    "source_url": "",
    "note": "Official national student-budget estimate or study-visa financial-means benchmark (see source)."
+  },
+  {
+   "country": "Albania",
+   "country_code": "AL",
+   "official_student_budget_eur_month": 1111,
+   "source_url": "https://www.numbeo.com/cost-of-living/",
+   "note": "Derived: average of 1 Numbeo city total(s) in this country (no official national benchmark available); indicative."
+  },
+  {
+   "country": "Greece",
+   "country_code": "GR",
+   "official_student_budget_eur_month": 1364,
+   "source_url": "https://www.numbeo.com/cost-of-living/",
+   "note": "Derived: average of 1 Numbeo city total(s) in this country (no official national benchmark available); indicative."
+  },
+  {
+   "country": "Hungary",
+   "country_code": "HU",
+   "official_student_budget_eur_month": 1390,
+   "source_url": "https://www.numbeo.com/cost-of-living/",
+   "note": "Derived: average of 1 Numbeo city total(s) in this country (no official national benchmark available); indicative."
+  },
+  {
+   "country": "Poland",
+   "country_code": "PL",
+   "official_student_budget_eur_month": 1305,
+   "source_url": "https://www.numbeo.com/cost-of-living/",
+   "note": "Derived: average of 8 Numbeo city total(s) in this country (no official national benchmark available); indicative."
+  },
+  {
+   "country": "Russian Federation",
+   "country_code": "RU",
+   "official_student_budget_eur_month": 1103,
+   "source_url": "https://www.numbeo.com/cost-of-living/",
+   "note": "Derived: average of 5 Numbeo city total(s) in this country (no official national benchmark available); indicative."
+  },
+  {
+   "country": "Ukraine",
+   "country_code": "UA",
+   "official_student_budget_eur_month": 634,
+   "source_url": "https://www.numbeo.com/cost-of-living/",
+   "note": "Derived: average of 3 Numbeo city total(s) in this country (no official national benchmark available); indicative."
   }
  ],
  "scholarships": [
