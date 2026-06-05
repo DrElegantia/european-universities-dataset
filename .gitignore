@@ -1,3 +1,7 @@
 .DS_Store
 __pycache__/
 *.pyc
+
+# big raw source files (regenerable from Zenodo / GeoNames)
+raw/ETER_fullDump.csv
+cities15000.zip
