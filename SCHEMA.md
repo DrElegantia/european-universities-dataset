@@ -12,8 +12,10 @@ All tuition/cost amounts in EUR. Numeric columns are blank only when no sourced 
 | field_category | one of 14 codes in `field_taxonomy.csv` (primary field of the institution) |
 | field_category_en, field_category_it | bilingual label |
 | domain, website | primary domain / URL |
+| fields_offered | pipe-separated taxonomy codes of ALL fields the institution offers (ETER-sourced; use this for the field filter). fields_source = ETER or name-heuristic |
 | the_world_rank | THE 2026 world rank if matched (`1`, `=3`, `601-800`); blank otherwise |
 | the_overall_score | THE 2026 overall score (higher = better); blank otherwise |
+| the_teaching, the_research, the_citations, the_international_outlook, the_industry_income | THE 2026 **pillar scores** (0-100, higher = better) for the score breakdown / radar chart; blank if unranked |
 
 ## tuition_by_country.csv
 | field | notes |

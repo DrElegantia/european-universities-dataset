@@ -73,14 +73,20 @@ rk = load("rankings_the.json")
 rankings_rows = []; uni_rank = {}; matched = 0
 for r in rk["universities"]:
     m = best_match(r["name"], r["country"])
-    if m: matched += 1; uni_rank[m["id"]] = (r.get("world_rank",""), r.get("overall_score",""))
+    if m: matched += 1; uni_rank[m["id"]] = r
     rankings_rows.append({"the_name":r["name"],"country":r["country"],"matched_university_id":(m["id"] if m else ""),
         "world_rank":r.get("world_rank",""),"overall_score":r.get("overall_score",""),"teaching":r.get("teaching",""),
         "research":r.get("research",""),"citations_or_research_quality":r.get("citations_or_research_quality",""),
         "international_outlook":r.get("international_outlook",""),"industry_income":r.get("industry_income","")})
 for u in unis:
-    wr, ov = uni_rank.get(u["id"], ("",""))
-    u["the_world_rank"] = wr; u["the_overall_score"] = ov
+    r = uni_rank.get(u["id"])
+    u["the_world_rank"] = r.get("world_rank","") if r else ""
+    u["the_overall_score"] = r.get("overall_score","") if r else ""
+    u["the_teaching"] = r.get("teaching","") if r else ""
+    u["the_research"] = r.get("research","") if r else ""
+    u["the_citations"] = r.get("citations_or_research_quality","") if r else ""
+    u["the_international_outlook"] = r.get("international_outlook","") if r else ""
+    u["the_industry_income"] = r.get("industry_income","") if r else ""
 
 # ---------- ETER: real fields offered per institution ----------
 ETER_CC = {"UK":"GB","EL":"GR"}
@@ -292,7 +298,7 @@ for u in unis:
             "source":u["fields_source"]})
 
 print("Writing CSVs:")
-w("universities.csv",unis,["id","name","country","country_code","city","lat","lon","field_category","field_category_en","field_category_it","fields_offered","fields_source","domain","website","the_world_rank","the_overall_score"])
+w("universities.csv",unis,["id","name","country","country_code","city","lat","lon","field_category","field_category_en","field_category_it","fields_offered","fields_source","domain","website","the_world_rank","the_overall_score","the_teaching","the_research","the_citations","the_international_outlook","the_industry_income"])
 w("university_fields.csv",uf_rows,["university_id","university","country_code","field_category","field_category_en","field_category_it","source"])
 w("tuition_by_country.csv",tuition_rows,["country","country_code","currency","fee_type","data_quality","bachelor_eu_min_eur","bachelor_eu_max_eur","master_eu_min_eur","master_eu_max_eur","bachelor_noneu_min_eur","bachelor_noneu_max_eur","master_noneu_min_eur","master_noneu_max_eur","official_student_budget_eur_month","notes_it","notes_en"])
 w("tuition_exceptions.csv",exc_rows,["country","matched_university_id","matched_university_name","university","field","level","amount_eur_year","note","source_url"])
