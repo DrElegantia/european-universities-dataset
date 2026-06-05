@@ -1,0 +1,169 @@
+# Sources
+Every figure in this dataset is traceable to a source below. Tuition and scholarship URLs are official ministry / agency / university pages or EU Eurydice; cost of living is Numbeo plus official student-budget/visa benchmarks; rankings are Times Higher Education 2026.
+
+## Base institution list
+- Hipolabs university-domains-list (MIT): https://github.com/Hipo/university-domains-list
+
+## Quality indicators (rankings)
+- Times Higher Education (THE) World University Rankings 2026: https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2026
+
+## Tuition fees by country
+- Germany: https://www.mygermanuniversity.com/articles/Baden-Wuerttemberg-University-Tuition-Fees
+- Germany: https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees/tuition-fees-for-international-students
+- Germany: https://www.tum.de/en/studies/fees
+- Germany: https://www.study.eu/article/study-in-germany-for-free-what-you-need-to-know
+- France: https://www.campusfrance.org/en/tuition-fees-France
+- France: https://international.pantheonsorbonne.fr/en/differentiated-tuition-fees
+- Italy: https://www.polimi.it/en/prospective-students/how-much-does-it-cost/laurea-laurea-magistrale-and-single-cycle-programmes
+- Italy: https://www.unibo.it/en/study/enrolment-fees-and-other-procedures/degree-programmes/tuition-fees-and-exemptions/ISEE-and-other-documentation-for-tuition-fee-exemptions
+- Italy: https://www.uniroma1.it/en/pagina/tuition-fees-and-benefits
+- Netherlands: https://www.uva.nl/en/education/fees-and-funding/tuition-fees/tuition-fees-2025-2026/tuition-fees-2025-2026.html
+- Netherlands: https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/tuition-fee-finances/statutory-fee
+- Netherlands: https://duo.nl/particulier/tuition-fees.jsp
+- Belgium: https://www.kuleuven.be/english/education/student/fees
+- Belgium: https://www.kuleuven.be/english/education/student/fees/tuition-fee-breakdown
+- Spain: https://www.ucm.es/informacion/precios-de-grado
+- Spain: https://www.ucm.es/informacion/precios-masteres
+- Spain: https://www.comunidad.madrid/servicios/educacion/precios-publicos-universitarios
+- Spain: http://www4.giga.ub.edu/acad/calc_matricula/?lang=en
+- Austria: https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/
+- Austria: https://oeh.univie.ac.at/en/page/how-much-is-the-tuition-fee
+- Switzerland: https://ethz.ch/students/en/studies/financial/tuition-fees.html
+- Switzerland: https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/
+- Sweden: https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees
+- Sweden: https://www.kth.se/en/studies/master/admissions/application-and-tuition-fees-for-master-s-studies-1.65817
+- Sweden: https://eurydice.eacea.ec.europa.eu/countries/sweden/national-student-fee
+- Denmark: https://www.ku.dk/studies/masters/application-and-admission/tuition-fees
+- Finland: https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/tuition-fees-and-scholarship-programme
+- Ireland: https://www.tcd.ie/courses/undergraduate/fees/
+- Ireland: https://www.tcd.ie/academicregistry/fees-and-payments/
+- Poland: https://rekrutacja.uw.edu.pl/en/application-and-tuition-fees/
+- Poland: https://rekrutacja.uw.edu.pl/files/pdf/tuition_fees_2025-2026_06.2025.pdf
+- Czech Republic: https://cuni.cz/UKEN-372.html
+- Czech Republic: https://en.lf1.cuni.cz/the-tuition-fee-for-the-academic-year-20252026
+- Portugal: https://www.ulisboa.pt/en/info/tuition-fees
+- Portugal: https://www.uc.pt/en/academicos/propinas/propina_ei/propina_ei_2025_2026
+- United Kingdom: https://www.gov.uk/government/publications/tuition-fees-and-student-support-2025-to-2026-academic-year/changes-to-tuition-fees-2025-to-2026-academic-year
+- United Kingdom: https://www.gov.uk/student-visa/money
+- United Kingdom: https://commonslibrary.parliament.uk/research-briefings/cbp-10155/
+- Norway: https://studyinnorway.no/cost-and-requirements
+- Norway: https://education.ec.europa.eu/study-in-europe/country-profiles/norway
+- Iceland: https://eurydice.eacea.ec.europa.eu/countries/iceland/national-student-fee
+- Iceland: https://english.hi.is/study/apply-overview/registration-fees
+- Iceland: https://island.is/en/o/directorate-of-immigration/news/higher-amount-required-as-means-of-support-2025
+- Malta: https://eurydice.eacea.ec.europa.eu/countries/malta/national-student-fee
+- Malta: https://www.um.edu.mt/international/students/tuitionfees/
+- Malta: https://www.um.edu.mt/study/feesfunding/
+- Cyprus: https://eurydice.eacea.ec.europa.eu/countries/cyprus/national-student-fee
+- Cyprus: https://www.ucy.ac.cy/study/undergraduate-studies/tuition-fees/?lang=en
+- Luxembourg: https://eurydice.eacea.ec.europa.eu/countries/luxembourg/national-student-fee
+- Luxembourg: https://www.uni.lu/en/admissions/bachelor-master/
+- Luxembourg: https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/etudiant-pays-tiers.html
+- Greece: https://eurydice.eacea.ec.europa.eu/countries/greece/national-student-fee
+- Greece: https://education.ec.europa.eu/study-in-europe/country-profiles/greece
+- Romania: https://eurydice.eacea.ec.europa.eu/countries/romania/national-student-fee
+- Romania: https://igi.mai.gov.ro/en/how-can-i-obtain-a-long-stay-visa-for-studies/
+- Hungary: https://eurydice.eacea.ec.europa.eu/countries/hungary/national-student-fee
+- Hungary: https://studyinhungary.hu/study-in-hungary/menu/studying-in-hungary/tuition-fees-and-funding-options.html
+- Bulgaria: https://eurydice.eacea.ec.europa.eu/countries/bulgaria/national-student-fee
+- Bulgaria: https://studyinbulgaria.bg/fees-and-costs.html
+- Slovakia: https://eurydice.eacea.ec.europa.eu/countries/slovakia/national-student-fee
+- Slovakia: https://mic.iom.sk/en/news/920-changes-in-the-act-on-the-residence-of-foreigners-from-july-1-2025.html
+- Croatia: https://eurydice.eacea.ec.europa.eu/countries/croatia/national-student-fee
+- Croatia: https://www.studyincroatia.hr/study-in-croatia/tuition-fees-and-scholarships/
+- Slovenia: https://eurydice.eacea.ec.europa.eu/countries/slovenia/national-student-fee
+- Slovenia: https://studyinslovenia.si/study/tuition-and-funding/
+- Estonia: https://eurydice.eacea.ec.europa.eu/countries/estonia/national-student-fee
+- Estonia: https://www.studyinestonia.ee/tuition-fees
+- Latvia: https://eurydice.eacea.ec.europa.eu/countries/latvia/national-student-fee
+- Latvia: https://www.studyinlatvia.lv/admission/fees-costs/tuition-fees
+- Latvia: https://www.pmlp.gov.lv/en/financial-means
+- Lithuania: https://eurydice.eacea.ec.europa.eu/countries/lithuania/national-student-fee
+- Lithuania: https://studyin.lt/how-to-apply/tuition-fees/
+- Lithuania: https://www.migracija.lt/en/ilgalaikis-gyvenimas
+- Russian Federation: https://studyinrussia.ru/en/actual/faq/average-cost-of-studying-at-russian-university-instalment/
+- Russian Federation: https://en.misis.ru/applicants/master-programs/tuition/
+- Ukraine: https://studyinukraine.gov.ua/fees-and-scholarships/
+- Ukraine: https://studyinukraine.gov.ua/how-to-apply/visas/
+- Belarus: http://studyinby.com/en/education-in-belarus/training-cost/
+- Moldova: https://admission.usmf.md/en/admission/studenti-internationali/studii-superioare-integrate-ciclul-i-si-ciclul-ii/taxe-0
+- Moldova: https://international.utm.md/tuition-fees/
+- Serbia: https://www.bazaobrazovanja.rs/en/education/costs-of-studying
+- Serbia: https://eurydice.eacea.ec.europa.eu/countries/serbia/national-student-fee
+- Bosnia and Herzegovina: https://eurydice.eacea.ec.europa.eu/countries/bosnia-and-herzegovina/national-student-fee
+- Albania: https://www.unipage.net/en/4769/university_of_tirana
+- North Macedonia: https://www.topuniversities.com/universities/university-ss-cyril-methodius-skopje
+- Montenegro: https://www.unipage.net/en/7084/university_of_montenegro
+- Montenegro: https://www.educations.com/countries/montenegro
+- Kosovo: https://www.unipage.net/en/9339/university_of_pristina
+
+## Cost of living
+- Munich (Germany): https://www.numbeo.com/cost-of-living/in/Munich
+- Munich (Germany): https://www.daad.de/en/studying-in-germany/living-in-germany/finances/
+- Heidelberg (Germany): https://www.numbeo.com/cost-of-living/in/Heidelberg
+- Paris (France): https://www.numbeo.com/cost-of-living/in/Paris
+- Paris (France): https://www.campusfrance.org/en/preparing-budget-student-France
+- Milan (Italy): https://www.numbeo.com/cost-of-living/in/Milan
+- Milan (Italy): https://www.unipd.it/en/studying-padova/funding-and-fees/living-costs
+- Bologna (Italy): https://www.numbeo.com/cost-of-living/in/Bologna
+- Rome (Italy): https://www.numbeo.com/cost-of-living/in/Rome
+- Amsterdam (Netherlands): https://www.numbeo.com/cost-of-living/in/Amsterdam
+- Amsterdam (Netherlands): https://www.studyinnl.org/finances/daily-student-expenses-and-cost-of-living-in-the-netherlands
+- Delft (Netherlands): https://www.numbeo.com/cost-of-living/in/Delft
+- Leuven (Belgium): https://www.numbeo.com/cost-of-living/in/Leuven
+- Leuven (Belgium): https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/etudes/favoris/sufficient-means-subsistence
+- Madrid (Spain): https://www.numbeo.com/cost-of-living/in/Madrid
+- Madrid (Spain): https://movingtospain.com/iprem-spain/
+- Barcelona (Spain): https://www.numbeo.com/cost-of-living/in/Barcelona
+- Vienna (Austria): https://www.numbeo.com/cost-of-living/in/Vienna
+- Vienna (Austria): https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
+- Zurich (Switzerland): https://www.numbeo.com/cost-of-living/in/Zurich
+- Zurich (Switzerland): https://www.uzh.ch/en/studies/application/entry/guidelines.html
+- Lausanne (Switzerland): https://www.numbeo.com/cost-of-living/in/Lausanne
+- Lausanne (Switzerland): https://www.study-abroad.org/blog/ch-student-visa-guide/
+- Stockholm (Sweden): https://www.numbeo.com/cost-of-living/in/Stockholm
+- Stockholm (Sweden): https://www.migrationsverket.se/en/you-want-to-apply/study/higher-education.html
+- Lund (Sweden): https://www.numbeo.com/cost-of-living/in/Lund
+- Copenhagen (Denmark): https://www.numbeo.com/cost-of-living/in/Copenhagen
+- Copenhagen (Denmark): https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-Education
+- Helsinki (Finland): https://www.numbeo.com/cost-of-living/in/Helsinki
+- Helsinki (Finland): https://migri.fi/en/income-requirement-for-students
+- Dublin (Ireland): https://www.numbeo.com/cost-of-living/in/Dublin
+- Dublin (Ireland): https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-fee-paying-private-primary-or-secondary-school/information-on-student-finances/
+- Warsaw (Poland): https://www.numbeo.com/cost-of-living/in/Warsaw
+- Warsaw (Poland): https://migrant.poznan.uw.gov.pl/en/slownik-pojec/sufficient-financial-resources-student
+- Prague (Czech Republic): https://www.numbeo.com/cost-of-living/in/Prague
+- Prague (Czech Republic): https://ipc.gov.cz/en/forms-and-documents/documents/proof-of-funds-for-the-residence-finances/
+- Lisbon (Portugal): https://www.numbeo.com/cost-of-living/in/Lisbon
+- Lisbon (Portugal): https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/means-of-subsistence
+- Coimbra (Portugal): https://www.numbeo.com/cost-of-living/in/Coimbra
+
+## Scholarships
+- Erasmus+ Mobility Grant (study abroad): https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/studying-abroad
+- Erasmus Mundus Joint Masters (EMJM) Scholarship: https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters
+- Germany - DAAD Scholarships: https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/
+- France - France Excellence Eiffel Scholarship: https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program
+- Italy - Invest Your Talent in Italy: https://www.esteri.it/en/servizi-opportunita/opportunita/borse-di-studio/per-cittadini-stranieri/progetti-speciali/invest-your-talent-in-italy/
+- Italy - DSU regional scholarship (Diritto allo Studio Universitario): https://www.unipi.it/en/education/registration/enrolment-and-registration/enrolment-for-international-students/dsu-scholarships/
+- Netherlands - Holland Scholarship: https://www.studyinnl.org/finances/holland-scholarship
+- Netherlands - Orange Tulip Scholarship (OTS): https://www.nuffic.nl/en/subjects/study-in-holland-with-a-scholarship/orange-tulip-scholarship
+- Belgium - VLIR-UOS ICP Connect Scholarships: https://www.vliruos.be/get-funded/study-scholarships
+- Belgium - ARES Scholarships: https://www.ares-ac.be/en/international-training-scholarships-2026-2027
+- Spain - MAEC-AECID Scholarships: https://www.exteriores.gob.es/Embajadas/abuja/en/Comunicacion/Noticias/Paginas/Articulos/Call-for-MAEC-AECID-Scholarships-20252026-from-its-Diplomatic-School-Programme.aspx
+- Austria - Ernst Mach Grant: https://oead.at/en/study-research-teaching/overview-grants-and-scholarships/ernst-mach-grant
+- Switzerland - Swiss Government Excellence Scholarships: https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships
+- Sweden - Swedish Institute Scholarships for Global Professionals (SISGP): https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/
+- Denmark - Danish Government Scholarships under the Cultural Agreements: https://studyindenmark.dk/study-options/scholarships
+- Finland - University tuition-fee scholarships / waivers: https://www.studyinfinland.fi/funding-your-studies/bachelors-and-masters-scholarships
+- Ireland - Government of Ireland International Education Scholarships (GOI-IES): https://hea.ie/policy/internationalisation/goi-ies/
+- Poland - Stefan Banach NAWA Scholarship Programme: https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme
+- Czech Republic - Government Scholarships for Developing Countries: https://msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries?lang=2
+- Portugal - Camoes Institute Scholarships: https://www.instituto-camoes.pt/en/index.php?Itemid=2581
+
+## Reference datasets (not all redistributed; used for framework/validation)
+- ETER - European Tertiary Education Register (Open access (EU reuse terms)): https://national-policies.eacea.ec.europa.eu/eheso/micro-data-access
+- Eurostat - Education finance and enrolment (UOE, educ_uoe_*) (Eurostat reuse policy (CC-BY-style)): https://ec.europa.eu/eurostat/web/education-training/database
+- Eurydice - National Student Fee and Support Systems (EU reuse (CC-BY-style)): https://eurydice.eacea.ec.europa.eu/data-and-visuals/national-student-fees
+- OECD Education at a Glance - tuition fees (indicator C5) (OECD terms of use (free non-commercial with attribution)): https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en.html
+- Hipolabs Universities API / university-domains-list (MIT): https://github.com/Hipo/university-domains-list
+- Times Higher Education World University Rankings 2026 (THE proprietary ranking data (facts reused with attribution)): https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking

@@ -1,0 +1,1044 @@
+the_name,country,matched_university_id,world_rank,overall_score,teaching,research,citations_or_research_quality,international_outlook,industry_income
+University of Oxford,United Kingdom,2178,1,98.2,97.2,100.0,97.7,96.4,99.9
+University of Cambridge,United Kingdom,2104,=3,97.2,96.2,99.9,97.1,96.3,87.6
+Imperial College London,United Kingdom,2140,8,94.7,90.6,94.9,98.0,98.2,91.9
+ETH Zurich,Switzerland,1963,11,93.1,88.5,97.2,94.5,95.1,83.7
+UCL,United Kingdom,,22,87.5,77.8,85.9,97.6,97.5,74.7
+Technical University of Munich,Germany,,27,83.4,71.9,84.8,91.3,83.4,100.0
+University of Edinburgh,United Kingdom,2120,29,82.5,75.7,74.7,94.8,96.2,71.0
+LMU Munich,Germany,,34,79.7,68.4,75.4,92.4,78.7,100.0
+École Polytechnique Fédérale de Lausanne,Switzerland,,35,79.6,73.5,70.8,87.5,95.4,99.9
+King’s College London,United Kingdom,,38,78.7,64.2,72.1,95.5,96.9,72.3
+KU Leuven,Belgium,2386,46,76.8,61.3,73.8,91.3,79.2,100.0
+Paris Sciences et Lettres – PSL Research University Paris,France,,48,76.5,74.2,71.8,79.8,77.9,99.7
+Universität Heidelberg,Germany,,49,76.3,68.3,61.4,95.3,80.2,93.7
+London School of Economics and Political Science,United Kingdom,2164,52,75.4,60.5,71.2,93.4,94.2,46.8
+Karolinska Institute,Sweden,,=53,75.0,59.6,66.0,95.5,77.8,94.7
+University of Manchester,United Kingdom,2166,56,74.9,61.2,65.9,92.4,94.5,74.0
+Delft University of Technology,Netherlands,1166,57,74.3,64.1,75.1,75.5,92.1,100.0
+University of Amsterdam,Netherlands,1172,=62,73.7,55.4,63.6,96.6,92.5,76.0
+Wageningen University & Research,Netherlands,,66,72.2,58.6,58.4,90.4,91.6,99.5
+Institut Polytechnique de Paris,France,,=68,71.6,71.8,62.4,70.9,95.1,99.1
+Université Paris-Saclay,France,2331,=68,71.6,67.9,62.2,80.6,76.0,92.4
+Leiden University,Netherlands,,=70,71.3,49.3,63.3,93.6,85.2,99.1
+Sorbonne University,France,,=76,70.4,67.6,59.2,81.6,78.4,73.1
+University of Bristol,United Kingdom,2098,=80,69.7,51.4,56.5,94.4,91.8,74.6
+University of Groningen,Netherlands,1161,82,69.3,47.4,55.9,94.1,91.7,99.7
+University of Glasgow,United Kingdom,2126,84,68.9,50.6,52.2,95.9,95.5,73.2
+Humboldt University of Berlin,Germany,749,89,67.2,52.6,60.6,85.5,77.6,65.9
+University of Copenhagen,Denmark,286,90,67.1,51.3,52.2,91.3,76.6,92.8
+Charité - Universitätsmedizin Berlin,Germany,,91,66.9,47.2,48.7,98.2,72.4,100.0
+RWTH Aachen University,Germany,,=92,66.7,54.9,63.0,76.7,70.3,100.0
+University of Bonn,Germany,,=92,66.7,51.5,56.6,88.5,71.8,78.7
+Lund University,Sweden,1915,=95,66.6,49.1,56.7,85.7,79.2,99.7
+University of Vienna,Austria,71,=95,66.6,50.0,60.9,79.8,94.0,80.0
+KTH Royal Institute of Technology,Sweden,1912,=98,66.3,51.1,57.3,79.7,90.5,97.2
+University of Birmingham,United Kingdom,2093,=98,66.3,47.7,48.4,93.7,94.3,74.2
+University of Tübingen,Germany,,=98,66.3,49.1,53.8,89.0,74.6,98.6
+Aarhus University,Denmark,266,101,66.2,48.6,58.8,83.9,75.3,99.8
+University of Helsinki,Finland,310,=105,65.7,50.4,57.3,90.1,58.6,70.7
+Erasmus University Rotterdam,Netherlands,1140,107,65.6,38.5,52.9,95.9,87.1,89.2
+University of Bern,Switzerland,1969,=108,65.4,46.6,47.0,92.0,86.3,99.4
+University of Sheffield,United Kingdom,2198,=108,65.4,49.7,49.1,88.3,90.4,79.4
+Free University of Berlin,Germany,,=113,65.2,50.2,58.3,82.2,79.5,72.4
+University of Oslo,Norway,1197,=113,65.2,47.8,52.5,90.3,76.5,75.2
+Ghent University,Belgium,,115,65.1,48.8,58.6,82.7,65.9,99.9
+University of Leeds,United Kingdom,2154,118,64.9,48.3,50.3,87.2,93.6,71.6
+University of Basel,Switzerland,1965,120,64.5,50.2,42.8,87.5,94.2,99.8
+Technical University of Denmark,Denmark,276,121,64.4,51.2,46.5,82.6,93.0,99.9
+University of Göttingen,Germany,,=122,64.1,49.4,52.7,87.2,70.1,71.0
+University of Warwick,United Kingdom,2234,=122,64.1,48.1,49.3,85.6,95.6,69.4
+University of Hamburg,Germany,814,=125,63.7,45.7,52.8,87.1,63.6,99.8
+University of Lausanne,Switzerland,1972,=125,63.7,44.3,46.1,89.0,88.4,99.4
+Uppsala University,Sweden,1927,128,63.5,47.4,54.9,81.3,71.5,95.0
+University of Southampton,United Kingdom,2204,129,63.4,44.6,45.4,89.6,96.1,73.1
+University of Bologna,Italy,1012,130,63.3,54.2,50.1,83.3,59.7,82.5
+Maastricht University,Netherlands,1169,=131,63.2,41.4,46.1,88.3,96.7,98.3
+Lomonosov Moscow State University,Russian Federation,1599,133,63.0,80.9,69.7,32.9,71.6,93.4
+Queen Mary University of London,United Kingdom,2181,=134,62.9,38.7,42.6,95.7,97.5,76.5
+Scuola Normale Superiore di Pisa,Italy,,137,62.8,58.6,46.9,86.4,59.3,37.7
+University of Freiburg,Germany,,=138,62.6,46.7,47.4,84.5,77.1,99.7
+University of Liverpool,United Kingdom,2158,143,62.2,43.5,42.0,91.2,95.0,68.0
+Newcastle University,United Kingdom,2171,144,62.1,39.8,43.2,93.0,89.5,80.0
+University of Barcelona,Spain,1830,=145,62.0,44.0,47.8,88.5,64.6,92.4
+University of Nottingham,United Kingdom,2175,=145,62.0,45.8,43.3,87.3,91.8,72.1
+Radboud University Nijmegen,Netherlands,,=154,61.5,38.5,49.7,89.3,75.9,82.1
+University of York,United Kingdom,2240,=154,61.5,44.1,43.9,87.5,90.6,67.6
+Technical University of Berlin,Germany,806,=160,61.0,45.2,52.8,77.8,70.3,95.2
+University of St Andrews,United Kingdom,2207,=162,60.9,50.6,43.3,78.2,94.4,71.9
+University of Cologne,Germany,,=164,60.8,44.5,46.5,83.9,70.2,94.2
+Karlsruhe Institute of Technology,Germany,,=166,60.7,49.3,54.9,69.3,73.1,100.0
+University of Geneva,Switzerland,1967,=166,60.7,43.8,40.0,85.2,96.1,85.7
+Sapienza University of Rome,Italy,,=170,60.6,55.9,53.5,73.4,42.9,85.2
+University of Antwerp,Belgium,,=170,60.6,38.9,44.3,89.6,73.4,98.5
+University of Exeter,United Kingdom,2123,=170,60.6,36.6,42.1,94.0,93.4,59.1
+Trinity College Dublin,Ireland,974,173,60.5,42.8,44.9,83.2,91.2,76.2
+TU Dresden,Germany,,174,60.4,47.1,50.0,77.0,66.1,99.9
+Durham University,United Kingdom,2118,175,60.3,45.2,44.9,81.0,94.6,62.8
+Vrije Universiteit Amsterdam,Netherlands,1174,=176,60.2,37.7,41.8,91.8,84.3,77.5
+University of Würzburg,Germany,,179,60.1,39.6,43.5,91.2,59.9,99.8
+Medical University of Vienna,Austria,,=181,59.9,36.3,36.8,94.2,83.2,99.9
+Universitat Autònoma de Barcelona (UAB),Spain,1824,183,59.8,44.9,44.8,84.6,69.5,73.3
+Lancaster University,United Kingdom,2150,=184,59.7,40.9,40.8,86.7,95.1,67.2
+Université Catholique de Louvain,Belgium,140,=184,59.7,40.0,47.7,80.7,80.3,95.2
+Pompeu Fabra University,Spain,1878,=187,59.5,36.6,45.3,87.5,80.1,81.6
+University of Twente,Netherlands,1170,=190,59.3,45.7,45.0,73.0,92.4,98.9
+Université Paris Cité,France,,=190,59.3,44.4,38.0,89.9,73.1,68.0
+Eindhoven University of Technology,Netherlands,1167,=192,59.2,47.7,49.5,67.0,88.6,100.0
+University of Leicester,United Kingdom,2153,=192,59.2,35.4,34.9,95.9,94.8,69.0
+Aalto University,Finland,338,=195,59.0,44.3,43.4,78.9,80.7,91.0
+University of Münster,Germany,,=195,59.0,43.9,47.2,83.2,54.4,82.1
+Queen’s University Belfast,United Kingdom,,=198,58.8,34.7,38.4,90.8,98.3,70.0
+Cardiff University,United Kingdom,2107,201–250,56.4,35.9,39.1,86.0,88.4,70.3
+Chalmers University of Technology,Sweden,1895,201–250,56.4,42.6,45.9,71.2,76.7,97.1
+Friedrich Schiller University Jena,Germany,842,201–250,56.4,44.0,42.5,83.5,62.0,88.7
+Goethe University Frankfurt,Germany,,201–250,56.4,42.2,41.9,82.1,68.9,81.4
+Linköping University,Sweden,1914,201–250,56.4,31.1,40.4,89.1,70.3,96.8
+Medical University of Graz,Austria,,201–250,56.4,29.7,35.1,92.0,81.3,97.9
+Medical University of Innsbruck,Austria,,201–250,56.4,33.8,30.1,90.9,88.3,99.4
+Politecnico di Milano,Italy,,201–250,56.4,46.2,51.9,67.8,65.5,98.0
+Sant’Anna School of Advanced Studies – Pisa,Italy,1006,201–250,56.4,50.2,38.3,77.5,56.8,93.7
+Stockholm University,Sweden,1913,201–250,56.4,33.5,48.4,87.2,76.5,66.1
+University College Dublin,Ireland,976,201–250,56.4,35.5,41.7,84.0,89.4,74.9
+University of Aberdeen,United Kingdom,2079,201–250,56.4,38.0,34.8,82.3,96.4,79.6
+University of Erlangen-Nuremberg,Germany,,201–250,56.4,41.7,46.5,78.6,64.2,100.0
+University of Gothenburg,Sweden,,201–250,56.4,34.8,43.2,91.1,62.7,78.8
+University of Mannheim,Germany,854,201–250,56.4,37.0,44.5,85.5,71.1,88.2
+University of Padua,Italy,1042,201–250,56.4,46.4,41.0,80.0,53.2,78.9
+University of Potsdam,Germany,862,201–250,56.4,37.9,44.3,81.7,66.4,92.4
+University of Reading,United Kingdom,2186,201–250,56.4,41.7,38.1,85.2,94.2,66.9
+University of Surrey,United Kingdom,2212,201–250,56.4,36.3,34.4,89.5,96.0,71.6
+University of Sussex,United Kingdom,2213,201–250,56.4,34.3,36.0,88.9,94.8,64.8
+Université Libre de Bruxelles,Belgium,143,201–250,56.4,36.7,44.8,81.3,86.9,68.3
+Vrije Universiteit Brussel,Belgium,148,201–250,56.4,37.8,42.5,80.4,76.6,93.6
+Aalborg University,Denmark,267,251–300,54.3,33.6,44.9,80.6,72.4,88.0
+Central European University,Austria,,251–300,54.3,50.0,34.4,76.3,92.6,28.3
+Heinrich Heine University Düsseldorf,Germany,826,251–300,54.3,36.2,34.3,84.3,67.2,83.9
+Humanitas University,Italy,,251–300,54.3,36.6,29.0,98.5,64.0,64.0
+LUT University,Finland,,251–300,54.3,31.6,35.3,87.9,71.0,75.4
+RCSI University of Medicine and Health Sciences,Ireland,,251–300,54.3,32.2,37.0,82.1,91.4,78.5
+Ruhr University Bochum,Germany,793,251–300,54.3,39.9,46.1,72.6,63.7,98.9
+Semmelweis University,Hungary,,251–300,54.3,45.4,28.8,83.5,76.5,75.1
+Technical University of Darmstadt,Germany,738,251–300,54.3,43.1,46.8,65.7,73.1,99.8
+Ulm University,Germany,870,251–300,54.3,42.3,31.6,83.1,64.8,91.2
+University of Bath,United Kingdom,2087,251–300,54.3,39.8,35.1,81.0,93.2,67.1
+University of Bergen,Norway,1182,251–300,54.3,35.3,36.4,84.1,75.8,75.4
+University of East Anglia,United Kingdom,2222,251–300,54.3,34.7,30.2,89.1,87.3,62.0
+University of Konstanz,Germany,849,251–300,54.3,38.5,42.8,72.9,75.8,95.7
+University of Luxembourg,Luxembourg,,251–300,54.3,39.9,39.3,75.1,92.1,79.8
+University of Navarra,Spain,1860,251–300,54.3,37.2,34.1,81.9,74.4,90.7
+University of Oulu,Finland,319,251–300,54.3,36.7,39.5,85.8,63.6,70.9
+University of Southern Denmark,Denmark,278,251–300,54.3,30.4,36.0,87.3,75.8,98.1
+University of Stuttgart,Germany,867,251–300,54.3,44.5,48.4,63.4,58.5,99.9
+Università Cattolica del Sacro Cuore,Italy,,251–300,54.3,37.4,32.9,89.6,47.8,81.9
+Università della Svizzera italiana,Switzerland,1964,251–300,54.3,41.1,29.7,80.3,98.2,92.9
+Vita-Salute San Raffaele University,Italy,,251–300,54.3,34.3,34.0,98.8,51.3,66.3
+Bauman Moscow State Technical University,Russian Federation,1471,301–350,51.6,68.4,42.8,43.0,59.6,54.4
+"Birkbeck, University of London",United Kingdom,2089,301–350,51.6,34.2,32.2,76.0,91.6,65.5
+"City St George's, University of London",United Kingdom,2382,301–350,51.6,27.4,30.1,91.8,95.6,65.0
+Dublin City University,Ireland,958,301–350,51.6,28.5,36.6,88.6,71.1,69.0
+Hasselt University,Belgium,142,301–350,51.6,35.0,37.8,72.8,71.2,87.8
+Johannes Gutenberg University of Mainz,Germany,853,301–350,51.6,38.9,27.1,83.0,66.0,72.3
+Koç University,Turkey,,301–350,51.6,34.6,41.9,70.6,59.2,91.2
+Loughborough University,United Kingdom,2151,301–350,51.6,34.8,32.9,76.1,89.4,70.2
+Norwegian University of Science and Technology,Norway,1194,301–350,51.6,36.7,39.1,75.9,64.6,71.4
+Swansea University,United Kingdom,2245,301–350,51.6,30.8,30.6,87.4,88.6,58.3
+TU Wien,Austria,,301–350,51.6,44.2,47.2,55.5,85.3,99.9
+Tampere University,Finland,329,301–350,51.6,31.2,38.7,80.2,53.8,85.2
+Tilburg University,Netherlands,1165,301–350,51.6,29.1,42.9,73.8,85.2,78.9
+University of Bayreuth,Germany,819,301–350,51.6,39.8,41.3,68.6,68.0,84.5
+University of Bremen,Germany,735,301–350,51.6,39.7,39.6,72.3,63.0,78.9
+University of Duisburg-Essen,Germany,827,301–350,51.6,35.4,34.6,82.7,64.3,87.4
+University of Dundee,United Kingdom,2117,301–350,51.6,28.5,32.6,82.1,91.7,87.0
+University of Essex,United Kingdom,2122,301–350,51.6,30.1,30.2,81.0,97.3,61.2
+University of Hohenheim,Germany,841,301–350,51.6,36.0,36.4,78.4,61.3,76.7
+University of Innsbruck,Austria,66,301–350,51.6,35.7,36.8,69.6,93.7,87.8
+University of Liège,Belgium,2282,301–350,51.6,34.8,41.8,72.7,72.5,97.5
+University of Milan,Italy,999,301–350,51.6,38.9,32.5,86.1,47.2,71.2
+University of Naples Federico II,Italy,1038,301–350,51.6,40.0,31.8,83.9,35.2,72.5
+University of Rome II – Tor Vergata,Italy,,301–350,51.6,40.4,36.1,71.7,65.7,86.0
+University of Tartu,Estonia,305,301–350,51.6,34.5,31.4,84.0,59.7,65.1
+University of Turku,Finland,336,301–350,51.6,34.2,35.6,83.4,52.6,66.0
+École Normale Supérieure de Lyon,France,414,301–350,51.6,56.8,44.0,51.9,64.4,90.2
+Autonomous University of Madrid,Spain,,351–400,49.9,41.8,31.3,73.4,56.2,66.5
+Justus Liebig University Giessen,Germany,,351–400,49.9,35.0,39.2,72.5,62.7,71.3
+Leibniz University Hannover,Germany,,351–400,49.9,38.8,41.7,64.3,56.9,84.3
+Middle East Technical University,Turkey,,351–400,49.9,46.4,44.8,52.2,57.7,90.2
+Moscow Institute of Physics and Technology (MIPT),Russian Federation,1582,351–400,49.9,57.8,44.3,42.5,66.2,80.8
+Sabancı University,Turkey,,351–400,49.9,33.0,38.8,67.5,65.6,99.0
+Swedish University of Agricultural Sciences,Sweden,1923,351–400,49.9,35.5,34.8,76.0,53.8,87.8
+University College Cork,Ireland,975,351–400,49.9,29.3,33.2,78.7,79.0,77.6
+University of Brescia,Italy,1013,351–400,49.9,35.4,24.7,88.0,43.2,72.0
+University of Florence,Italy,1027,351–400,49.9,37.6,37.9,75.9,46.7,76.7
+University of Galway,Ireland,977,351–400,49.9,30.2,34.7,76.9,77.6,86.7
+University of Kiel,Germany,,351–400,49.9,32.5,33.4,81.8,62.2,64.4
+University of Pavia,Italy,1046,351–400,49.9,38.9,31.9,77.0,52.2,78.9
+University of Pisa,Italy,1005,351–400,49.9,36.3,34.7,77.7,43.2,67.7
+University of Siena,Italy,1055,351–400,49.9,39.3,35.1,75.0,46.7,75.5
+University of St Gallen,Switzerland,1971,351–400,49.9,33.3,23.0,80.8,93.6,66.6
+University of Strathclyde,United Kingdom,2210,351–400,49.9,37.0,35.2,66.4,90.5,79.7
+University of Trento,Italy,1061,351–400,49.9,34.6,35.2,77.4,61.5,70.3
+Université Grenoble Alpes,France,512,351–400,49.9,42.6,36.7,62.7,69.4,70.0
+Verona University,Italy,1068,351–400,49.9,34.6,31.1,81.6,45.0,71.1
+Aston University,United Kingdom,2084,401–500,46.2,21.7,26.2,83.6,95.7,64.6
+Bournemouth University,United Kingdom,2095,401–500,46.2,18.8,21.7,89.3,89.2,46.4
+Boğaziçi University,Turkey,,401–500,46.2,32.9,36.1,60.9,61.6,94.0
+Brunel University of London,United Kingdom,,401–500,46.2,24.0,26.6,81.8,98.1,64.9
+Charles University,Czechia,,401–500,46.2,37.9,32.2,64.8,64.7,63.4
+Free University of Bozen-Bolzano,Italy,1014,401–500,46.2,31.4,21.9,83.7,78.2,51.3
+Heriot-Watt University,United Kingdom,2139,401–500,46.2,33.4,30.3,58.8,95.5,70.3
+IMT Atlantique,France,362,401–500,46.2,47.3,35.5,48.3,81.2,97.8
+Institut Agro,France,,401–500,46.2,48.4,34.9,58.2,64.2,78.7
+Johannes Kepler University of Linz,Austria,70,401–500,46.2,36.7,35.4,61.4,75.6,98.5
+Leuphana University of Lüneburg,Germany,2272,401–500,46.2,23.5,28.1,83.2,66.0,33.6
+Marche Polytechnic University,Italy,,401–500,46.2,35.8,26.4,75.9,33.9,72.6
+Montpellier University,France,540,401–500,46.2,39.5,33.5,68.7,66.8,68.7
+National and Kapodistrian University of Athens,Greece,,401–500,46.2,24.4,26.8,78.0,55.7,92.5
+Near East University,Northern Cyprus,,401–500,46.2,27.4,21.7,78.5,90.0,54.4
+Northumbria University,United Kingdom,2228,401–500,46.2,23.6,25.5,80.5,91.4,47.8
+Polytechnic University of Turin,Italy,1000,401–500,46.2,31.6,30.0,71.0,56.6,86.7
+Roskilde University,Denmark,291,401–500,46.2,25.9,34.1,74.6,54.7,73.9
+"Royal Holloway, University of London",United Kingdom,7,401–500,46.2,32.3,28.9,72.2,92.5,65.1
+SOAS University of London,United Kingdom,,401–500,46.2,38.7,34.7,59.9,79.9,38.9
+Umeå University,Sweden,1926,401–500,46.2,30.0,33.1,80.2,62.1,63.2
+University of Bordeaux,France,353,401–500,46.2,36.8,28.0,68.6,64.6,68.3
+University of Coimbra,Portugal,1374,401–500,46.2,33.8,42.1,61.5,54.7,81.4
+University of Cyprus,Cyprus,224,401–500,46.2,28.9,30.7,69.2,74.1,70.2
+University of Eastern Finland,Finland,,401–500,46.2,28.6,31.1,76.6,49.7,67.6
+University of Fribourg,Switzerland,1966,401–500,46.2,39.1,33.8,62.4,81.3,71.9
+University of Genoa,Italy,1028,401–500,46.2,39.4,30.9,74.6,46.9,76.2
+University of Greifswald,Germany,,401–500,46.2,35.1,31.3,69.5,51.4,58.3
+University of Jyväskylä,Finland,314,401–500,46.2,31.9,34.4,77.2,48.6,49.1
+University of Kent,United Kingdom,,401–500,46.2,29.5,28.4,73.2,92.6,64.4
+University of Lisbon,Portugal,,401–500,46.2,31.1,41.8,66.8,60.3,75.3
+University of Marburg,Germany,,401–500,46.2,37.8,32.1,72.0,61.9,70.8
+University of Milan-Bicocca,Italy,1034,401–500,46.2,25.1,27.1,87.7,46.3,68.1
+University of Porto,Portugal,,401–500,46.2,33.7,39.1,70.2,56.0,67.8
+University of Portsmouth,United Kingdom,8,401–500,46.2,22.0,20.1,88.7,94.5,51.1
+University of Regensburg,Germany,863,401–500,46.2,36.3,30.8,70.9,58.4,67.6
+University of Turin,Italy,1000,401–500,46.2,24.3,31.9,81.7,44.3,74.0
+University of Vaasa,Finland,321,401–500,46.2,23.7,28.1,90.5,67.4,35.6
+Bangor University,United Kingdom,,501–600,43.6,28.3,26.0,70.3,87.1,63.2
+Campus Bio-Medico University of Rome,Italy,1018,501–600,43.6,36.9,27.2,73.3,33.6,54.1
+Ca’ Foscari University of Venice,Italy,,501–600,43.6,38.0,38.0,53.2,65.9,61.3
+Complutense University of Madrid,Spain,1838,501–600,43.6,43.7,34.5,57.6,49.1,56.6
+Constructor University,Germany,,501–600,43.6,34.9,32.2,51.4,94.0,92.4
+Cyprus University of Technology,Cyprus,223,501–600,43.6,28.9,25.6,75.1,68.5,36.3
+"Goldsmiths, University of London",United Kingdom,2129,501–600,43.6,28.2,23.5,71.2,80.8,48.8
+HSE University,Russian Federation,,501–600,43.6,31.7,43.7,54.6,49.2,90.7
+Hamburg University of Technology,Germany,,501–600,43.6,38.1,26.0,56.9,61.8,86.0
+Istanbul Technical University,Turkey,,501–600,43.6,39.7,41.7,50.4,44.1,93.0
+Jagiellonian University,Poland,,501–600,43.6,43.8,33.6,51.1,45.7,54.2
+Keele University,United Kingdom,2146,501–600,43.6,23.5,22.6,75.5,82.3,63.8
+Liverpool John Moores University,United Kingdom,2159,501–600,43.6,19.7,19.7,83.8,79.9,51.2
+Maynooth University,Ireland,,501–600,43.6,23.5,34.4,68.7,75.0,50.5
+Middlesex University,United Kingdom,,501–600,43.6,22.4,18.7,76.1,92.5,45.3
+NOVA University of Lisbon,Portugal,,501–600,43.6,30.2,36.4,59.7,62.0,75.8
+Polytechnic University of Bari,Italy,998,501–600,43.6,27.0,31.1,72.8,36.7,73.9
+RPTU University Kaiserslautern-Landau,Germany,,501–600,43.6,36.1,30.9,56.3,51.1,83.2
+Royal Veterinary College,United Kingdom,,501–600,43.6,31.9,21.5,66.2,93.0,64.4
+Saarland University,Germany,,501–600,43.6,32.5,19.2,73.1,78.8,68.7
+TU Dortmund University,Germany,,501–600,43.6,36.0,35.3,57.0,56.5,71.5
+University of Bradford,United Kingdom,2096,501–600,43.6,21.4,21.4,76.1,93.3,58.5
+University of Catania,Italy,1022,501–600,43.6,31.4,22.0,78.7,47.2,59.0
+University of Ferrara,Italy,1025,501–600,43.6,31.9,26.8,70.3,44.0,68.5
+University of Graz,Austria,52,501–600,43.6,32.3,24.1,65.3,81.2,51.0
+University of Huddersfield,United Kingdom,2136,501–600,43.6,25.6,23.9,73.9,89.3,51.3
+University of Hull,United Kingdom,2137,501–600,43.6,27.3,23.8,72.9,87.8,57.5
+University of Iceland,Iceland,947,501–600,43.6,24.6,35.3,69.3,55.2,83.1
+University of Limerick,Ireland,978,501–600,43.6,28.6,34.6,61.7,75.0,73.1
+University of Messina,Italy,1033,501–600,43.6,35.6,28.1,71.8,36.6,64.3
+University of Modena and Reggio Emilia,Italy,,501–600,43.6,34.7,25.7,72.9,38.9,77.9
+University of Nicosia,Cyprus,234,501–600,43.6,19.3,24.1,81.3,90.2,51.7
+University of Palermo,Italy,1041,501–600,43.6,33.3,30.5,66.7,37.0,54.7
+University of Plymouth,United Kingdom,2180,501–600,43.6,23.0,21.2,77.9,82.2,65.8
+University of Salerno,Italy,1051,501–600,43.6,30.6,30.2,72.7,36.9,63.1
+University of Siegen,Germany,866,501–600,43.6,30.4,36.7,63.6,60.0,63.6
+University of Stirling,United Kingdom,2208,501–600,43.6,24.4,26.3,74.6,91.1,45.6
+University of Toulouse,France,4,501–600,43.6,32.5,30.7,62.9,67.7,71.0
+University of Trieste,Italy,1069,501–600,43.6,34.3,27.7,72.4,50.9,57.6
+University of Valencia,Spain,1890,501–600,43.6,31.8,27.7,70.9,52.6,68.5
+Wroclaw Medical University,Poland,,501–600,43.6,43.5,17.9,76.5,37.5,48.1
+Aberystwyth University,United Kingdom,2080,601–800,39.0,26.9,22.2,61.9,83.1,62.1
+Amedeo Avogadro University of Eastern Piedmont,Italy,,601–800,39.0,25.6,24.8,70.6,47.8,52.9
+Anglia Ruskin University (ARU),United Kingdom,2083,601–800,39.0,18.5,14.6,83.6,91.0,34.1
+Bilkent University,Turkey,,601–800,39.0,28.4,35.5,51.3,63.2,99.5
+Centrale Nantes,France,365,601–800,39.0,39.9,31.2,41.7,85.4,86.1
+Claude Bernard University Lyon 1,France,534,601–800,39.0,27.0,26.4,62.6,60.2,70.1
+Coventry University,United Kingdom,2112,601–800,39.0,21.6,15.1,73.5,94.4,44.9
+Cyprus International University,Northern Cyprus,,601–800,39.0,17.8,12.1,83.5,83.9,17.5
+Czech University of Life Sciences Prague (CZU),Czechia,,601–800,39.0,25.1,17.5,64.9,78.5,47.3
+De Montfort University,United Kingdom,,601–800,39.0,17.7,16.4,70.5,92.9,50.4
+Eastern Mediterranean University,Northern Cyprus,,601–800,39.0,20.2,12.7,77.2,77.3,30.9
+Edinburgh Napier University,United Kingdom,2170,601–800,39.0,17.5,19.7,75.3,90.3,41.2
+Graz University of Technology,Austria,,601–800,39.0,41.9,22.7,46.5,79.4,95.3
+Harokopio University of Athens,Greece,,601–800,39.0,20.8,24.2,79.3,39.5,40.2
+ISCTE-University Institute of Lisbon,Portugal,,601–800,39.0,29.8,35.9,54.9,50.8,59.9
+Kadir Has University,Turkey,,601–800,39.0,19.4,31.7,67.1,56.1,32.8
+London Metropolitan University,United Kingdom,2162,601–800,39.0,16.6,14.4,76.6,91.3,30.2
+London South Bank University,United Kingdom,2378,601–800,39.0,18.5,13.0,75.6,95.9,48.1
+Manchester Metropolitan University,United Kingdom,2169,601–800,39.0,20.8,19.5,78.3,83.0,42.7
+Masaryk University,Czechia,,601–800,39.0,26.8,32.6,57.1,66.2,51.1
+Nantes Université,France,544,601–800,39.0,29.3,21.4,65.6,59.8,67.6
+National Research Nuclear University MEPhI,Russian Federation,,601–800,39.0,49.3,35.0,29.2,72.6,63.4
+Nottingham Trent University,United Kingdom,2176,601–800,39.0,20.8,14.1,83.3,89.1,38.1
+Obuda University,Hungary,2276,601–800,39.0,17.4,30.9,72.8,48.8,27.2
+Otto von Guericke University of Magdeburg,Germany,852,601–800,39.0,34.6,18.2,56.6,72.6,57.7
+Paderborn University,Germany,860,601–800,39.0,31.1,35.9,51.4,50.0,70.7
+Paris Lodron Universität Salzburg,Austria,,601–800,39.0,32.3,21.8,51.8,92.1,49.6
+Parthenope University of Naples,Italy,,601–800,39.0,18.9,22.8,78.0,35.4,34.8
+Polytechnic University of Valencia,Spain,1890,601–800,39.0,32.3,26.2,50.4,57.2,86.8
+Rovira i Virgili University,Spain,1885,601–800,39.0,28.2,25.1,62.5,57.6,57.5
+SRUC (Scotland’s Rural College),United Kingdom,,601–800,39.0,25.2,14.9,75.4,65.4,28.0
+Sciences Po,France,,601–800,39.0,30.1,24.8,67.9,82.9,18.6
+TU Braunschweig,Germany,,601–800,39.0,36.0,24.3,58.5,57.7,77.5
+Tallinn University of Technology,Estonia,304,601–800,39.0,26.2,24.9,66.0,58.4,69.2
+Teesside University,United Kingdom,2216,601–800,39.0,20.6,14.3,72.9,87.9,29.8
+Tomsk State University,Russian Federation,1694,601–800,39.0,50.5,38.3,27.0,74.7,55.9
+UWE Bristol (University of the West of England),United Kingdom,2230,601–800,39.0,18.8,14.6,73.3,81.2,59.2
+UiT The Arctic University of Norway,Norway,,601–800,39.0,27.3,23.1,67.6,66.0,48.9
+Ulster University,United Kingdom,2321,601–800,39.0,22.8,22.8,65.7,95.0,54.3
+Universitat Politècnica de Catalunya,Spain,,601–800,39.0,34.2,22.6,58.7,61.7,75.8
+University of Aveiro,Portugal,1370,601–800,39.0,31.6,31.5,53.8,46.3,55.3
+University of Bari Aldo Moro,Italy,,601–800,39.0,20.0,25.8,71.4,38.1,64.6
+University of Beira Interior,Portugal,1372,601–800,39.0,23.8,23.4,71.4,51.2,39.7
+University of Brighton,United Kingdom,2101,601–800,39.0,19.9,19.3,63.4,84.7,64.9
+University of Cagliari,Italy,1015,601–800,39.0,33.8,24.0,64.3,40.5,62.7
+University of Calabria,Italy,1016,601–800,39.0,39.5,21.9,62.4,42.5,59.7
+University of Crete,Greece,898,601–800,39.0,24.7,29.1,68.5,46.2,66.3
+University of Derby,United Kingdom,2115,601–800,39.0,19.0,14.1,74.0,80.2,34.6
+University of Granada,Spain,1846,601–800,39.0,31.3,29.7,60.9,53.4,60.7
+University of Greenwich,United Kingdom,2130,601–800,39.0,17.6,16.5,81.6,97.1,39.1
+University of Hertfordshire,United Kingdom,2133,601–800,39.0,18.2,13.2,76.5,92.1,44.8
+University of Insubria,Italy,1040,601–800,39.0,19.0,23.7,79.3,41.2,48.7
+University of Klagenfurt,Austria,68,601–800,39.0,34.4,19.6,60.5,89.0,49.5
+University of Lille,France,,601–800,39.0,33.6,23.4,58.5,65.1,67.0
+University of Lincoln,United Kingdom,2157,601–800,39.0,20.5,18.5,77.2,86.9,34.1
+University of L’Aquila,Italy,,601–800,39.0,32.8,22.4,66.6,39.4,78.5
+University of Minho,Portugal,,601–800,39.0,28.0,33.6,57.1,48.9,82.6
+University of Mons,Belgium,,601–800,39.0,27.2,30.9,58.4,70.4,66.4
+University of Neuchâtel,Switzerland,1973,601–800,39.0,35.0,24.2,57.8,84.5,47.1
+University of Parma,Italy,1045,601–800,39.0,20.9,23.9,70.1,39.2,64.8
+University of Passau,Germany,861,601–800,39.0,32.7,37.0,52.5,57.2,70.4
+University of Rennes 1,France,556,601–800,39.0,34.3,20.0,53.4,62.2,70.0
+University of Santiago de Compostela,Spain,1887,601–800,39.0,30.8,23.1,60.9,48.4,48.2
+University of Tuscia,Italy,,601–800,39.0,23.8,28.7,66.5,50.6,59.7
+University of Udine,Italy,1064,601–800,39.0,32.8,20.9,69.4,41.1,58.5
+University of Warsaw,Poland,1302,601–800,39.0,38.1,32.6,46.7,45.0,39.3
+University of Wuppertal,Germany,,601–800,39.0,31.5,31.2,60.6,55.5,65.3
+University of the Basque Country,Spain,,601–800,39.0,31.1,21.9,63.3,45.0,61.5
+University of the West of Scotland,United Kingdom,,601–800,39.0,19.5,15.5,69.7,91.0,66.1
+Université Côte d'Azur,France,,601–800,39.0,30.9,20.8,61.4,81.6,65.8
+Yildiz Technical University,Turkey,,601–800,39.0,33.1,31.6,48.5,39.5,72.9
+École Nationale des Travaux Publics de l'État (ENTPE),France,423,601–800,39.0,36.4,37.2,41.8,71.7,80.1
+École des Mines de Saint-Étienne,France,,601–800,39.0,47.3,31.3,30.1,72.0,78.9
+Örebro University,Sweden,1921,601–800,39.0,19.3,25.2,78.3,54.4,50.5
+Abdullah Gül University,Turkey,,801–1000,35.5,22.2,27.2,54.9,49.8,56.9
+Aristotle University of Thessaloniki,Greece,886,801–1000,35.5,22.7,19.4,63.4,37.0,62.6
+Arts et Métiers,France,,801–1000,35.5,35.1,23.0,40.6,66.3,82.5
+Atatürk University,Turkey,,801–1000,35.5,29.5,28.0,51.8,36.7,29.0
+Azerbaijan State University of Economics,Azerbaijan,,801–1000,35.5,23.4,9.3,74.5,59.0,19.4
+Bahçeşehir University,Turkey,,801–1000,35.5,19.0,22.9,59.4,60.6,34.0
+Birmingham City University,United Kingdom,2091,801–1000,35.5,17.9,13.4,65.5,86.3,25.2
+Bucharest University of Economic Studies,Romania,,801–1000,35.5,19.2,11.9,81.5,31.8,23.1
+Cankaya University,Turkey,,801–1000,35.5,15.9,15.9,80.9,51.2,20.5
+Carlos III University of Madrid,Spain,1832,801–1000,35.5,32.6,21.7,45.7,62.6,66.7
+Catholic University of Portugal,Portugal,,801–1000,35.5,20.3,24.9,61.9,57.7,30.9
+Empress Catherine II Saint Petersburg Mining University,Russian Federation,,801–1000,35.5,28.7,17.9,62.8,45.8,51.6
+European University Cyprus,Cyprus,226,801–1000,35.5,20.4,15.3,65.8,92.9,19.9
+Eötvös Loránd University,Hungary,922,801–1000,35.5,29.6,19.8,55.4,50.3,39.7
+Gabriele d‘Annunzio University,Italy,,801–1000,35.5,17.6,20.9,63.6,38.7,56.0
+Glasgow Caledonian University,United Kingdom,2125,801–1000,35.5,17.8,15.2,63.7,83.5,48.7
+Hacettepe University,Turkey,,801–1000,35.5,34.8,28.6,49.0,27.0,58.7
+Halmstad University,Sweden,1901,801–1000,35.5,20.4,16.7,64.8,68.0,29.0
+IMT Nord Europe,France,,801–1000,35.5,32.9,31.0,28.8,72.0,68.4
+Innopolis University,Russian Federation,,801–1000,35.5,23.9,24.5,45.3,80.0,58.3
+Istanbul Medipol University,Turkey,,801–1000,35.5,33.0,29.4,42.6,65.5,54.6
+Jönköping University,Sweden,1906,801–1000,35.5,21.0,22.4,65.5,66.9,37.0
+Kazan Federal University,Russian Federation,,801–1000,35.5,46.6,22.1,27.7,68.4,52.2
+Kingston University,United Kingdom,2147,801–1000,35.5,20.4,15.4,54.6,90.9,48.3
+Leeds Beckett University,United Kingdom,2160,801–1000,35.5,19.2,15.9,69.2,74.9,48.0
+Marie and Louis Pasteur University,France,,801–1000,35.5,22.7,20.4,51.9,68.1,64.6
+Medical University of Lodz,Poland,,801–1000,35.5,31.3,11.6,65.5,31.1,46.4
+Montanuniversität Leoben,Austria,69,801–1000,35.5,40.7,21.3,34.6,77.6,78.6
+National Institute of Applied Sciences of Lyon (INSA Lyon),France,,801–1000,35.5,38.7,22.9,36.7,69.6,93.3
+National Technical University of Athens,Greece,893,801–1000,35.5,33.3,24.4,55.1,35.4,61.2
+National University of Science and Technology (MISiS),Russian Federation,,801–1000,35.5,40.2,29.8,34.5,54.3,74.7
+National Veterinary School of Alfort (EnvA),France,,801–1000,35.5,44.3,11.9,44.2,54.7,44.7
+Norwegian University of Life Sciences,Norway,1200,801–1000,35.5,32.0,15.4,58.4,63.5,40.8
+Open University of Catalonia,Spain,,801–1000,35.5,18.5,20.5,68.3,50.0,32.8
+Oxford Brookes University,United Kingdom,2099,801–1000,35.5,26.9,23.1,53.9,88.1,30.6
+Ozyegin University,Turkey,,801–1000,35.5,20.6,30.7,47.8,58.2,80.9
+Pablo de Olavide University,Spain,1880,801–1000,35.5,23.2,19.4,57.3,52.2,55.8
+Panthéon-Sorbonne University – Paris 1,France,548,801–1000,35.5,36.9,34.0,38.0,63.4,35.8
+Peter the Great St Petersburg Polytechnic University,Russian Federation,,801–1000,35.5,35.7,23.0,38.0,62.0,71.4
+RUDN University,Russian Federation,,801–1000,35.5,39.9,27.8,40.2,68.7,36.6
+Reykjavík University,Iceland,954,801–1000,35.5,18.8,25.9,62.5,62.4,33.7
+Robert Gordon University,United Kingdom,2188,801–1000,35.5,17.3,13.9,69.9,90.1,39.2
+Sheffield Hallam University,United Kingdom,2199,801–1000,35.5,18.0,14.1,65.5,73.2,34.9
+Siberian Federal University,Russian Federation,,801–1000,35.5,34.2,26.9,36.6,59.1,61.1
+The Open University,United Kingdom,2177,801–1000,35.5,17.8,14.3,67.0,61.5,48.0
+Tomsk Polytechnic University,Russian Federation,1694,801–1000,35.5,40.9,25.1,29.8,70.1,63.5
+Universitat Ramon Llull,Spain,1884,801–1000,35.5,20.8,17.6,63.2,73.7,36.5
+University of Alcalá,Spain,,801–1000,35.5,29.2,17.0,54.3,59.6,47.8
+University of Córdoba,Spain,1839,801–1000,35.5,27.4,20.7,60.4,50.6,45.8
+University of Debrecen,Hungary,941,801–1000,35.5,41.7,18.2,45.7,58.0,50.6
+University of Foggia,Italy,1026,801–1000,35.5,16.8,26.0,63.6,32.2,38.0
+University of Hagen,Germany,,801–1000,35.5,30.1,36.3,42.4,44.5,46.4
+University of Jaén,Spain,1852,801–1000,35.5,23.9,20.7,67.0,50.2,39.2
+University of Ljubljana,Slovenia,1808,801–1000,35.5,27.8,23.8,56.0,42.6,69.1
+University of Lleida,Spain,1843,801–1000,35.5,23.2,20.3,59.6,43.3,61.4
+University of Malta,Malta,1132,801–1000,35.5,24.9,18.2,61.6,56.2,36.8
+University of Medicine and Pharmacy Carol Davila,Romania,,801–1000,35.5,26.1,12.5,73.4,37.0,30.2
+University of Namur,Belgium,,801–1000,35.5,26.8,26.7,49.0,70.6,62.4
+University of Nova Gorica,Slovenia,1807,801–1000,35.5,29.9,19.0,49.5,86.7,29.6
+University of Patras,Greece,907,801–1000,35.5,18.5,23.6,60.0,34.2,73.2
+University of Roehampton,United Kingdom,,801–1000,35.5,18.9,22.8,55.0,88.2,27.6
+University of Rome III,Italy,,801–1000,35.5,22.7,25.6,54.7,42.2,63.2
+University of Salamanca,Spain,1886,801–1000,35.5,32.0,24.8,47.9,54.5,46.6
+University of Salento,Italy,,801–1000,35.5,27.2,21.4,61.4,35.6,55.8
+University of Salford,United Kingdom,2192,801–1000,35.5,19.0,14.8,64.9,84.8,57.0
+University of Seville,Spain,,801–1000,35.5,24.9,27.9,55.8,47.4,60.4
+University of Vic – Central University of Catalonia,Spain,,801–1000,35.5,21.4,14.1,70.8,55.8,23.6
+University of Vigo,Spain,1892,801–1000,35.5,25.2,19.8,60.9,49.8,60.1
+University of Westminster,United Kingdom,2235,801–1000,35.5,19.0,16.5,63.1,85.4,48.7
+University of Wolverhampton,United Kingdom,2238,801–1000,35.5,20.3,15.6,59.3,78.8,47.3
+University of the Balearic Islands,Spain,,801–1000,35.5,27.9,16.9,56.6,52.1,38.4
+Université de Bretagne Occidentale,France,522,801–1000,35.5,27.0,19.6,51.8,63.3,49.4
+Ural Federal University,Russian Federation,1734,801–1000,35.5,25.7,29.2,44.4,60.5,58.3
+Vilnius University,Lithuania,1118,801–1000,35.5,26.8,26.5,53.6,49.8,58.3
+École Centrale de Lyon,France,364,801–1000,35.5,37.2,22.8,29.5,76.3,85.5
+AGH University of Krakow,Poland,,1001–1200,32.1,32.7,21.6,39.8,34.8,71.6
+"Adam Mickiewicz University, Poznań",Poland,1215,1001–1200,32.1,20.6,30.7,46.8,38.2,37.3
+Anadolu University,Turkey,,1001–1200,32.1,23.4,10.8,62.6,33.4,22.1
+Athens University of Economics and Business,Greece,885,1001–1200,32.1,18.7,24.6,45.3,43.4,63.4
+Bartin University,Turkey,,1001–1200,32.1,13.7,14.3,69.5,41.3,18.5
+CY Cergy Paris University,France,,1001–1200,32.1,26.3,20.5,38.1,90.1,56.5
+Cardiff Metropolitan University,United Kingdom,,1001–1200,32.1,20.7,14.4,51.3,86.8,26.8
+Edge Hill University,United Kingdom,2119,1001–1200,32.1,18.5,14.2,62.2,58.7,30.7
+European University of Madrid,Spain,,1001–1200,32.1,24.8,10.0,61.2,65.5,18.5
+Financial University under the Government of the Russian Federation,Russian Federation,,1001–1200,32.1,30.0,21.1,42.5,40.3,35.2
+Firat University,Turkey,,1001–1200,32.1,24.4,13.9,57.0,38.3,32.7
+Gdańsk University of Technology,Poland,,1001–1200,32.1,22.1,19.3,55.0,42.1,60.6
+ITMO University,Russian Federation,1518,1001–1200,32.1,30.4,29.9,33.0,57.9,80.6
+Istanbul Gelisim University,Turkey,,1001–1200,32.1,12.8,9.4,71.7,60.7,16.2
+Izmir Institute of Technology,Turkey,,1001–1200,32.1,31.1,29.8,32.2,38.1,60.4
+Jaume I University,Spain,,1001–1200,32.1,25.7,21.9,50.4,44.3,46.7
+Kaunas University of Technology,Lithuania,1104,1001–1200,32.1,25.2,19.9,52.8,42.2,46.8
+Kore University of Enna,Italy,,1001–1200,32.1,17.8,16.6,57.8,41.3,43.0
+Lithuanian University of Health Sciences,Lithuania,,1001–1200,32.1,29.9,13.6,57.5,55.8,29.0
+Medical University of Gdańsk,Poland,,1001–1200,32.1,26.8,12.0,55.8,38.3,45.5
+Medical University of Warsaw,Poland,,1001–1200,32.1,28.7,12.6,52.2,33.3,48.8
+Moscow Technical University of Communications and Informatics,Russian Federation,,1001–1200,32.1,14.3,11.6,71.0,23.8,47.7
+Novosibirsk State University,Russian Federation,1615,1001–1200,32.1,38.4,29.6,24.0,49.3,57.0
+Palacký University Olomouc,Czechia,,1001–1200,32.1,23.3,25.0,47.3,60.0,41.0
+Riga Technical University,Latvia,1094,1001–1200,32.1,27.1,25.3,33.6,65.4,56.4
+Sechenov University,Russian Federation,,1001–1200,32.1,30.2,19.4,43.6,54.9,40.7
+Selçuk University,Turkey,,1001–1200,32.1,32.1,23.7,37.9,33.6,67.1
+Silesian University of Technology,Poland,,1001–1200,32.1,27.7,17.7,50.7,36.0,45.4
+Sumy State University,Ukraine,2058,1001–1200,32.1,20.6,16.4,56.1,49.7,21.6
+TU Bergakademie Freiberg,Germany,813,1001–1200,32.1,38.0,25.5,28.5,68.1,57.0
+Tallinn University,Estonia,303,1001–1200,32.1,27.2,24.5,47.8,55.2,24.4
+Technical University of Madrid,Spain,,1001–1200,32.1,27.8,18.1,45.7,53.8,71.2
+Technische Universität Ilmenau,Germany,815,1001–1200,32.1,31.4,21.9,37.1,64.8,70.9
+Universitat Internacional de Catalunya,Spain,1850,1001–1200,32.1,26.1,11.2,50.2,69.9,21.3
+University of Algarve,Portugal,,1001–1200,32.1,19.6,22.1,54.1,62.8,29.7
+University of Alicante,Spain,1825,1001–1200,32.1,27.6,21.2,47.9,41.7,56.1
+University of Almería,Spain,1827,1001–1200,32.1,22.7,21.2,51.0,45.0,34.5
+University of Angers,France,518,1001–1200,32.1,18.8,23.1,51.1,70.9,58.6
+University of Bedfordshire,United Kingdom,2092,1001–1200,32.1,18.1,14.0,55.3,86.7,32.9
+University of Belgrade,Serbia,1764,1001–1200,32.1,22.6,27.3,50.9,41.6,31.9
+University of Bucharest,Romania,1428,1001–1200,32.1,21.6,24.1,58.4,30.9,27.0
+University of Camerino (Unicam),Italy,,1001–1200,32.1,21.7,18.3,54.2,55.1,58.5
+University of Campania Luigi Vanvitelli,Italy,,1001–1200,32.1,18.4,10.0,75.0,31.5,51.2
+University of Castilla-La Mancha,Spain,1837,1001–1200,32.1,24.0,17.9,52.8,45.0,53.5
+University of Clermont Auvergne,France,2299,1001–1200,32.1,20.8,18.6,49.3,65.4,60.1
+University of East London,United Kingdom,2223,1001–1200,32.1,23.6,15.3,49.5,87.5,32.2
+University of Girona,Spain,2323,1001–1200,32.1,21.2,24.6,51.5,55.9,53.4
+University of Gloucestershire,United Kingdom,2128,1001–1200,32.1,18.5,14.2,58.7,72.2,27.1
+University of Hradec Králové,Czechia,,1001–1200,32.1,20.6,15.8,61.7,63.5,34.7
+University of La Laguna,Spain,1854,1001–1200,32.1,23.4,16.1,55.2,49.3,36.2
+University of Lancashire,United Kingdom,,1001–1200,32.1,18.7,13.4,57.2,82.6,38.7
+University of Latvia,Latvia,1088,1001–1200,32.1,20.5,31.3,42.3,50.7,52.3
+University of Medicine and Pharmacy of Craiova,Romania,,1001–1200,32.1,26.1,10.4,59.4,36.8,23.0
+University of Murcia,Spain,1857,1001–1200,32.1,25.6,19.4,55.2,36.5,55.1
+University of Oviedo,Spain,1869,1001–1200,32.1,30.3,19.8,48.0,40.6,48.3
+University of Piraeus,Greece,900,1001–1200,32.1,16.7,21.7,53.3,25.6,88.3
+University of Pécs,Hungary,936,1001–1200,32.1,32.4,18.7,38.3,55.9,40.6
+University of Sannio,Italy,1053,1001–1200,32.1,30.4,16.8,56.5,29.7,42.8
+University of Savoie Mont Blanc,France,,1001–1200,32.1,17.8,17.6,58.4,62.9,55.1
+University of South Bohemia in České Budějovice,Czechia,,1001–1200,32.1,23.5,17.4,50.4,55.1,25.1
+University of Szeged,Hungary,945,1001–1200,32.1,31.2,16.4,42.3,53.8,48.7
+University of Thessaly,Greece,908,1001–1200,32.1,14.3,15.5,64.7,34.7,43.1
+University of Tours,France,,1001–1200,32.1,30.9,15.9,42.7,59.0,47.7
+University of Zaragoza,Spain,1872,1001–1200,32.1,29.0,20.6,47.9,42.3,71.0
+University of the Aegean,Greece,879,1001–1200,32.1,18.1,24.0,52.7,32.0,83.5
+Université Bourgogne Europe,France,,1001–1200,32.1,19.5,16.0,58.8,58.4,61.1
+York St John University,United Kingdom,2246,1001–1200,32.1,17.3,15.4,60.1,66.1,16.0
+ZHAW Zurich University of Applied Sciences,Switzerland,,1001–1200,32.1,23.3,17.3,50.8,69.1,62.3
+İstinye University,Turkey,,1001–1200,32.1,12.9,18.4,61.1,76.6,17.4
+Akdeniz University,Turkey,,1201–1500,27.3,25.1,26.3,38.2,25.5,60.9
+Ankara University,Turkey,,1201–1500,27.3,35.5,17.0,41.3,33.3,35.5
+Babeş-Bolyai University,Romania,,1201–1500,27.3,20.7,18.6,48.1,39.3,32.9
+Biruni University,Turkey,,1201–1500,27.3,14.7,11.3,58.8,56.4,17.9
+Brno University of Technology,Czechia,,1201–1500,27.3,24.6,17.7,34.5,59.0,73.7
+Budapest University of Technology and Economics,Hungary,915,1201–1500,27.3,23.0,18.4,34.2,38.9,65.1
+Canterbury Christ Church University,United Kingdom,2106,1201–1500,27.3,18.0,13.5,46.3,74.1,19.0
+Comenius University Bratislava,Slovakia,1796,1201–1500,27.3,29.4,17.0,37.2,52.9,30.0
+Czech Technical University in Prague,Czechia,,1201–1500,27.3,30.9,17.8,32.6,59.2,63.7
+Democritus University of Thrace,Greece,,1201–1500,27.3,17.4,16.8,56.1,28.7,37.0
+Duzce University,Turkey,,1201–1500,27.3,19.3,20.1,48.3,29.9,56.6
+Ege University,Turkey,,1201–1500,27.3,35.0,14.0,34.2,27.1,51.3
+Erciyes University,Turkey,,1201–1500,27.3,25.0,13.6,43.0,34.3,41.0
+Gazi University,Turkey,,1201–1500,27.3,27.3,19.6,37.1,24.5,69.5
+Gebze Technical University,Turkey,,1201–1500,27.3,24.9,22.5,40.0,40.5,37.3
+HES-SO University of Applied Sciences and Arts of Western Switzerland,Switzerland,1982,1201–1500,27.3,24.5,13.8,36.2,84.0,29.6
+Hungarian University of Agriculture and Life Sciences,Hungary,,1201–1500,27.3,33.2,13.2,42.0,61.2,25.3
+I. Horbachevsky Ternopil National Medical University,Ukraine,,1201–1500,27.3,24.9,9.8,60.0,37.8,16.5
+Ilia State University,Georgia,,1201–1500,27.3,18.9,9.7,47.6,53.0,17.5
+Immanuel Kant Baltic Federal University,Russian Federation,,1201–1500,27.3,37.1,22.1,20.3,58.0,37.1
+Inönü University,Turkey,,1201–1500,27.3,23.1,15.5,52.6,22.6,31.6
+Istanbul Medeniyet University,Turkey,,1201–1500,27.3,19.2,10.9,53.6,28.0,18.5
+Istanbul University,Turkey,,1201–1500,27.3,32.2,25.6,33.2,38.4,56.8
+Istanbul University-Cerrahpaşa,Turkey,,1201–1500,27.3,30.3,21.2,39.1,27.5,63.6
+Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca,Romania,1422,1201–1500,27.3,26.2,12.4,51.3,49.9,31.1
+Medical University of Bialystok,Poland,,1201–1500,27.3,31.9,12.1,39.1,30.3,41.4
+Medical University of Lublin,Poland,,1201–1500,27.3,33.5,14.6,35.2,33.6,38.5
+Medical University of Silesia in Katowice,Poland,,1201–1500,27.3,30.1,13.0,42.9,26.2,32.0
+Mendel University in Brno,Czechia,,1201–1500,27.3,25.4,18.2,39.7,57.0,23.1
+Miguel Hernández University of Elche,Spain,1858,1201–1500,27.3,22.0,18.4,42.9,42.6,62.6
+National University of Distance Education (UNED),Spain,,1201–1500,27.3,17.2,19.4,41.8,33.3,50.2
+Necmettin Erbakan University,Turkey,,1201–1500,27.3,37.5,15.2,37.3,40.7,23.3
+Nicolaus Copernicus University in Toruń,Poland,1294,1201–1500,27.3,29.6,23.1,38.6,35.6,33.2
+Opole University of Technology,Poland,,1201–1500,27.3,18.6,14.4,45.8,47.0,24.1
+Pavol Jozef Šafárik University in Košice,Slovakia,1800,1201–1500,27.3,41.7,11.2,24.5,59.3,24.7
+Poznan University of Medical Sciences,Poland,,1201–1500,27.3,31.1,14.3,47.8,33.1,44.1
+Poznań University of Life Sciences,Poland,1270,1201–1500,27.3,26.5,12.8,41.0,30.2,30.3
+Public University of Navarre,Spain,,1201–1500,27.3,25.5,15.2,49.2,47.3,43.3
+Reshetnev Siberian State University of Science and Technology,Russian Federation,,1201–1500,27.3,21.1,9.2,53.0,22.0,37.8
+Riga Stradiņš University,Latvia,,1201–1500,27.3,18.5,16.9,39.1,64.6,25.0
+SWPS University,Poland,,1201–1500,27.3,15.8,17.0,49.5,49.4,32.8
+Sakarya University,Turkey,,1201–1500,27.3,21.8,13.8,49.7,33.2,26.7
+Slovak University of Agriculture in Nitra,Slovakia,1795,1201–1500,27.3,27.5,19.3,34.0,49.2,22.9
+Süleyman Demirel University,Turkey,,1201–1500,27.3,27.6,11.5,43.8,25.4,24.0
+TOBB University of Economics and Technology,Turkey,,1201–1500,27.3,20.0,14.7,40.9,41.1,67.5
+Technological University Dublin,Ireland,2318,1201–1500,27.3,17.6,14.7,48.8,64.5,54.7
+The John Paul II Catholic University of Lublin,Poland,,1201–1500,27.3,31.6,17.0,36.8,32.1,17.4
+Tomas Bata University in Zlín,Czechia,,1201–1500,27.3,22.7,21.1,37.7,53.7,28.8
+USAMV Cluj-Napoca,Romania,1447,1201–1500,27.3,19.7,10.0,52.3,37.5,22.0
+Universidad Católica San Antonio de Murcia (UCAM),Spain,1834,1201–1500,27.3,19.1,18.2,35.1,57.4,39.2
+University Rey Juan Carlos,Spain,1883,1201–1500,27.3,18.7,15.3,47.4,38.4,46.7
+University of A Coruña,Spain,,1201–1500,27.3,24.1,18.6,46.1,38.1,46.6
+University of Burgos,Spain,1831,1201–1500,27.3,21.8,16.7,44.9,36.3,29.0
+University of Cadiz,Spain,1833,1201–1500,27.3,21.2,18.3,42.7,43.4,37.4
+"University of Chemistry and Technology, Prague",Czechia,,1201–1500,27.3,37.3,14.7,26.9,54.4,55.0
+University of Deusto,Spain,1814,1201–1500,27.3,20.7,20.6,49.3,46.0,39.9
+"University of Health Sciences, Turkey",Turkey,,1201–1500,27.3,45.7,10.6,27.3,28.8,17.5
+University of Ioannina,Greece,903,1201–1500,27.3,16.9,15.7,50.5,39.5,52.8
+University of Las Palmas de Gran Canaria,Spain,1855,1201–1500,27.3,21.4,26.9,42.7,41.7,32.5
+University of León,Spain,1868,1201–1500,27.3,24.9,15.9,41.8,36.8,61.0
+University of Malaga,Spain,1856,1201–1500,27.3,21.1,17.1,42.1,41.5,54.0
+University of Maribor,Slovenia,1809,1201–1500,27.3,21.5,18.0,41.2,39.5,46.2
+University of Reims Champagne-Ardenne,France,555,1201–1500,27.3,29.1,9.8,37.4,56.1,36.4
+University of Rouen Normandie,France,557,1201–1500,27.3,24.9,13.9,38.3,55.9,51.6
+University of South Wales,United Kingdom,,1201–1500,27.3,18.2,11.7,35.7,78.6,52.3
+University of Split,Croatia,211,1201–1500,27.3,22.2,15.3,42.3,34.7,28.6
+University of Staffordshire,United Kingdom,2206,1201–1500,27.3,16.3,12.3,48.0,73.4,23.8
+University of Technology of Compiègne,France,,1201–1500,27.3,28.7,11.6,30.6,81.9,58.7
+University of Trás-os-Montes and Alto Douro,Portugal,1390,1201–1500,27.3,19.6,20.9,47.3,40.5,38.6
+University of Urbino Carlo Bo,Italy,,1201–1500,27.3,17.6,19.9,47.6,50.1,36.3
+University of Valladolid,Spain,1889,1201–1500,27.3,24.8,16.7,40.7,39.5,44.4
+University of West London,United Kingdom,,1201–1500,27.3,15.4,10.5,53.3,90.0,20.7
+University of Winchester,United Kingdom,,1201–1500,27.3,19.0,15.4,45.4,61.2,18.0
+University of Wrocław,Poland,,1201–1500,27.3,28.7,21.8,37.9,45.1,35.5
+University of Zagreb,Croatia,213,1201–1500,27.3,27.6,19.1,41.8,31.3,57.5
+University of Évora,Portugal,1375,1201–1500,27.3,25.0,21.5,36.8,54.3,25.1
+University of Žilina,Slovakia,,1201–1500,27.3,26.2,19.6,39.9,33.9,45.5
+Université de Poitiers,France,554,1201–1500,27.3,27.5,20.9,30.5,61.6,39.7
+Université d’Orléans,France,,1201–1500,27.3,20.3,16.6,46.1,70.1,51.7
+VSB - Technical University of Ostrava,Czechia,,1201–1500,27.3,25.6,20.9,38.5,55.4,48.5
+Vytautas Magnus University,Lithuania,1115,1201–1500,27.3,23.7,12.9,36.9,69.5,21.2
+Warsaw University of Technology,Poland,1272,1201–1500,27.3,28.3,17.7,32.9,33.9,61.1
+Wrocław University of Science and Technology,Poland,,1201–1500,27.3,23.6,19.3,36.2,34.0,58.5
+Yaşar University,Turkey,,1201–1500,27.3,21.5,11.8,57.8,43.1,21.1
+Acıbadem University,Turkey,,1501+,10.3,27.3,12.4,29.0,37.0,26.4
+Adana Alparslan Türkeş Science and Technology University,Turkey,,1501+,10.3,13.7,10.4,31.5,22.9,17.2
+Adıyaman University,Turkey,,1501+,10.3,13.0,10.1,33.5,28.0,16.8
+Afyon Kocatepe University,Turkey,,1501+,10.3,16.5,9.8,26.4,26.5,22.5
+Afyonkarahisar Health Sciences University,Turkey,,1501+,10.3,29.8,11.8,13.1,23.3,24.6
+Aksaray University,Turkey,,1501+,10.3,14.8,9.3,24.1,28.9,18.2
+Alanya Alaaddin Keykubat University,Turkey,,1501+,10.3,16.4,10.3,20.0,27.2,16.4
+Alexandru Ioan Cuza University,Romania,,1501+,10.3,22.5,12.2,29.2,39.3,41.1
+Altai State University,Russian Federation,1466,1501+,10.3,23.0,16.4,17.1,62.1,25.3
+Altınbaş University,Turkey,,1501+,10.3,17.6,11.7,30.3,54.5,24.1
+Ankara Yildirim Beyazit University,Turkey,,1501+,10.3,20.1,13.1,29.5,31.0,22.5
+Atılım University,Turkey,,1501+,10.3,16.0,11.5,32.6,46.4,24.1
+Aydın Adnan Menderes University,Turkey,,1501+,10.3,28.4,20.3,20.0,22.9,20.4
+Azerbaijan State Oil and Industry University,Azerbaijan,,1501+,10.3,25.0,8.1,15.7,44.7,19.7
+Azerbaijan Technical University (AzTU),Azerbaijan,,1501+,10.3,26.2,7.5,5.7,35.9,30.4
+Baku State University,Azerbaijan,,1501+,10.3,30.1,10.1,21.2,45.4,21.0
+Balıkesir University,Turkey,,1501+,10.3,14.6,9.9,15.7,20.7,21.0
+Bashkir State Medical University,Russian Federation,,1501+,10.3,28.3,10.3,23.5,49.3,20.1
+Başkent University,Turkey,,1501+,10.3,20.8,11.8,19.0,23.1,24.6
+Belarusian State University,Belarus,80,1501+,10.3,24.7,11.1,10.9,65.8,45.0
+Belgorod State National Research University,Russian Federation,,1501+,10.3,21.8,16.4,11.1,40.6,34.9
+Beykent University,Turkey,,1501+,10.3,14.4,8.3,21.9,27.3,17.4
+Bezmiâlem Vakif University,Turkey,,1501+,10.3,37.8,12.0,26.1,28.6,22.9
+Bialystok University of Technology,Poland,,1501+,10.3,23.5,14.0,23.5,27.6,28.6
+Bilecik Şeyh Edebali University,Turkey,,1501+,10.3,16.3,10.2,31.7,37.9,21.7
+Bogomolets National Medical University,Ukraine,2043,1501+,10.3,24.0,9.9,9.8,26.4,17.4
+Bolu Abant Izzet Baysal University,Turkey,,1501+,10.3,17.1,9.7,29.2,38.0,19.0
+Bozok University,Turkey,,1501+,10.3,13.6,10.0,26.7,30.5,17.1
+Burdur Mehmet Akif Ersoy University,Turkey,,1501+,10.3,12.6,9.6,34.9,23.5,18.9
+Bursa Technical University,Turkey,,1501+,10.3,13.6,8.7,23.3,34.5,22.8
+Bursa Uludağ University,Turkey,,1501+,10.3,19.3,10.2,23.4,36.0,26.5
+CEU Universities,Spain,,1501+,10.3,21.9,11.8,33.9,49.8,26.4
+Cardinal Stefan Wyszyński University in Warsaw,Poland,1289,1501+,10.3,27.6,22.1,29.1,29.8,18.3
+Chelyabinsk State University,Russian Federation,,1501+,10.3,12.9,10.6,9.6,25.4,17.3
+Cracow University of Technology,Poland,,1501+,10.3,25.9,10.4,32.7,33.6,30.5
+Cukurova University,Turkey,,1501+,10.3,22.3,13.8,32.5,29.8,33.7
+Dicle University,Turkey,,1501+,10.3,23.9,9.6,18.2,25.0,22.4
+Dnipro University of Technology,Ukraine,,1501+,10.3,13.0,7.6,47.1,27.1,17.6
+Dokuz Eylül University,Turkey,,1501+,10.3,27.7,15.9,27.2,30.8,64.6
+Don State Technical University,Russian Federation,1487,1501+,10.3,20.9,10.3,21.0,30.8,24.6
+Dunarea de Jos University of Galati,Romania,,1501+,10.3,20.0,10.2,32.3,46.2,19.0
+Erzincan Binali Yıldırım University,Turkey,,1501+,10.3,13.0,9.1,38.1,25.6,18.1
+Eskişehir Osmangazi University,Turkey,,1501+,10.3,20.6,22.6,26.3,27.0,24.6
+Eskişehir Technical University,Turkey,,1501+,10.3,20.7,9.8,23.1,23.7,23.0
+Far Eastern Federal University,Russian Federation,1489,1501+,10.3,29.1,18.4,16.4,60.5,30.3
+Gaziantep University,Turkey,,1501+,10.3,19.0,12.4,33.5,43.2,23.5
+Gdynia Maritime University,Poland,1314,1501+,10.3,23.4,11.5,15.5,21.2,54.2
+"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Romania,,1501+,10.3,17.9,12.8,38.5,35.3,23.0
+Georgian Technical University,Georgia,,1501+,10.3,29.8,9.0,14.5,39.1,17.0
+Gheorghe Asachi Technical University of Iaşi,Romania,,1501+,10.3,18.2,10.2,21.5,33.6,33.9
+Giresun University,Turkey,,1501+,10.3,12.2,9.2,29.3,23.9,16.7
+Grigore T. Popa University of Medicine and Pharmacy,Romania,,1501+,10.3,23.8,10.7,21.5,41.1,23.9
+Gubkin Russian State University of Oil and Gas,Russian Federation,1507,1501+,10.3,21.4,10.7,10.3,24.1,44.9
+Harran University,Turkey,,1501+,10.3,16.8,9.9,48.1,27.7,19.1
+Hatay Mustafa Kemal University,Turkey,,1501+,10.3,14.6,9.4,21.8,21.9,18.1
+Hellenic Open University,Greece,890,1501+,10.3,23.8,8.9,44.4,27.3,16.8
+Herzen State Pedagogical University of Russia,Russian Federation,1510,1501+,10.3,20.7,12.9,9.8,39.1,18.6
+Hitit University,Turkey,,1501+,10.3,22.7,10.7,15.7,29.0,17.8
+Industrial University of Tyumen,Russian Federation,,1501+,10.3,20.2,7.9,6.7,24.1,18.9
+Instituto Politécnico de Viana do Castelo,Portugal,1353,1501+,10.3,13.8,15.6,38.1,45.3,22.7
+International Hellenic University,Greece,892,1501+,10.3,9.8,10.5,48.8,32.2,28.9
+Ionian University,Greece,899,1501+,10.3,16.3,11.6,26.0,24.2,23.8
+Irkutsk National Research Technical University,Russian Federation,,1501+,10.3,23.0,10.2,16.7,34.4,29.2
+Irkutsk State University,Russian Federation,1525,1501+,10.3,18.6,9.8,6.0,27.2,17.4
+Istanbul Aydın University,Turkey,,1501+,10.3,21.2,10.0,35.0,56.8,18.4
+Istanbul Bilgi University,Turkey,,1501+,10.3,16.3,11.1,38.0,53.5,17.2
+Istanbul Okan University,Turkey,,1501+,10.3,26.5,11.0,34.1,58.4,17.8
+Ivan Franko National University of Lviv,Ukraine,2018,1501+,10.3,20.5,11.1,11.5,29.7,18.8
+Ivane Javakhishvili Tbilisi State University,Georgia,,1501+,10.3,15.0,12.2,15.9,43.1,18.9
+Ivanovo State University of Chemistry and Technology,Russian Federation,1527,1501+,10.3,16.9,9.6,7.0,25.4,24.1
+Izmir University of Economics,Turkey,,1501+,10.3,16.9,15.6,34.6,31.6,39.2
+Jan Evangelista Purkyně University,Czechia,,1501+,10.3,17.1,13.2,15.4,41.9,21.0
+Jan Kochanowski University in Kielce,Poland,,1501+,10.3,20.1,11.3,16.4,28.0,19.5
+Jean Moulin University – Lyon 3,France,536,1501+,10.3,15.0,13.7,16.0,59.6,29.6
+Karabük University,Turkey,,1501+,10.3,15.6,9.8,45.6,50.8,18.7
+Karadeniz Technical University,Turkey,,1501+,10.3,24.5,13.8,35.1,27.0,38.9
+Karamanoğlu Mehmet Bey University,Turkey,,1501+,10.3,11.7,10.1,49.0,31.8,17.2
+Kastamonu University,Turkey,,1501+,10.3,15.3,12.0,44.3,35.1,18.8
+Kazan National Research Technological University,Russian Federation,,1501+,10.3,22.0,9.9,10.2,34.8,44.2
+Kazan State Medical University,Russian Federation,,1501+,10.3,39.5,11.9,10.1,45.0,20.7
+Kazan State Power Engineering University,Russian Federation,,1501+,10.3,13.1,9.8,15.3,25.7,24.7
+Kemerovo State University,Russian Federation,1541,1501+,10.3,15.5,11.2,9.9,24.6,18.0
+Kharkiv Aviation Institute,Ukraine,,1501+,10.3,21.3,10.7,17.4,32.2,18.8
+Kharkiv National University of Radio Electronics,Ukraine,2034,1501+,10.3,20.8,9.0,30.0,29.5,18.6
+Kirikkale University,Turkey,,1501+,10.3,17.0,19.6,20.1,20.2,36.0
+Kocaeli University,Turkey,,1501+,10.3,14.1,10.4,28.6,25.9,30.5
+Konya Technical University,Turkey,,1501+,10.3,19.4,9.4,37.8,25.0,17.3
+Kyiv National University of Construction and Architecture,Ukraine,,1501+,10.3,22.6,9.1,41.4,34.2,19.3
+Kütahya Dumlupınar University,Turkey,,1501+,10.3,11.5,10.6,25.1,39.2,19.4
+Kırşehir Ahi Evran University,Turkey,,1501+,10.3,14.0,11.1,23.8,34.6,21.3
+Latvia University of Life Sciences and Technologies,Latvia,1084,1501+,10.3,21.7,15.8,17.9,27.8,24.9
+Liverpool Hope University,United Kingdom,2135,1501+,10.3,19.5,16.8,30.2,77.2,19.0
+Lobachevsky State University of Nizhni Novgorod,Russian Federation,,1501+,10.3,31.5,13.9,13.8,35.7,35.3
+Lodz University of Technology,Poland,,1501+,10.3,25.9,15.8,28.5,33.0,61.8
+Lublin University of Technology,Poland,,1501+,10.3,25.8,14.8,31.6,41.8,30.8
+Lucian Blaga University of Sibiu,Romania,1421,1501+,10.3,19.0,16.0,42.0,33.9,22.6
+Lviv Polytechnic National University,Ukraine,2036,1501+,10.3,20.2,12.0,29.3,27.4,23.3
+MIREA - Russian Technological University,Russian Federation,,1501+,10.3,15.9,12.5,8.8,23.2,47.8
+Manisa Celal Bayar University,Turkey,,1501+,10.3,14.7,10.0,24.1,23.4,20.6
+Maria Curie-Skłodowska University (UMCS),Poland,,1501+,10.3,22.6,21.5,25.8,36.5,22.3
+Marmara University,Turkey,,1501+,10.3,25.1,13.7,34.7,31.9,34.7
+Matej Bel University,Slovakia,,1501+,10.3,18.9,14.2,18.0,44.7,21.1
+Medical University of Sofia,Bulgaria,178,1501+,10.3,26.4,7.3,37.8,48.5,45.9
+Mendeleev University of Chemical Technology,Russian Federation,1601,1501+,10.3,22.7,17.2,13.1,26.2,39.6
+Mersin University,Turkey,,1501+,10.3,17.2,10.6,25.3,29.0,23.3
+Moscow Aviation Institute,Russian Federation,1594,1501+,10.3,33.1,16.2,22.5,30.5,53.0
+Moscow Polytechnic University,Russian Federation,,1501+,10.3,15.8,12.4,49.5,28.8,26.1
+Moscow Power Engineering Institute,Russian Federation,1589,1501+,10.3,23.2,15.9,20.6,38.6,56.4
+Mugla Sitki Kocman University,Turkey,,1501+,10.3,15.6,11.4,21.1,26.4,21.9
+Muş Alparslan University,Turkey,,1501+,10.3,12.1,11.0,32.6,21.6,16.8
+"National Institute of Applied Sciences, Strasbourg (INSA Strasbourg)",France,,1501+,10.3,23.2,9.3,28.0,69.8,36.9
+"National Pirogov Memorial Medical University, Vinnytsya",Ukraine,2074,1501+,10.3,29.9,9.0,4.6,41.4,18.2
+National Research University of Electronic Technology (MIET),Russian Federation,1578,1501+,10.3,45.5,15.5,7.9,22.7,52.1
+National Technical University Kharkiv Polytechnic Institute,Ukraine,5,1501+,10.3,24.5,9.2,15.7,33.1,19.0
+National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,,1501+,10.3,21.6,10.6,16.7,22.5,24.0
+National University of Life and Environmental Sciences of Ukraine,Ukraine,,1501+,10.3,16.7,9.2,20.5,25.7,23.5
+Nizhny Novgorod State Technical University n.a. R.E. Alekseev,Russian Federation,1610,1501+,10.3,20.0,9.0,6.9,28.1,40.8
+Niğde Ömer Halisdemir University,Turkey,,1501+,10.3,17.2,10.3,31.0,31.1,20.7
+North-Caucasus Federal University,Russian Federation,,1501+,10.3,28.1,8.7,11.3,31.8,19.8
+North-Eastern Federal University,Russian Federation,,1501+,10.3,24.3,11.6,12.9,26.8,16.8
+North-Western State Medical University named after I.I. Mechnikov,Russian Federation,,1501+,10.3,25.9,10.7,10.1,29.4,19.3
+Northern (Arctic) Federal University named after M.V. Lomonosov,Russian Federation,,1501+,10.3,18.9,10.9,9.1,29.3,21.8
+Novosibirsk State Technical University,Russian Federation,1615,1501+,10.3,18.1,12.9,14.3,37.9,32.8
+Odesa I.I. Mechnikov National University,Ukraine,,1501+,10.3,24.7,9.1,8.5,26.2,16.9
+Ogarev Mordovia State University,Russian Federation,,1501+,10.3,25.4,9.6,7.2,35.8,19.6
+Oles Honchar Dnipro National University,Ukraine,,1501+,10.3,19.2,9.5,9.1,21.3,17.7
+Omsk State Technical University,Russian Federation,1619,1501+,10.3,15.6,8.2,5.0,25.2,19.9
+Ondokuz Mayis University,Turkey,,1501+,10.3,19.7,11.3,29.6,37.2,26.2
+Ordu University,Turkey,,1501+,10.3,14.2,10.7,27.8,19.4,17.2
+Ovidius University of Constanța,Romania,,1501+,10.3,20.1,9.9,14.2,27.2,18.3
+Paisii Hilendarski University of Plovdiv,Bulgaria,,1501+,10.3,13.6,12.5,13.7,23.1,21.9
+Pamukkale University,Turkey,,1501+,10.3,17.9,10.5,18.8,21.9,28.3
+Paris Nanterre University,France,568,1501+,10.3,21.5,16.6,27.0,61.5,35.7
+Pavlov First Saint Petersburg State Medical University,Russian Federation,,1501+,10.3,31.7,12.8,15.2,30.6,32.8
+Penza State University,Russian Federation,1627,1501+,10.3,16.7,9.4,6.7,32.9,17.8
+Perm National Research Polytechnic University,Russian Federation,,1501+,10.3,21.1,16.0,10.6,26.2,51.2
+Perm State University,Russian Federation,1632,1501+,10.3,18.4,12.0,7.9,27.8,24.5
+Petersburg State Transport University,Russian Federation,,1501+,10.3,16.6,11.4,15.0,39.5,49.0
+Petrozavodsk State University,Russian Federation,1538,1501+,10.3,18.2,12.2,14.7,28.8,35.4
+Pirogov Russian National Research Medical University,Russian Federation,,1501+,10.3,44.2,14.5,18.2,29.7,40.6
+Plekhanov Russian University of Economics,Russian Federation,1635,1501+,10.3,26.8,13.3,25.0,44.2,23.3
+Polytechnic Institute of Porto,Portugal,,1501+,10.3,14.7,13.1,40.0,32.3,34.0
+Polytechnic Institute of Setúbal,Portugal,,1501+,10.3,18.2,9.1,18.5,35.8,18.1
+Polytechnic University of Bucharest,Romania,1428,1501+,10.3,18.7,9.7,30.5,22.6,39.2
+Polytechnic University of Timişoara,Romania,1450,1501+,10.3,18.0,9.8,33.6,24.1,36.4
+Poznan University of Technology,Poland,,1501+,10.3,25.7,14.0,34.7,31.2,47.7
+Prague University of Economics and Business (VŠE),Czechia,,1501+,10.3,17.2,15.0,30.1,52.3,20.3
+Privolzhsky Research Medical University,Russian Federation,,1501+,10.3,25.8,12.3,5.9,43.0,19.7
+Pázmány Péter Catholic University,Hungary,935,1501+,10.3,23.0,11.7,27.1,36.3,23.2
+Recep Tayyip Erdoğan University,Turkey,,1501+,10.3,20.5,12.4,44.2,24.5,30.9
+Russian Presidential Academy of National Economy and Public Administration,Russian Federation,,1501+,10.3,23.9,22.5,21.3,24.4,27.3
+Russian State University for the Humanities,Russian Federation,1640,1501+,10.3,15.2,13.9,16.2,22.7,16.0
+Russian University of Transport (MIIT),Russian Federation,,1501+,10.3,18.1,12.1,8.0,26.4,37.4
+Rzeszów University of Technology,Poland,,1501+,10.3,20.1,8.3,23.4,25.7,24.8
+SGH Warsaw School of Economics,Poland,1280,1501+,10.3,25.3,21.6,31.8,39.7,16.4
+Saint Petersburg State Pediatric Medical University,Russian Federation,,1501+,10.3,25.6,11.2,8.0,35.2,17.5
+Saints Cyril and Methodius University in Skopje,North Macedonia,,1501+,10.3,21.3,10.2,23.9,43.8,32.6
+Sakarya University of Applied Sciences,Turkey,,1501+,10.3,13.2,9.8,32.7,42.8,16.4
+Samara National Research University (Samara University),Russian Federation,,1501+,10.3,27.1,14.1,16.2,31.6,34.2
+Samara State Medical University,Russian Federation,1646,1501+,10.3,42.8,10.7,6.0,31.6,33.2
+Samara State Technical University,Russian Federation,1676,1501+,10.3,17.0,10.5,8.3,22.1,33.3
+Siberian State Medical University,Russian Federation,1673,1501+,10.3,21.3,11.1,4.0,34.8,17.5
+Sinop University,Turkey,,1501+,10.3,9.9,12.5,40.8,31.4,18.2
+Sivas Cumhuriyet University,Turkey,,1501+,10.3,14.9,9.9,33.4,34.7,19.2
+Slovak University of Technology in Bratislava,Slovakia,1787,1501+,10.3,28.7,14.5,24.7,45.0,45.4
+Sofia University,Bulgaria,190,1501+,10.3,27.1,12.3,21.7,36.0,24.7
+Southern Federal University,Russian Federation,,1501+,10.3,23.8,16.3,24.6,47.6,38.7
+St Petersburg Electrotechnical University (LETI),Russian Federation,1492,1501+,10.3,22.2,15.2,19.7,39.1,39.2
+"State University ""Kyiv Aviation Institute""",Ukraine,,1501+,10.3,22.3,9.0,34.8,24.5,17.2
+Széchenyi István University,Hungary,,1501+,10.3,18.9,13.1,27.8,33.1,27.9
+Taras Shevchenko National University of Kyiv,Ukraine,2068,1501+,10.3,25.7,15.4,22.4,30.5,28.6
+Technical University of Cartagena,Spain,,1501+,10.3,28.6,13.8,31.2,42.4,41.0
+Technical University of Cluj-Napoca,Romania,1447,1501+,10.3,17.8,13.9,36.4,27.3,41.7
+Technical University of Crete,Greece,898,1501+,10.3,15.6,15.1,45.0,38.9,45.1
+Technical University of Košice,Slovakia,,1501+,10.3,26.8,16.8,26.4,51.7,42.9
+Technical University of Liberec,Czechia,,1501+,10.3,22.2,16.9,20.3,47.7,37.6
+Technical University of Sofia,Bulgaria,190,1501+,10.3,22.9,11.5,22.1,24.7,37.7
+Tekirdağ Namık Kemal University,Turkey,,1501+,10.3,13.1,9.6,17.6,25.0,18.4
+Tokat Gaziosmanpaşa University,Turkey,,1501+,10.3,19.0,10.0,36.5,36.3,23.2
+Tomsk State University of Control Systems and Radioelectronics,Russian Federation,1708,1501+,10.3,22.9,16.9,15.0,37.5,52.9
+Trakia University,Bulgaria,,1501+,10.3,20.9,10.3,8.3,26.9,19.4
+Trakya University,Turkey,,1501+,10.3,13.9,9.2,20.5,30.5,19.9
+Transilvania University of Brașov,Romania,,1501+,10.3,14.8,13.4,47.7,40.5,35.9
+Tula State University,Russian Federation,1704,1501+,10.3,14.0,8.4,4.4,22.4,17.7
+UNIR – International University of La Rioja,Spain,,1501+,10.3,12.6,15.6,35.9,57.4,20.6
+Ufa State Petroleum Technological University,Russian Federation,1643,1501+,10.3,23.8,7.9,12.4,31.1,17.4
+Ukrainian State University of Science and Technologies,Ukraine,,1501+,10.3,19.8,8.9,12.0,24.5,20.9
+Universidad Francisco de Vitoria,Spain,1845,1501+,10.3,15.5,12.7,46.3,41.3,18.3
+Universidad Loyola,Spain,,1501+,10.3,16.2,16.5,41.9,48.7,20.2
+Universidade Lusófona,Portugal,,1501+,10.3,23.6,9.9,36.9,54.9,20.7
+University of Chester,United Kingdom,2109,1501+,10.3,19.8,12.9,31.0,69.8,27.9
+University of Craiova,Romania,1398,1501+,10.3,16.2,11.5,26.6,25.8,24.2
+University of Gdańsk,Poland,1261,1501+,10.3,27.3,15.1,35.3,36.9,31.6
+University of Huelva,Spain,1847,1501+,10.3,23.2,16.6,32.6,36.2,28.8
+University of La Rochelle,France,533,1501+,10.3,19.7,12.6,33.6,65.5,30.2
+University of Life Sciences in Lublin,Poland,,1501+,10.3,24.2,12.0,32.5,23.8,23.4
+University of Lodz,Poland,1264,1501+,10.3,24.5,18.5,32.6,37.2,21.7
+University of Macedonia,Greece,904,1501+,10.3,17.7,18.0,43.8,27.5,31.8
+University of Miskolc,Hungary,942,1501+,10.3,23.8,14.7,21.2,36.4,24.3
+University of Montenegro,Montenegro,1133,1501+,10.3,14.0,12.1,24.3,48.3,27.4
+University of Northampton,United Kingdom,2174,1501+,10.3,16.1,11.0,40.4,80.3,18.7
+University of Novi Sad,Serbia,1775,1501+,10.3,19.9,11.5,32.8,38.8,59.6
+University of Oradea,Romania,1403,1501+,10.3,16.5,13.3,31.7,38.5,18.7
+University of Ostrava,Czechia,,1501+,10.3,20.0,16.7,32.7,51.1,20.7
+University of Pannonia,Hungary,943,1501+,10.3,22.7,17.7,29.9,35.9,31.8
+University of Pardubice,Czechia,,1501+,10.3,19.7,18.6,22.8,40.7,37.8
+University of Pau and Pays de l’Adour,France,,1501+,10.3,24.4,12.5,20.0,76.2,31.7
+University of Primorska,Slovenia,1810,1501+,10.3,20.0,17.4,25.1,62.2,23.0
+University of Prishtina,Kosovo,1074,1501+,10.3,13.5,12.6,20.0,40.2,20.5
+University of Rijeka,Croatia,210,1501+,10.3,20.1,19.4,31.3,30.6,36.4
+University of Rzeszów,Poland,1268,1501+,10.3,22.7,14.0,25.3,28.2,22.7
+University of Sarajevo,Bosnia and Herzegovina,163,1501+,10.3,21.2,11.5,23.4,29.5,33.0
+University of Silesia in Katowice,Poland,,1501+,10.3,28.0,15.2,28.8,32.4,27.8
+University of Sunderland,United Kingdom,2211,1501+,10.3,19.3,9.6,34.6,72.0,33.7
+University of Szczecin,Poland,1285,1501+,10.3,23.5,10.0,27.8,30.8,17.4
+University of Technology of Troyes,France,,1501+,10.3,31.8,11.4,22.2,75.2,40.4
+University of Warmia and Mazury in Olsztyn,Poland,,1501+,10.3,18.2,15.6,41.9,24.6,26.7
+University of West Attica,Greece,896,1501+,10.3,10.2,11.6,43.1,25.2,30.1
+University of West Bohemia,Czechia,,1501+,10.3,19.6,18.0,35.4,36.7,38.2
+University of Western Macedonia,Greece,906,1501+,10.3,13.3,13.0,44.9,26.7,28.7
+University of Worcester,United Kingdom,2239,1501+,10.3,17.1,12.0,37.9,59.2,23.6
+University of the Arts London,United Kingdom,14,1501+,10.3,23.9,11.8,25.4,74.1,19.3
+Université Polytechnique Hauts-de-France,France,,1501+,10.3,17.4,8.3,35.3,68.2,57.7
+Université Sorbonne Nouvelle,France,,1501+,10.3,28.0,12.0,23.3,67.3,37.4
+Uzhhorod National University,Ukraine,,1501+,10.3,17.6,9.2,6.9,34.4,17.0
+Uşak University,Turkey,,1501+,10.3,12.5,10.9,25.8,31.0,17.1
+V.N. Karazin Kharkiv National University,Ukraine,,1501+,10.3,26.8,11.2,12.1,46.3,35.2
+VILNIUS TECH (Vilnius Gediminas Technical University),Lithuania,1116,1501+,10.3,20.8,17.9,31.0,53.5,47.3
+Van Yüzüncü Yil University,Turkey,,1501+,10.3,22.0,19.5,22.4,23.0,30.4
+Vasyl Stefanyk Carpathian National University,Ukraine,,1501+,10.3,16.2,10.1,24.0,23.1,16.6
+Volgograd State Medical University,Russian Federation,1468,1501+,10.3,24.1,9.3,6.0,41.2,18.3
+Volgograd State Technical University,Russian Federation,1745,1501+,10.3,19.0,9.9,10.5,31.7,18.9
+Volgograd State University,Russian Federation,1745,1501+,10.3,21.0,12.1,15.4,23.6,16.4
+Voronezh State Technical University,Russian Federation,1746,1501+,10.3,20.3,7.9,12.5,27.6,19.7
+Voronezh State University,Russian Federation,1746,1501+,10.3,23.5,11.0,7.1,34.9,18.7
+Warsaw University of Life Sciences – SGGW,Poland,,1501+,10.3,22.1,12.8,41.4,33.7,33.4
+West University of Timişoara,Romania,1451,1501+,10.3,22.7,13.3,43.7,34.7,19.2
+Wrocław University of Environmental and Life Sciences,Poland,,1501+,10.3,28.5,13.6,36.1,32.5,34.9
+Yeditepe University,Turkey,,1501+,10.3,23.9,14.1,28.9,41.9,57.2
+Yerevan State University,Armenia,,1501+,10.3,25.4,9.1,12.4,41.6,22.3
+Yuriy Fedkovych Chernivtsi National University,Ukraine,,1501+,10.3,17.9,10.0,10.1,28.8,17.5
+Zonguldak Bülent Ecevit University,Turkey,,1501+,10.3,14.9,11.0,26.5,29.3,19.5
+Çanakkale Onsekiz Mart University,Turkey,,1501+,10.3,14.3,18.6,19.5,24.7,21.4
+Çankırı Karatekin University,Turkey,,1501+,10.3,14.4,18.0,23.0,31.9,17.1
+Üsküdar University,Turkey,,1501+,10.3,13.3,9.0,23.6,46.7,19.1
+İzmir Kâtip Çelebi University,Turkey,,1501+,10.3,16.5,10.4,25.1,30.1,18.9
+Ştefan cel Mare University of Suceava,Romania,,1501+,10.3,17.4,15.8,39.7,37.3,22.0
+Abertay University,United Kingdom,,Reporter,,,,,,
+Alanya University,Turkey,,Reporter,,,,,,
+Aleksandër Moisiu University,Albania,,Reporter,,,,,,
+Almazov National Medical Research Centre,Russian Federation,,Reporter,,,,,,
+Anglo-American University,Czechia,,Reporter,,,,,,
+Ankara Hacı Bayram Veli University,Turkey,,Reporter,,,,,,
+Ankara Science University,Turkey,,Reporter,,,,,,
+Arkin University of Creative Arts and Design (ARUCAD),Northern Cyprus,,Reporter,,,,,,
+Armenian National Agrarian University,Armenia,,Reporter,,,,,,
+Armenian State University of Economics,Armenia,,Reporter,,,,,,
+Arts University Bournemouth,United Kingdom,,Reporter,,,,,,
+Arts University Plymouth,United Kingdom,,Reporter,,,,,,
+Artvin Çoruh University,Turkey,,Reporter,,,,,,
+Atlas University,Turkey,,Reporter,,,,,,
+Audencia,France,2280,Reporter,,,,,,
+Avicenna - Batumi Medical University,Georgia,,Reporter,,,,,,
+Azerbaijan Medical University,Azerbaijan,,Reporter,,,,,,
+Azerbaijan State Agricultural University,Azerbaijan,,Reporter,,,,,,
+Azerbaijan State Pedagogical University,Azerbaijan,,Reporter,,,,,,
+Azerbaijan University of Architecture and Construction,Azerbaijan,,Reporter,,,,,,
+BIMM Music Institute Birmingham,United Kingdom,,Reporter,,,,,,
+Baku Engineering University,Azerbaijan,,Reporter,,,,,,
+Baku Higher Oil School,Azerbaijan,,Reporter,,,,,,
+Baku Slavic University,Azerbaijan,,Reporter,,,,,,
+Bandirma Onyedi Eylül University,Turkey,,Reporter,,,,,,
+Bath Spa University,United Kingdom,2088,Reporter,,,,,,
+Bayburt University,Turkey,,Reporter,,,,,,
+Belarusian State Medical University,Belarus,84,Reporter,,,,,,
+Belarusian State University of Informatics and Radioelectronics,Belarus,89,Reporter,,,,,,
+Beykoz University,Turkey,,Reporter,,,,,,
+Bila Tserkva National Agrarian University,Ukraine,,Reporter,,,,,,
+Birmingham Newman University,United Kingdom,,Reporter,,,,,,
+Bishop Grosseteste University,United Kingdom,,Reporter,,,,,,
+Bloomsbury Institute London,United Kingdom,,Reporter,,,,,,
+Bohdan Khmelnytsky National University of Cherkasy,Ukraine,,Reporter,,,,,,
+Borys Grinchenko Kyiv Metropolitan University,Ukraine,,Reporter,,,,,,
+Buckinghamshire New University,United Kingdom,2103,Reporter,,,,,,
+Budapest Business School,Hungary,2277,Reporter,,,,,,
+Budapest Metropolitan University,Hungary,,Reporter,,,,,,
+CESI,France,,Reporter,,,,,,
+Carlemany University,Andorra,,Reporter,,,,,,
+Catholic University of Ávila,Spain,,Reporter,,,,,,
+Central University of Europe,Georgia,,Reporter,,,,,,
+Chernihiv Polytechnic National University,Ukraine,,Reporter,,,,,,
+Courtauld Institute of Art,United Kingdom,2111,Reporter,,,,,,
+Cranfield University,United Kingdom,2113,Reporter,,,,,,
+Doğuş University,Turkey,,Reporter,,,,,,
+EAE Business School,Spain,,Reporter,,,,,,
+ESIC University,Spain,,Reporter,,,,,,
+EURECOM,France,,Reporter,,,,,,
+Estonian Academy of Arts,Estonia,296,Reporter,,,,,,
+Eszterházy Károly Catholic University,Hungary,,Reporter,,,,,,
+European University,Georgia,,Reporter,,,,,,
+European University Ukraine,Ukraine,,Reporter,,,,,,
+European University of Armenia,Armenia,,Reporter,,,,,,
+European University of Tirana,Albania,,Reporter,,,,,,
+Falmouth University,United Kingdom,2124,Reporter,,,,,,
+Final International University,Northern Cyprus,,Reporter,,,,,,
+Francisk Skorina Gomel State University,Belarus,,Reporter,,,,,,
+Gaziantep Islamic Science and Technology University,Turkey,,Reporter,,,,,,
+Glasgow School of Art,United Kingdom,2131,Reporter,,,,,,
+Gomel State Medical University,Belarus,97,Reporter,,,,,,
+Grodno State Medical University,Belarus,91,Reporter,,,,,,
+Guildhall School of Music and Drama,United Kingdom,,Reporter,,,,,,
+Harper Adams University,United Kingdom,,Reporter,,,,,,
+Hartpury University,United Kingdom,,Reporter,,,,,,
+Health Sciences University,United Kingdom,,Reporter,,,,,,
+Hryhorii Skovoroda University in Pereiaslav,Ukraine,,Reporter,,,,,,
+Häme University of Applied Sciences,Finland,2274,Reporter,,,,,,
+IMT Mines Alès,France,,Reporter,,,,,,
+Iași University of Life Sciences,Romania,,Reporter,,,,,,
+Institute of Cancer Research,United Kingdom,,Reporter,,,,,,
+Interregional Academy of Personnel Management (IAPM),Ukraine,,Reporter,,,,,,
+Ion Mincu University of Architecture and Urbanism,Romania,1400,Reporter,,,,,,
+Istanbul Gedik University,Turkey,,Reporter,,,,,,
+Istanbul Kültür University,Turkey,,Reporter,,,,,,
+Istanbul Yeni Yuzyil University,Turkey,,Reporter,,,,,,
+John von Neumann University,Hungary,,Reporter,,,,,,
+Kabardino-Balkarian State University,Russian Federation,1540,Reporter,,,,,,
+Kamianets-Podіlskyi Ivan Ohiienko National University,Ukraine,,Reporter,,,,,,
+Kayseri University,Turkey,,Reporter,,,,,,
+Kharkiv Humanitarian-Pedagogical Academy,Ukraine,,Reporter,,,,,,
+Kharkiv International Medical University,Ukraine,2031,Reporter,,,,,,
+Kharkiv National University of Internal Affairs,Ukraine,2066,Reporter,,,,,,
+Kharkiv University of Humanities “People’s Ukrainian Academy”,Ukraine,,Reporter,,,,,,
+Kherson State Agrarian and Economic University,Ukraine,,Reporter,,,,,,
+Kherson State Maritime Academy,Ukraine,,Reporter,,,,,,
+Kherson State University,Ukraine,2067,Reporter,,,,,,
+Khmelnytskyi National University,Ukraine,,Reporter,,,,,,
+King Danylo University,Ukraine,,Reporter,,,,,,
+Klaipeda University,Lithuania,1105,Reporter,,,,,,
+Kocaeli Health and Technology University,Turkey,,Reporter,,,,,,
+Krasnoyarsk State Medical University,Russian Federation,,Reporter,,,,,,
+Krok University,Ukraine,,Reporter,,,,,,
+Kursk State Medical University,Russian Federation,1553,Reporter,,,,,,
+Kyiv National Economic University,Ukraine,,Reporter,,,,,,
+Kyiv National University of Technologies and Design,Ukraine,,Reporter,,,,,,
+Kütahya Health Sciences University,Turkey,,Reporter,,,,,,
+Lankaran State University,Azerbaijan,,Reporter,,,,,,
+Leeds Arts University,United Kingdom,,Reporter,,,,,,
+Leeds Conservatoire,United Kingdom,,Reporter,,,,,,
+Leeds Trinity University,United Kingdom,2243,Reporter,,,,,,
+Lesya Ukrainka Volyn National University,Ukraine,,Reporter,,,,,,
+Liverpool Institute for Performing Arts,United Kingdom,,Reporter,,,,,,
+Liverpool School of Tropical Medicine,United Kingdom,,Reporter,,,,,,
+London Academy of Music and Dramatic Art (LAMDA),United Kingdom,,Reporter,,,,,,
+London Business School,United Kingdom,2163,Reporter,,,,,,
+London Film School,United Kingdom,,Reporter,,,,,,
+London School of Hygiene and Tropical Medicine,United Kingdom,2165,Reporter,,,,,,
+Lutsk National Technical University,Ukraine,,Reporter,,,,,,
+Malatya Turgut Ozal University,Turkey,,Reporter,,,,,,
+Mardin Artuklu University,Turkey,,Reporter,,,,,,
+Maritime University of Szczecin,Poland,1316,Reporter,,,,,,
+Medizinische Hochschule Hannover,Germany,771,Reporter,,,,,,
+Mingachevir State University (MSU),Azerbaijan,,Reporter,,,,,,
+Moscow City University,Russian Federation,,Reporter,,,,,,
+Moscow State Linguistic University,Russian Federation,,Reporter,,,,,,
+Moscow State Tchaikovsky Conservatory,Russian Federation,1588,Reporter,,,,,,
+National Film and Television School,United Kingdom,,Reporter,,,,,,
+National Polytechnic University of Armenia,Armenia,,Reporter,,,,,,
+National Transport University,Ukraine,2046,Reporter,,,,,,
+National University Odessa Law Academy,Ukraine,,Reporter,,,,,,
+National University of Food Technologies,Ukraine,2072,Reporter,,,,,,
+National University of Pharmacy,Ukraine,,Reporter,,,,,,
+National University “Yuri Kondratyuk Poltava Polytechnic”,Ukraine,,Reporter,,,,,,
+New Model Institute for Technology and Engineering (NMITE),United Kingdom,,Reporter,,,,,,
+Norwich University of the Arts,United Kingdom,,Reporter,,,,,,
+O.M. Beketov National University of Urban Economy in Kharkiv,Ukraine,,Reporter,,,,,,
+Odesa National Maritime University,Ukraine,,Reporter,,,,,,
+Odesa Polytechnic National University,Ukraine,,Reporter,,,,,,
+Omsk State Agrarian University,Russian Federation,1618,Reporter,,,,,,
+Orel State Agrarian University named after N.V. Parahin,Russian Federation,,Reporter,,,,,,
+Orel State University named after I.S. Turgenev,Russian Federation,,Reporter,,,,,,
+Ostrogradsky National University of Kremenchuk,Ukraine,,Reporter,,,,,,
+Pacific National University,Russian Federation,,Reporter,,,,,,
+Panteion University of Social and Political Sciences,Greece,,Reporter,,,,,,
+Panthéon-Assas University (Paris 2),France,569,Reporter,,,,,,
+Pavlo Tychyna Uman State Pedagogical University,Ukraine,,Reporter,,,,,,
+Petroleum Higher School,Russian Federation,,Reporter,,,,,,
+Piri Reis University,Turkey,,Reporter,,,,,,
+Platov South-Russian State Polytechnic University (NPI),Russian Federation,,Reporter,,,,,,
+Plymouth Marjon University,United Kingdom,,Reporter,,,,,,
+Polis University,Albania,,Reporter,,,,,,
+Polissia National University,Ukraine,,Reporter,,,,,,
+Poltava State Medical University,Ukraine,,Reporter,,,,,,
+Poltava V.G. Korolenko National Pedagogical University (PNPU),Ukraine,,Reporter,,,,,,
+Polytechnic of Guarda,Portugal,,Reporter,,,,,,
+Queen Margaret University,United Kingdom,,Reporter,,,,,,
+Rome Business School,Italy,,Reporter,,,,,,
+Rose Bruford College,United Kingdom,,Reporter,,,,,,
+Rostov State University of Economics,Russian Federation,,Reporter,,,,,,
+Royal Academy of Dramatic Art (RADA),United Kingdom,,Reporter,,,,,,
+Royal Academy of Music,United Kingdom,2183,Reporter,,,,,,
+Royal Agricultural University,United Kingdom,,Reporter,,,,,,
+"Royal Central School of Speech and Drama, University of London",United Kingdom,,Reporter,,,,,,
+Royal College of Art,United Kingdom,2184,Reporter,,,,,,
+Royal College of Music,United Kingdom,2185,Reporter,,,,,,
+Royal Conservatoire of Scotland,United Kingdom,,Reporter,,,,,,
+Royal Northern College of Music,United Kingdom,,Reporter,,,,,,
+Russian Biotechnological University (BIOTECH),Russian Federation,,Reporter,,,,,,
+SBS Swiss Business School,Switzerland,1954,Reporter,,,,,,
+Samsun University,Turkey,,Reporter,,,,,,
+Sanko University,Turkey,,Reporter,,,,,,
+Saratov State Vavilov Agrarian University,Russian Federation,1649,Reporter,,,,,,
+Shirak State University,Armenia,,Reporter,,,,,,
+Simon Kuznets Kharkiv National University of Economics,Ukraine,,Reporter,,,,,,
+Social Sciences University of Ankara,Turkey,,Reporter,,,,,,
+South East European University,North Macedonia,1122,Reporter,,,,,,
+"St Mary’s University College, Belfast",United Kingdom,,Reporter,,,,,,
+"St Mary’s University, Twickenham",United Kingdom,,Reporter,,,,,,
+Stavropol State Agrarian University,Russian Federation,,Reporter,,,,,,
+Stranmillis University College,United Kingdom,,Reporter,,,,,,
+Sumgayit State University,Azerbaijan,,Reporter,,,,,,
+Sumy State Pedagogical University named after A.S. Makarenko,Ukraine,,Reporter,,,,,,
+T. C. Demiroğlu Bilim University,Turkey,,Reporter,,,,,,
+T.H. Shevchenko National University Chernihiv Colehium,Ukraine,,Reporter,,,,,,
+Tarsus University,Turkey,,Reporter,,,,,,
+Tbilisi State Medical University,Georgia,,Reporter,,,,,,
+Technische Hochschule Ingolstadt,Germany,656,Reporter,,,,,,
+The National University of Ostroh Academy,Ukraine,2070,Reporter,,,,,,
+Togliatti State University,Russian Federation,1692,Reporter,,,,,,
+Tomsk State Pedagogical University,Russian Federation,1697,Reporter,,,,,,
+Transport and Telecommunication Institute,Latvia,1097,Reporter,,,,,,
+Trinity Laban Conservatoire of Music and Dance,United Kingdom,,Reporter,,,,,,
+Tver State Technical University,Russian Federation,1699,Reporter,,,,,,
+Tver State University,Russian Federation,1699,Reporter,,,,,,
+Ulyanovsk State Technical University,Russian Federation,1717,Reporter,,,,,,
+Ulyanovsk State University,Russian Federation,1717,Reporter,,,,,,
+Universidad Camilo José Cela,Spain,,Reporter,,,,,,
+Universita IULM,Italy,,Reporter,,,,,,
+University North,Croatia,218,Reporter,,,,,,
+University St. Kliment Ohridski - Bitola,North Macedonia,1127,Reporter,,,,,,
+University for the Creative Arts,United Kingdom,,Reporter,,,,,,
+University of Agronomic Sciences and Veterinary Medicine of Bucharest,Romania,1442,Reporter,,,,,,
+University of Chichester,United Kingdom,,Reporter,,,,,,
+University of Civil Protection,Belarus,,Reporter,,,,,,
+University of Cumbria,United Kingdom,2372,Reporter,,,,,,
+University of Dubrovnik,Croatia,207,Reporter,,,,,,
+University of Economics in Bratislava,Slovakia,1781,Reporter,,,,,,
+University of Economics – Varna,Bulgaria,194,Reporter,,,,,,
+University of Educational Management,Ukraine,,Reporter,,,,,,
+University of Greater Manchester,United Kingdom,,Reporter,,,,,,
+University of National and World Economy,Bulgaria,202,Reporter,,,,,,
+University of Oil and Gas of Ploiești,Romania,1439,Reporter,,,,,,
+University of Sopron,Hungary,920,Reporter,,,,,,
+University of Suffolk,United Kingdom,,Reporter,,,,,,
+University of Tirana,Albania,24,Reporter,,,,,,
+University of Turkish Aeronautical Association,Turkey,,Reporter,,,,,,
+University of Wales Trinity Saint David,United Kingdom,,Reporter,,,,,,
+University of the Azores,Portugal,,Reporter,,,,,,
+University of the Built Environment,United Kingdom,,Reporter,,,,,,
+University of the Highlands and Islands,United Kingdom,,Reporter,,,,,,
+Università Iuav di Venezia,Italy,,Reporter,,,,,,
+VIZJA University,Poland,,Reporter,,,,,,
+Valahia University of Targoviste,Romania,1453,Reporter,,,,,,
+Vasile Alecsandri University of Bacău,Romania,,Reporter,,,,,,
+Vinnytsia National Technical University,Ukraine,,Reporter,,,,,,
+Vitebsk State Technological University,Belarus,107,Reporter,,,,,,
+WHU: Beisheim,Germany,,Reporter,,,,,,
+WSB Academy,Poland,,Reporter,,,,,,
+West Ukrainian National University,Ukraine,,Reporter,,,,,,
+Western Balkans University,Albania,,Reporter,,,,,,
+Western Caspian University,Azerbaijan,,Reporter,,,,,,
+"Western University ""Vasile Goldiş"" of Arad",Romania,,Reporter,,,,,,
+World University of Science and Technology,Georgia,,Reporter,,,,,,
+Wrexham University,United Kingdom,,Reporter,,,,,,
+Yanka Kupala State University of Grodno,Belarus,,Reporter,,,,,,
+Yaroslav Mudryi National Law University,Ukraine,,Reporter,,,,,,
+Zhytomyr Ivan Franko State University,Ukraine,,Reporter,,,,,,
+Zhytomyr Polytechnic State University,Ukraine,,Reporter,,,,,,
+Çağ University,Turkey,,Reporter,,,,,,
+İstanbul Nişantaşi University,Turkey,,Reporter,,,,,,
+İstanbul Topkapı University,Turkey,,Reporter,,,,,,
+“Aurel Vlaicu” University of Arad,Romania,1415,Reporter,,,,,,

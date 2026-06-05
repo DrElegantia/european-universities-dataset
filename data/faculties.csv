@@ -1,0 +1,121 @@
+id,university,city,country,country_code,faculty
+1,Technische Universitat Munchen (TUM),Munich,Germany,DE,"Engineering (Mechanical, Electrical, Civil)"
+2,Technische Universitat Munchen (TUM),Munich,Germany,DE,Informatics / Computer Science
+3,Technische Universitat Munchen (TUM),Munich,Germany,DE,"Natural Sciences (Physics, Chemistry, Mathematics)"
+4,Technische Universitat Munchen (TUM),Munich,Germany,DE,Medicine
+5,Technische Universitat Munchen (TUM),Munich,Germany,DE,TUM School of Management / Economics
+6,Ruprecht-Karls-Universitat Heidelberg,Heidelberg,Germany,DE,Medicine
+7,Ruprecht-Karls-Universitat Heidelberg,Heidelberg,Germany,DE,Law
+8,Ruprecht-Karls-Universitat Heidelberg,Heidelberg,Germany,DE,Physics and Astronomy
+9,Ruprecht-Karls-Universitat Heidelberg,Heidelberg,Germany,DE,Biosciences
+10,Ruprecht-Karls-Universitat Heidelberg,Heidelberg,Germany,DE,Philosophy / Humanities
+11,Sorbonne Universite,Paris,France,FR,Sciences and Engineering
+12,Sorbonne Universite,Paris,France,FR,Letters / Humanities
+13,Sorbonne Universite,Paris,France,FR,Medicine
+14,Sorbonne Universite,Paris,France,FR,Mathematics
+15,Sorbonne Universite,Paris,France,FR,Languages and Literature
+16,Sciences Po (Institut d'etudes politiques de Paris),Paris,France,FR,Political Science
+17,Sciences Po (Institut d'etudes politiques de Paris),Paris,France,FR,International Affairs
+18,Sciences Po (Institut d'etudes politiques de Paris),Paris,France,FR,Economics
+19,Sciences Po (Institut d'etudes politiques de Paris),Paris,France,FR,Law
+20,Sciences Po (Institut d'etudes politiques de Paris),Paris,France,FR,Public Administration
+21,Politecnico di Milano,Milan,Italy,IT,"Engineering (Civil, Mechanical, Electrical, Information)"
+22,Politecnico di Milano,Milan,Italy,IT,Architecture
+23,Politecnico di Milano,Milan,Italy,IT,Design
+24,Politecnico di Milano,Milan,Italy,IT,Urban Planning
+25,Politecnico di Milano,Milan,Italy,IT,Mathematical Engineering
+26,Universita di Bologna (Alma Mater Studiorum),Bologna,Italy,IT,Law
+27,Universita di Bologna (Alma Mater Studiorum),Bologna,Italy,IT,Medicine and Surgery
+28,Universita di Bologna (Alma Mater Studiorum),Bologna,Italy,IT,Engineering and Architecture
+29,Universita di Bologna (Alma Mater Studiorum),Bologna,Italy,IT,Economics and Management
+30,Universita di Bologna (Alma Mater Studiorum),Bologna,Italy,IT,"Arts, Humanities and Cultural Heritage"
+31,Sapienza Universita di Roma,Rome,Italy,IT,Medicine and Pharmacy
+32,Sapienza Universita di Roma,Rome,Italy,IT,Engineering (Civil and Industrial; Information)
+33,Sapienza Universita di Roma,Rome,Italy,IT,Law
+34,Sapienza Universita di Roma,Rome,Italy,IT,Economics
+35,Sapienza Universita di Roma,Rome,Italy,IT,Letters and Philosophy
+36,University of Amsterdam,Amsterdam,Netherlands,NL,Economics and Business
+37,University of Amsterdam,Amsterdam,Netherlands,NL,Law
+38,University of Amsterdam,Amsterdam,Netherlands,NL,Humanities
+39,University of Amsterdam,Amsterdam,Netherlands,NL,Social and Behavioural Sciences
+40,University of Amsterdam,Amsterdam,Netherlands,NL,Science
+41,Delft University of Technology (TU Delft),Delft,Netherlands,NL,Aerospace Engineering
+42,Delft University of Technology (TU Delft),Delft,Netherlands,NL,Civil Engineering and Geosciences
+43,Delft University of Technology (TU Delft),Delft,Netherlands,NL,"Electrical Engineering, Mathematics and Computer Science"
+44,Delft University of Technology (TU Delft),Delft,Netherlands,NL,Architecture and the Built Environment
+45,Delft University of Technology (TU Delft),Delft,Netherlands,NL,Mechanical Engineering
+46,KU Leuven,Leuven,Belgium,BE,Engineering Science
+47,KU Leuven,Leuven,Belgium,BE,Medicine
+48,KU Leuven,Leuven,Belgium,BE,Law and Criminology
+49,KU Leuven,Leuven,Belgium,BE,Economics and Business
+50,KU Leuven,Leuven,Belgium,BE,Sciences
+51,Universidad Complutense de Madrid,Madrid,Spain,ES,Medicine
+52,Universidad Complutense de Madrid,Madrid,Spain,ES,Law
+53,Universidad Complutense de Madrid,Madrid,Spain,ES,Philosophy / Humanities
+54,Universidad Complutense de Madrid,Madrid,Spain,ES,Political Science and Sociology
+55,Universidad Complutense de Madrid,Madrid,Spain,ES,Pharmacy
+56,Universitat de Barcelona,Barcelona,Spain,ES,Medicine and Health Sciences
+57,Universitat de Barcelona,Barcelona,Spain,ES,Law
+58,Universitat de Barcelona,Barcelona,Spain,ES,Economics and Business
+59,Universitat de Barcelona,Barcelona,Spain,ES,Biology
+60,Universitat de Barcelona,Barcelona,Spain,ES,Philology and Communication
+61,University of Vienna,Vienna,Austria,AT,Law
+62,University of Vienna,Vienna,Austria,AT,Philosophy and Education
+63,University of Vienna,Vienna,Austria,AT,Historical and Cultural Studies
+64,University of Vienna,Vienna,Austria,AT,Social Sciences
+65,University of Vienna,Vienna,Austria,AT,Computer Science / Physics
+66,ETH Zurich,Zurich,Switzerland,CH,Mechanical and Process Engineering
+67,ETH Zurich,Zurich,Switzerland,CH,Computer Science
+68,ETH Zurich,Zurich,Switzerland,CH,Physics
+69,ETH Zurich,Zurich,Switzerland,CH,Mathematics
+70,ETH Zurich,Zurich,Switzerland,CH,Architecture / Civil Engineering
+71,Ecole Polytechnique Federale de Lausanne (EPFL),Lausanne,Switzerland,CH,Computer and Communication Sciences
+72,Ecole Polytechnique Federale de Lausanne (EPFL),Lausanne,Switzerland,CH,Engineering
+73,Ecole Polytechnique Federale de Lausanne (EPFL),Lausanne,Switzerland,CH,Basic Sciences
+74,Ecole Polytechnique Federale de Lausanne (EPFL),Lausanne,Switzerland,CH,Life Sciences
+75,Ecole Polytechnique Federale de Lausanne (EPFL),Lausanne,Switzerland,CH,"Architecture, Civil and Environmental Engineering"
+76,KTH Royal Institute of Technology,Stockholm,Sweden,SE,Electrical Engineering and Computer Science
+77,KTH Royal Institute of Technology,Stockholm,Sweden,SE,Engineering Sciences
+78,KTH Royal Institute of Technology,Stockholm,Sweden,SE,Industrial Engineering and Management
+79,KTH Royal Institute of Technology,Stockholm,Sweden,SE,Architecture and the Built Environment
+80,KTH Royal Institute of Technology,Stockholm,Sweden,SE,"Chemistry, Biotechnology and Health"
+81,Lund University,Lund,Sweden,SE,Engineering (LTH)
+82,Lund University,Lund,Sweden,SE,Medicine
+83,Lund University,Lund,Sweden,SE,Law
+84,Lund University,Lund,Sweden,SE,Social Sciences
+85,Lund University,Lund,Sweden,SE,Humanities and Theology
+86,University of Copenhagen,Copenhagen,Denmark,DK,Health and Medical Sciences
+87,University of Copenhagen,Copenhagen,Denmark,DK,Science
+88,University of Copenhagen,Copenhagen,Denmark,DK,Law
+89,University of Copenhagen,Copenhagen,Denmark,DK,Humanities
+90,University of Copenhagen,Copenhagen,Denmark,DK,Social Sciences
+91,University of Helsinki,Helsinki,Finland,FI,Medicine
+92,University of Helsinki,Helsinki,Finland,FI,Law
+93,University of Helsinki,Helsinki,Finland,FI,Science
+94,University of Helsinki,Helsinki,Finland,FI,Arts / Humanities
+95,University of Helsinki,Helsinki,Finland,FI,Social Sciences
+96,Trinity College Dublin,Dublin,Ireland,IE,"Arts, Humanities and Social Sciences"
+97,Trinity College Dublin,Dublin,Ireland,IE,"Engineering, Mathematics and Science"
+98,Trinity College Dublin,Dublin,Ireland,IE,Health Sciences
+99,Trinity College Dublin,Dublin,Ireland,IE,Law
+100,Trinity College Dublin,Dublin,Ireland,IE,Business
+101,University of Warsaw,Warsaw,Poland,PL,Law and Administration
+102,University of Warsaw,Warsaw,Poland,PL,Economic Sciences
+103,University of Warsaw,Warsaw,Poland,PL,Physics
+104,University of Warsaw,Warsaw,Poland,PL,History / Humanities
+105,University of Warsaw,Warsaw,Poland,PL,"Mathematics, Informatics and Mechanics"
+106,Charles University,Prague,Czech Republic,CZ,Medicine (First Faculty of Medicine)
+107,Charles University,Prague,Czech Republic,CZ,Law
+108,Charles University,Prague,Czech Republic,CZ,Arts / Philosophy
+109,Charles University,Prague,Czech Republic,CZ,Science
+110,Charles University,Prague,Czech Republic,CZ,Mathematics and Physics
+111,University of Lisbon,Lisbon,Portugal,PT,Engineering (Instituto Superior Tecnico)
+112,University of Lisbon,Lisbon,Portugal,PT,Medicine
+113,University of Lisbon,Lisbon,Portugal,PT,Law
+114,University of Lisbon,Lisbon,Portugal,PT,Sciences
+115,University of Lisbon,Lisbon,Portugal,PT,Letters / Humanities
+116,University of Coimbra,Coimbra,Portugal,PT,Law
+117,University of Coimbra,Coimbra,Portugal,PT,Medicine
+118,University of Coimbra,Coimbra,Portugal,PT,Sciences and Technology
+119,University of Coimbra,Coimbra,Portugal,PT,Letters / Humanities
+120,University of Coimbra,Coimbra,Portugal,PT,Economics
