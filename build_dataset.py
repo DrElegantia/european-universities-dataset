@@ -82,6 +82,40 @@ for u in unis:
     wr, ov = uni_rank.get(u["id"], ("",""))
     u["the_world_rank"] = wr; u["the_overall_score"] = ov
 
+# ---------- ETER: real fields offered per institution ----------
+ETER_CC = {"UK":"GB","EL":"GR"}
+BUCKET = {"Medicine&Health":"MED","Engineering&Technology":"ENG","ComputerScience&IT":"ICT","NaturalSciences&Math":"SCI",
+ "Business&Economics":"BUS","SocialSciences":"SOC","Humanities&Languages":"HUM","Education":"EDU","Agriculture&Veterinary":"AGR",
+ "Arts&Design":"ART","Law":"LAW","Architecture":"ARC"}
+idx2 = {}
+for u in unis:
+    idx2.setdefault(u["country_code"], []).append((toks(u["name"]), norm(u["city"]) if u["city"] else "", u))
+eter_codes_by_uid = {}; eter_matched = 0
+for e in load("eter_fields.json"):
+    cc = ETER_CC.get(e["country_code"], e["country_code"])
+    if cc not in idx2: continue
+    nt = toks(e["institution_name"]);
+    if not nt: continue
+    ecity = norm(e.get("city","") or "")
+    best, bs = None, 0.0
+    for ut, ucity, u in idx2[cc]:
+        if not ut: continue
+        inter = len(nt & ut)
+        if not inter: continue
+        sc = inter/len(nt|ut)
+        if ecity and ucity and ecity == ucity: sc += 0.15
+        if sc > bs: best, bs = u, sc
+    if best and bs >= 0.55:
+        eter_matched += 1
+        codes = {BUCKET[b] for b in (e.get("fields",[]) + e.get("ambiguous_buckets",[])) if b in BUCKET}
+        eter_codes_by_uid.setdefault(best["id"], set()).update(codes)
+for u in unis:
+    codes = eter_codes_by_uid.get(u["id"])
+    if codes:
+        u["fields_offered"] = "|".join(sorted(codes)); u["fields_source"] = "ETER"
+    else:
+        u["fields_offered"] = u["field_category"]; u["fields_source"] = "name-heuristic"
+
 # ---------- tuition (numeric, bilingual) ----------
 tu = load("tuition_enriched.json")["countries"]
 def n(v): return "" if v is None else v
@@ -97,12 +131,22 @@ for r in tu:
         "official_student_budget_eur_month":n(r["budget"]),"notes_it":r["notes_it"],"notes_en":r["notes_en"]})
     if r.get("budget") is not None: budget_by_country[r["country"]] = (r["budget"], "")
 
-# ---------- tuition exceptions ----------
+# ---------- tuition exceptions (mapped to universities by id) ----------
+# explicit map: exception label -> Hipolabs university id (names differ from the curated labels)
+EXC_ID = {"Heidelberg University":839,"TU Munich":816,"Sciences Po (Paris)":499,"Sorbonne Universite (Paris)":487,
+ "Politecnico di Milano":999,"Universita di Bologna":1012,"Sapienza Universita di Roma":1048,"University of Amsterdam":1172,
+ "TU Delft":1166,"KU Leuven":133,"Universidad Complutense Madrid":1838,"Universitat de Barcelona":1830,"University of Vienna":71,
+ "ETH Zurich":1963,"EPFL (Lausanne)":1962,"KTH (Stockholm)":1912,"Lund University":1915,"University of Copenhagen":286,
+ "University of Helsinki":310,"Trinity College Dublin":974,"University of Warsaw":1302,"Charles University (Prague)":237,
+ "University of Lisbon":1378,"University of Coimbra":1374}
+id2name = {u["id"]:u["name"] for u in unis}
 eu15 = load("tuition_eu15.json")
 exc_rows = []
 for r in eu15:
     for e in r.get("university_exceptions", []):
-        exc_rows.append({"country":r["country"],"university":e["university"],"field":e.get("field",""),"level":e.get("level",""),
+        uid = EXC_ID.get(e["university"], "")
+        exc_rows.append({"country":r["country"],"matched_university_id":uid,"university":e["university"],
+            "matched_university_name":(id2name.get(uid,"") if uid else ""),"field":e.get("field",""),"level":e.get("level",""),
             "amount_eur_year":("" if e.get("amount_eur") is None else e["amount_eur"]),"note":e.get("note",""),"source_url":e.get("source_url","")})
 
 # ---------- cost of living: city (merge base 23 + extras) ----------
@@ -239,10 +283,19 @@ def w(name, rows, fields):
     with open(os.path.join(DATA,name),"w",newline="",encoding="utf-8") as f:
         wr=csv.DictWriter(f,fieldnames=fields); wr.writeheader(); wr.writerows(rows)
     print(f"  {name}: {len(rows)} rows")
+# university_fields long table (one row per offered field) for the field filter
+uf_rows = []
+for u in unis:
+    for code in (u["fields_offered"].split("|") if u["fields_offered"] else []):
+        uf_rows.append({"university_id":u["id"],"university":u["name"],"country_code":u["country_code"],
+            "field_category":code,"field_category_en":TAXLAB.get(code,(code,code))[0],"field_category_it":TAXLAB.get(code,(code,code))[1],
+            "source":u["fields_source"]})
+
 print("Writing CSVs:")
-w("universities.csv",unis,["id","name","country","country_code","city","lat","lon","field_category","field_category_en","field_category_it","domain","website","the_world_rank","the_overall_score"])
+w("universities.csv",unis,["id","name","country","country_code","city","lat","lon","field_category","field_category_en","field_category_it","fields_offered","fields_source","domain","website","the_world_rank","the_overall_score"])
+w("university_fields.csv",uf_rows,["university_id","university","country_code","field_category","field_category_en","field_category_it","source"])
 w("tuition_by_country.csv",tuition_rows,["country","country_code","currency","fee_type","data_quality","bachelor_eu_min_eur","bachelor_eu_max_eur","master_eu_min_eur","master_eu_max_eur","bachelor_noneu_min_eur","bachelor_noneu_max_eur","master_noneu_min_eur","master_noneu_max_eur","official_student_budget_eur_month","notes_it","notes_en"])
-w("tuition_exceptions.csv",exc_rows,["country","university","field","level","amount_eur_year","note","source_url"])
+w("tuition_exceptions.csv",exc_rows,["country","matched_university_id","matched_university_name","university","field","level","amount_eur_year","note","source_url"])
 w("cost_of_living_city.csv",col_city_rows,["city","country","country_code","currency","monthly_rent_eur","monthly_other_eur","monthly_total_eur","official_student_budget_eur_month","source_numbeo_url","source_official_url","access_note"])
 w("cost_of_living_country.csv",col_country_rows,["country","country_code","official_student_budget_eur_month","source_url","note"])
 w("scholarships.csv",sch_rows,["scope","country","name","provider","coverage_en","coverage_it","eligibility_en","eligibility_it","source_url"])
@@ -253,9 +306,10 @@ w("university_rankings.csv",rankings_rows,["the_name","country","matched_univers
 combined = {"meta":{"description":"European universities dataset: institutions (with city+coordinates+field), tuition, cost of living, scholarships, THE quality indicators. Bilingual IT/EN.",
   "universities_count":len(unis),"countries_count":len(set(u["country"] for u in unis)),
   "universities_with_city":sum(1 for u in unis if u["city"]),"cost_of_living_cities":len(col_city_rows),
-  "rankings_source":rk["source"],"rankings_edition":rk["edition_year"],"rankings_matched":matched},
+  "rankings_source":rk["source"],"rankings_edition":rk["edition_year"],"rankings_matched":matched,
+  "fields_source":"ETER (Zenodo full dump) where matched, else name heuristic","universities_with_eter_fields":eter_matched},
   "universities":unis,"tuition_by_country":tuition_rows,"tuition_exceptions":exc_rows,"cost_of_living_city":col_city_rows,
-  "cost_of_living_country":col_country_rows,"scholarships":sch_rows,"faculties":fac_rows,
+  "cost_of_living_country":col_country_rows,"scholarships":sch_rows,"faculties":fac_rows,"university_fields":uf_rows,
   "field_taxonomy":[{"code":c["code"],"label_en":c["label_en"],"label_it":c["label_it"]} for c in TAX],"university_rankings":rankings_rows}
 json.dump(combined, open(os.path.join(DATA,"dataset.json"),"w",encoding="utf-8"), ensure_ascii=False, indent=1)
 from collections import Counter
