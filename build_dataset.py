@@ -122,6 +122,26 @@ for u in unis:
     else:
         u["fields_offered"] = u["field_category"]; u["fields_source"] = "name-heuristic"
 
+# ---------- ROOM RENT (comparable metric on EVERY university) ----------
+rr_country = {r["country_code"]: r for r in load("room_rent_country.json")}
+rr_city = {(r["city"], r["country_code"]): r for r in load("room_rent_city.json")}
+rr_city_rows = sorted(({"city":r["city"],"country_code":r["country_code"],"country":CC2NAME.get(r["country_code"],""),
+    "monthly_room_rent_eur":r["room_rent_eur_month"],"source_url":r.get("source_url",""),"note":r.get("note","")}
+    for r in rr_city.values()), key=lambda x:(x["country_code"],x["city"]))
+rr_country_rows = sorted(({"country":r["country"],"country_code":r["country_code"],"monthly_room_rent_eur":r["room_rent_eur_month"],
+    "basis":r.get("basis",""),"source_url":r.get("source_url",""),"note":r.get("note","")}
+    for r in rr_country.values()), key=lambda x:x["country"])
+for u in unis:
+    key = (u["city"], u["country_code"])
+    if u["city"] and key in rr_city:
+        rc = rr_city[key]
+        u["monthly_room_rent_eur"] = rc["room_rent_eur_month"]; u["room_rent_level"] = "city"; u["room_rent_source"] = rc.get("source_url","")
+    elif u["country_code"] in rr_country:
+        rc = rr_country[u["country_code"]]
+        u["monthly_room_rent_eur"] = rc["room_rent_eur_month"]; u["room_rent_level"] = "country:"+rc.get("basis","") ; u["room_rent_source"] = rc.get("source_url","")
+    else:
+        u["monthly_room_rent_eur"] = ""; u["room_rent_level"] = ""; u["room_rent_source"] = ""
+
 # ---------- tuition (numeric, bilingual) ----------
 tu = load("tuition_enriched.json")["countries"]
 def n(v): return "" if v is None else v
@@ -298,7 +318,9 @@ for u in unis:
             "source":u["fields_source"]})
 
 print("Writing CSVs:")
-w("universities.csv",unis,["id","name","country","country_code","city","lat","lon","field_category","field_category_en","field_category_it","fields_offered","fields_source","domain","website","the_world_rank","the_overall_score","the_teaching","the_research","the_citations","the_international_outlook","the_industry_income"])
+w("universities.csv",unis,["id","name","country","country_code","city","lat","lon","field_category","field_category_en","field_category_it","fields_offered","fields_source","monthly_room_rent_eur","room_rent_level","room_rent_source","domain","website","the_world_rank","the_overall_score","the_teaching","the_research","the_citations","the_international_outlook","the_industry_income"])
+w("room_rent_city.csv",rr_city_rows,["city","country","country_code","monthly_room_rent_eur","source_url","note"])
+w("room_rent_country.csv",rr_country_rows,["country","country_code","monthly_room_rent_eur","basis","source_url","note"])
 w("university_fields.csv",uf_rows,["university_id","university","country_code","field_category","field_category_en","field_category_it","source"])
 w("tuition_by_country.csv",tuition_rows,["country","country_code","currency","fee_type","data_quality","bachelor_eu_min_eur","bachelor_eu_max_eur","master_eu_min_eur","master_eu_max_eur","bachelor_noneu_min_eur","bachelor_noneu_max_eur","master_noneu_min_eur","master_noneu_max_eur","official_student_budget_eur_month","notes_it","notes_en"])
 w("tuition_exceptions.csv",exc_rows,["country","matched_university_id","matched_university_name","university","field","level","amount_eur_year","note","source_url"])
@@ -315,7 +337,8 @@ combined = {"meta":{"description":"European universities dataset: institutions (
   "rankings_source":rk["source"],"rankings_edition":rk["edition_year"],"rankings_matched":matched,
   "fields_source":"ETER (Zenodo full dump) where matched, else name heuristic","universities_with_eter_fields":eter_matched},
   "universities":unis,"tuition_by_country":tuition_rows,"tuition_exceptions":exc_rows,"cost_of_living_city":col_city_rows,
-  "cost_of_living_country":col_country_rows,"scholarships":sch_rows,"faculties":fac_rows,"university_fields":uf_rows,
+  "cost_of_living_country":col_country_rows,"room_rent_city":rr_city_rows,"room_rent_country":rr_country_rows,
+  "scholarships":sch_rows,"faculties":fac_rows,"university_fields":uf_rows,
   "field_taxonomy":[{"code":c["code"],"label_en":c["label_en"],"label_it":c["label_it"]} for c in TAX],"university_rankings":rankings_rows}
 json.dump(combined, open(os.path.join(DATA,"dataset.json"),"w",encoding="utf-8"), ensure_ascii=False, indent=1)
 from collections import Counter

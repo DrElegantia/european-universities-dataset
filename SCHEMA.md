@@ -13,6 +13,9 @@ All tuition/cost amounts in EUR. Numeric columns are blank only when no sourced 
 | field_category_en, field_category_it | bilingual label |
 | domain, website | primary domain / URL |
 | fields_offered | pipe-separated taxonomy codes of ALL fields the institution offers (ETER-sourced; use this for the field filter). fields_source = ETER or name-heuristic |
+| monthly_room_rent_eur | **primary comparable cost metric**: average monthly rent for a single room (student room in a shared flat), EUR. Present for 100% of universities |
+| room_rent_level | `city` (real city room price) or `country:<basis>` (national baseline) |
+| room_rent_source | source URL for the room rent figure |
 | the_world_rank | THE 2026 world rank if matched (`1`, `=3`, `601-800`); blank otherwise |
 | the_overall_score | THE 2026 overall score (higher = better); blank otherwise |
 | the_teaching, the_research, the_citations, the_international_outlook, the_industry_income | THE 2026 **pillar scores** (0-100, higher = better) for the score breakdown / radar chart; blank if unranked |
@@ -40,6 +43,12 @@ For non-EU countries the `*_eu_*` columns represent domestic/state-funded study.
 
 ## cost_of_living_country.csv
 `country, country_code, official_student_budget_eur_month, source_url, note` — national fallback.
+
+## room_rent_city.csv
+`city, country, country_code, monthly_room_rent_eur, source_url, note` — average single-room rent per city (market sources: HousingAnywhere International Rent Index, SpareRoom, Daft, Murator, LocService...).
+
+## room_rent_country.csv
+`country, country_code, monthly_room_rent_eur, basis, source_url, note` — national average single-room rent for every country (basis: national-figure / city-derived / regional-proxy / estimate). Guarantees a comparable figure for every university.
 
 ## scholarships.csv
 `scope (EU-wide|national), country, name, provider, coverage_en, coverage_it, eligibility_en, eligibility_it, source_url`.

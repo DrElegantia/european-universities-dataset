@@ -1,0 +1,303 @@
+[
+ {
+  "city": "London",
+  "country_code": "GB",
+  "room_rent_eur_month": 1132,
+  "source_url": "https://m.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index, avg room rent London GBP 978/mo (updated Apr 2026, bills incl.); converted at GBP/EUR 1.157 (ECB Jun 2026)"
+ },
+ {
+  "city": "Paris",
+  "country_code": "FR",
+  "room_rent_eur_month": 800,
+  "source_url": "https://housinganywhere.com/Paris--France/paris-cost-of-living",
+  "note": "HousingAnywhere Paris cost-of-living: furnished private room with utilities EUR 800/mo"
+ },
+ {
+  "city": "Warsaw",
+  "country_code": "PL",
+  "room_rent_eur_month": 472,
+  "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
+  "note": "Murator student-room report Sep 2025: single room Warszawa ~2000 PLN/mo (excl. utilities); converted at PLN/EUR 4.24 (ECB Jun 2026)"
+ },
+ {
+  "city": "Berlin",
+  "country_code": "DE",
+  "room_rent_eur_month": 633,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 633/mo"
+ },
+ {
+  "city": "Toulouse",
+  "country_code": "FR",
+  "room_rent_eur_month": 475,
+  "source_url": "https://www.locservice.fr/haute-garonne-31/location-chambre-toulouse.html",
+  "note": "LocService Toulouse room listings, representative avg ~EUR 475/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Lille",
+  "country_code": "FR",
+  "room_rent_eur_month": 430,
+  "source_url": "https://www.locservice.fr/nord-59/location-chambre-lille.html",
+  "note": "LocService Lille room listings, representative avg ~EUR 430/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Vienna",
+  "country_code": "AT",
+  "room_rent_eur_month": 570,
+  "source_url": "https://housinganywhere.com/Vienna--Austria/vienna-cost-of-living",
+  "note": "HousingAnywhere Vienna cost-of-living: furnished private room with utilities EUR 570/mo"
+ },
+ {
+  "city": "Lyon",
+  "country_code": "FR",
+  "room_rent_eur_month": 520,
+  "source_url": "https://www.locservice.fr/rhone-69/location-chambre-lyon.html",
+  "note": "LocService Lyon room listings, representative avg ~EUR 520/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Bordeaux",
+  "country_code": "FR",
+  "room_rent_eur_month": 510,
+  "source_url": "https://www.locservice.fr/gironde-33/location-chambre-bordeaux.html",
+  "note": "LocService Bordeaux room listings, representative avg ~EUR 500-550/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Wrocław",
+  "country_code": "PL",
+  "room_rent_eur_month": 271,
+  "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
+  "note": "Murator student-room report Sep 2025: single room Wrocław ~1150 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+ },
+ {
+  "city": "Marseille",
+  "country_code": "FR",
+  "room_rent_eur_month": 545,
+  "source_url": "https://www.locservice.fr/bouches-du-rhone-13/location-chambre-marseille.html",
+  "note": "LocService Marseille room listings, representative avg ~EUR 545/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Kraków",
+  "country_code": "PL",
+  "room_rent_eur_month": 295,
+  "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
+  "note": "Murator student-room report Sep 2025: single room Kraków ~1250 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+ },
+ {
+  "city": "Poznań",
+  "country_code": "PL",
+  "room_rent_eur_month": 236,
+  "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
+  "note": "Murator student-room report Sep 2025: single room Poznań ~1000 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+ },
+ {
+  "city": "Lisbon",
+  "country_code": "PT",
+  "room_rent_eur_month": 460,
+  "source_url": "https://housinganywhere.com/s/Lisbon--Portugal/private-rooms",
+  "note": "HousingAnywhere Lisbon private-room listings, representative avg ~EUR 450-480/mo (platform listing average)"
+ },
+ {
+  "city": "Zürich",
+  "country_code": "CH",
+  "room_rent_eur_month": 1300,
+  "source_url": "https://housinganywhere.com/s/Zurich--Switzerland/private-rooms",
+  "note": "HousingAnywhere Zurich: central rooms CHF 900-1500/mo per FAQ; midpoint ~CHF 1200; converted at CHF/EUR ~0.93x (1 CHF ~ 1.07 EUR) -> ~EUR 1300/mo (platform estimate)"
+ },
+ {
+  "city": "Brussels",
+  "country_code": "BE",
+  "room_rent_eur_month": 525,
+  "source_url": "https://housinganywhere.com/s/Brussels--Belgium/private-rooms",
+  "note": "HousingAnywhere Brussels private-room listings, representative avg ~EUR 500-550/mo (platform listing average)"
+ },
+ {
+  "city": "Strasbourg",
+  "country_code": "FR",
+  "room_rent_eur_month": 530,
+  "source_url": "https://www.locservice.fr/bas-rhin-67/location-chambre-strasbourg.html",
+  "note": "LocService Strasbourg room listings, representative avg ~EUR 530/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Munich",
+  "country_code": "DE",
+  "room_rent_eur_month": 808,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 808/mo (most expensive German city)"
+ },
+ {
+  "city": "Athens",
+  "country_code": "GR",
+  "room_rent_eur_month": 400,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 400/mo"
+ },
+ {
+  "city": "Budapest",
+  "country_code": "HU",
+  "room_rent_eur_month": 370,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 370/mo"
+ },
+ {
+  "city": "Rennes",
+  "country_code": "FR",
+  "room_rent_eur_month": 430,
+  "source_url": "https://www.locservice.fr/ille-et-vilaine-35/location-chambre-rennes.html",
+  "note": "LocService Rennes room listings, representative avg ~EUR 430/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Hamburg",
+  "country_code": "DE",
+  "room_rent_eur_month": 800,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room ~EUR 800/mo (among highest in Germany)"
+ },
+ {
+  "city": "Łódź",
+  "country_code": "PL",
+  "room_rent_eur_month": 200,
+  "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
+  "note": "Murator student-room report Sep 2025: single room Łódź ~850 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+ },
+ {
+  "city": "Clermont-Ferrand",
+  "country_code": "FR",
+  "room_rent_eur_month": 420,
+  "source_url": "https://www.locservice.fr/puy-de-dome-63/location-chambre-clermont-ferrand.html",
+  "note": "LocService Clermont-Ferrand room listings, representative avg ~EUR 400-450/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Hannover",
+  "country_code": "DE",
+  "room_rent_eur_month": 615,
+  "source_url": "https://housinganywhere.com/s/Hannover--Germany/private-rooms",
+  "note": "HousingAnywhere Hannover private-room listings, representative avg ~EUR 615/mo (platform listing average, utilities incl.)"
+ },
+ {
+  "city": "Gdańsk",
+  "country_code": "PL",
+  "room_rent_eur_month": 342,
+  "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
+  "note": "Murator student-room report Sep 2025: single room Gdańsk ~1450 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+ },
+ {
+  "city": "Montpellier",
+  "country_code": "FR",
+  "room_rent_eur_month": 490,
+  "source_url": "https://www.locservice.fr/herault-34/location-chambre-montpellier.html",
+  "note": "LocService Montpellier room listings, representative avg ~EUR 480-500/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Leipzig",
+  "country_code": "DE",
+  "room_rent_eur_month": 490,
+  "source_url": "https://housinganywhere.com/s/Leipzig--Germany/private-rooms",
+  "note": "HousingAnywhere Leipzig private-room listings, representative avg ~EUR 490/mo (platform listing average, utilities incl.)"
+ },
+ {
+  "city": "Köln",
+  "country_code": "DE",
+  "room_rent_eur_month": 800,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room ~EUR 800/mo (among highest in Germany)"
+ },
+ {
+  "city": "Stuttgart",
+  "country_code": "DE",
+  "room_rent_eur_month": 530,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 530/mo (most affordable major German city in index)"
+ },
+ {
+  "city": "Dublin",
+  "country_code": "IE",
+  "room_rent_eur_month": 876,
+  "source_url": "https://www.rte.ie/news/business/2025/1112/1543413-daft-rental-price-report-q3-2025/",
+  "note": "Daft.ie Rental Report 2025: double room in shared house in Dublin avg EUR 876/mo (national double-room avg EUR 775)"
+ },
+ {
+  "city": "Barcelona",
+  "country_code": "ES",
+  "room_rent_eur_month": 650,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 650/mo"
+ },
+ {
+  "city": "Madrid",
+  "country_code": "ES",
+  "room_rent_eur_month": 625,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 625/mo (confirmed by Madrid cost-of-living page: private room EUR 625)"
+ },
+ {
+  "city": "Milan",
+  "country_code": "IT",
+  "room_rent_eur_month": 664,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 664/mo"
+ },
+ {
+  "city": "Rome",
+  "country_code": "IT",
+  "room_rent_eur_month": 650,
+  "source_url": "https://housinganywhere.com/rent-index-by-city",
+  "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 650/mo (+4.8% YoY)"
+ },
+ {
+  "city": "Stockholm",
+  "country_code": "SE",
+  "room_rent_eur_month": 573,
+  "source_url": "https://housinganywhere.com/s/Stockholm--Sweden/private-rooms",
+  "note": "HousingAnywhere Stockholm private-room listings, median ~SEK 6300/mo; converted at SEK/EUR ~11.0 -> ~EUR 573/mo (platform listing average)"
+ },
+ {
+  "city": "Geneva",
+  "country_code": "CH",
+  "room_rent_eur_month": 1000,
+  "source_url": "https://housinganywhere.com/s/Geneva--Switzerland",
+  "note": "HousingAnywhere Geneva: rooms typically CHF 800-1100/mo; midpoint ~CHF 950 -> ~EUR 1000/mo (platform estimate, lower confidence)"
+ },
+ {
+  "city": "Graz",
+  "country_code": "AT",
+  "room_rent_eur_month": 490,
+  "source_url": "https://housinganywhere.com/s/Graz--Austria/private-rooms",
+  "note": "HousingAnywhere Graz private-room listings, representative avg ~EUR 480-500/mo (platform listing average, utilities incl.)"
+ },
+ {
+  "city": "Antwerpen",
+  "country_code": "BE",
+  "room_rent_eur_month": 650,
+  "source_url": "https://housinganywhere.com/s/Antwerp--Belgium/private-rooms",
+  "note": "HousingAnywhere Antwerp private-room listings, representative avg ~EUR 650/mo (platform listing average)"
+ },
+ {
+  "city": "Copenhagen",
+  "country_code": "DK",
+  "room_rent_eur_month": 750,
+  "source_url": "https://housinganywhere.com/s/Copenhagen--Denmark/private-rooms",
+  "note": "HousingAnywhere Copenhagen: central rooms DKK 5000-8000/mo per FAQ; midpoint ~DKK 5600 -> ~EUR 750/mo (platform estimate)"
+ },
+ {
+  "city": "Helsinki",
+  "country_code": "FI",
+  "room_rent_eur_month": 550,
+  "source_url": "https://housinganywhere.com/s/Helsinki--Finland/private-rooms",
+  "note": "HousingAnywhere Helsinki private-room listings, representative avg ~EUR 550/mo (platform listing average)"
+ },
+ {
+  "city": "Nantes",
+  "country_code": "FR",
+  "room_rent_eur_month": 450,
+  "source_url": "https://www.locservice.fr/loire-atlantique-44/location-chambre-nantes.html",
+  "note": "LocService Nantes room listings, representative avg ~EUR 400-500/mo (platform listing average, charges incl.)"
+ },
+ {
+  "city": "Frankfurt am Main",
+  "country_code": "DE",
+  "room_rent_eur_month": 620,
+  "source_url": "https://housinganywhere.com/s/Frankfurt-am-Main--Germany/private-rooms",
+  "note": "HousingAnywhere Frankfurt private-room listings, representative avg ~EUR 620/mo (platform listing average, utilities incl.); wg-gesucht 2024 stated EUR 680"
+ }
+]

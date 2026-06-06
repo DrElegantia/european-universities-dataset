@@ -14,6 +14,8 @@ The data is **relational**: a base list of all European universities plus dimens
 | `tuition_exceptions.csv` | 29 | Institution-specific tuition where it differs from the national rule (each with source) |
 | `cost_of_living_city.csv` | 66 | Monthly student cost of living per city (rent / other / total), Numbeo, with access notes |
 | `cost_of_living_country.csv` | 26 | Official national student-budget / visa benchmark per country (fallback) |
+| `room_rent_city.csv` | 43 | **Average single-room rent per city** (student room, market sources) |
+| `room_rent_country.csv` | 45 | **Average single-room rent per country** (baseline so every university has a comparable figure) |
 | `scholarships.csv` | 20 | EU-wide + national scholarships, coverage & eligibility **in IT and EN**, with source |
 | `faculties.csv` | 120 | Faculties for 24 reference universities, each mapped to a `field_category` |
 | `field_taxonomy.csv` | 14 | The controlled field vocabulary (code, label_en, label_it) |
@@ -27,7 +29,8 @@ The data is **relational**: a base list of all European universities plus dimens
 
 - **University → tuition**: `universities.country_code` → `tuition_by_country.country_code`. Use the numeric `*_min_eur` / `*_max_eur` columns for price filters; show `fee_type` and a `data_quality` badge.
 - **University → institution-specific tuition**: match `tuition_exceptions.university` to `universities.name`; show it instead of the country framework when present.
-- **University → cost of living**: by `universities.city` → `cost_of_living_city.city` (same country_code); **if the city is not present, fall back** to `cost_of_living_country` by `country_code`.
+- **University → room rent (primary cost metric)**: already on the row as `monthly_room_rent_eur` (single-room average, EUR/month, present for 100% of universities). `room_rent_level` says whether it is a real city figure or the national baseline. This is the comparable headline cost number to show and filter on.
+- **University → broader cost of living** (optional detail): by `universities.city` → `cost_of_living_city.city` (same country_code); **if the city is not present, fall back** to `cost_of_living_country` by `country_code`.
 - **University → field filter**: `universities.field_category` (one of the 14 codes in `field_taxonomy.csv`). Every university has exactly one, so the filter has clean buckets.
 - **University → scholarships**: `scope = EU-wide` rows apply to all; `national` rows by `country`.
 - **University → quality**: `universities.the_world_rank` / `the_overall_score`, full pillar scores via `university_rankings.matched_university_id` → `universities.id`.
