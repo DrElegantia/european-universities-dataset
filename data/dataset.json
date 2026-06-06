@@ -216,9 +216,9 @@
    "the_industry_income": 51.1,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 384,
+   "monthly_room_rent_eur": 755,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 9,
@@ -346,9 +346,9 @@
    "the_industry_income": "",
    "fields_offered": "ART|HUM|ICT",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 436,
+   "monthly_room_rent_eur": 827,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 14,
@@ -13424,9 +13424,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 381,
+   "monthly_room_rent_eur": 576,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.locservice.fr/actualites/marche-colocation-france-2025-14260.html"
   },
   {
    "id": 517,
@@ -15946,9 +15946,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 365,
+   "monthly_room_rent_eur": 490,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 614,
@@ -16050,9 +16050,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 240,
+   "monthly_room_rent_eur": 435,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 618,
@@ -16388,9 +16388,9 @@
    "the_industry_income": "",
    "fields_offered": "ART|BUS|HUM|LAW|MED",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 404,
+   "monthly_room_rent_eur": 360,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 631,
@@ -16466,9 +16466,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|BUS|EDU|ENG|ICT|LAW|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 319,
+   "monthly_room_rent_eur": 525,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 634,
@@ -16596,9 +16596,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 401,
+   "monthly_room_rent_eur": 600,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 639,
@@ -16960,9 +16960,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 525,
+   "monthly_room_rent_eur": 453,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 653,
@@ -17116,9 +17116,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 200,
+   "monthly_room_rent_eur": 328,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist"
   },
   {
    "id": 659,
@@ -17636,9 +17636,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 328,
+   "monthly_room_rent_eur": 395,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 679,
@@ -17844,9 +17844,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 319,
+   "monthly_room_rent_eur": 525,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 687,
@@ -17922,9 +17922,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 201,
+   "monthly_room_rent_eur": 395,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 690,
@@ -19040,9 +19040,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 525,
+   "monthly_room_rent_eur": 453,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 733,
@@ -19326,9 +19326,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://acolyteliving.com/post/room-rent-in-germany-for-students-2025-guide"
+   "monthly_room_rent_eur": 325,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist"
   },
   {
    "id": 744,
@@ -19378,9 +19378,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 240,
+   "monthly_room_rent_eur": 435,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 746,
@@ -19768,9 +19768,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 365,
+   "monthly_room_rent_eur": 490,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 761,
@@ -19950,9 +19950,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|EDU|ENG|HUM",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 401,
+   "monthly_room_rent_eur": 600,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 768,
@@ -20262,9 +20262,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 365,
+   "monthly_room_rent_eur": 490,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 780,
@@ -20314,9 +20314,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 525,
+   "monthly_room_rent_eur": 453,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 782,
@@ -20522,9 +20522,9 @@
    "the_industry_income": "",
    "fields_offered": "THEO",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 328,
+   "monthly_room_rent_eur": 395,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 790,
@@ -20730,9 +20730,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 525,
+   "monthly_room_rent_eur": 453,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 798,
@@ -21016,9 +21016,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 190,
+   "monthly_room_rent_eur": 290,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist"
   },
   {
    "id": 809,
@@ -21120,9 +21120,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 240,
+   "monthly_room_rent_eur": 435,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 813,
@@ -21328,9 +21328,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 404,
+   "monthly_room_rent_eur": 360,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 821,
@@ -21354,9 +21354,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 319,
+   "monthly_room_rent_eur": 525,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 822,
@@ -21484,9 +21484,9 @@
    "the_industry_income": 83.9,
    "fields_offered": "ART|BUS|EDU|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 401,
+   "monthly_room_rent_eur": 600,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 827,
@@ -21640,9 +21640,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 365,
+   "monthly_room_rent_eur": 490,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 833,
@@ -21822,9 +21822,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 525,
+   "monthly_room_rent_eur": 453,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 840,
@@ -21848,9 +21848,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 290,
+   "monthly_room_rent_eur": 362,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 841,
@@ -21900,9 +21900,9 @@
    "the_industry_income": 88.7,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 200,
+   "monthly_room_rent_eur": 328,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist"
   },
   {
    "id": 843,
@@ -22290,9 +22290,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 328,
+   "monthly_room_rent_eur": 395,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 858,
@@ -22342,9 +22342,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 201,
+   "monthly_room_rent_eur": 395,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/"
   },
   {
    "id": 860,
@@ -22524,9 +22524,9 @@
    "the_industry_income": 63.6,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 243,
+   "monthly_room_rent_eur": 330,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist"
   },
   {
    "id": 867,
@@ -22602,9 +22602,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 320,
+   "monthly_room_rent_eur": 445,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten"
   },
   {
    "id": 870,
@@ -25540,9 +25540,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 272,
+   "monthly_room_rent_eur": 506,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi"
   },
   {
    "id": 983,
@@ -25774,9 +25774,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 469,
+   "monthly_room_rent_eur": 632,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bologna"
+   "room_rent_source": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/"
   },
   {
    "id": 992,
@@ -26320,9 +26320,9 @@
    "the_industry_income": 82.5,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 469,
+   "monthly_room_rent_eur": 632,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bologna"
+   "room_rent_source": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/"
   },
   {
    "id": 1013,
@@ -26346,9 +26346,9 @@
    "the_industry_income": 72.0,
    "fields_offered": "AGR|ARC|ART|BUS|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 389,
+   "monthly_room_rent_eur": 519,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi"
   },
   {
    "id": 1014,
@@ -26710,9 +26710,9 @@
    "the_industry_income": 76.7,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 336,
+   "monthly_room_rent_eur": 606,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/"
   },
   {
    "id": 1028,
@@ -27594,9 +27594,9 @@
    "the_industry_income": 70.3,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 285,
+   "monthly_room_rent_eur": 544,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi"
   },
   {
    "id": 1062,
@@ -29648,9 +29648,9 @@
    "the_industry_income": 89.2,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 533,
+   "monthly_room_rent_eur": 700,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1141,
@@ -29674,9 +29674,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 533,
+   "monthly_room_rent_eur": 700,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1142,
@@ -29726,9 +29726,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 513,
+   "monthly_room_rent_eur": 500,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1144,
@@ -29804,9 +29804,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 546,
+   "monthly_room_rent_eur": 803,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q1-2025"
   },
   {
    "id": 1147,
@@ -29831,8 +29831,8 @@
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
    "monthly_room_rent_eur": 800,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "room_rent_level": "city",
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1148,
@@ -29856,9 +29856,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 533,
+   "monthly_room_rent_eur": 700,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1149,
@@ -29882,9 +29882,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 577,
+   "monthly_room_rent_eur": 600,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1150,
@@ -29908,9 +29908,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 546,
+   "monthly_room_rent_eur": 803,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q1-2025"
   },
   {
    "id": 1151,
@@ -29934,9 +29934,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 1040,
+   "monthly_room_rent_eur": 979,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Amsterdam"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q1-2025"
   },
   {
    "id": 1152,
@@ -29986,9 +29986,9 @@
    "the_industry_income": "",
    "fields_offered": "THEO",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 533,
+   "monthly_room_rent_eur": 700,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1154,
@@ -30064,9 +30064,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 577,
+   "monthly_room_rent_eur": 600,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1157,
@@ -30090,9 +30090,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 497,
+   "monthly_room_rent_eur": 569,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1158,
@@ -30324,9 +30324,9 @@
    "the_industry_income": 100.0,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 755,
+   "monthly_room_rent_eur": 490,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Delft"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1167,
@@ -30350,9 +30350,9 @@
    "the_industry_income": 100.0,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 513,
+   "monthly_room_rent_eur": 500,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1168,
@@ -30454,9 +30454,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 546,
+   "monthly_room_rent_eur": 803,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q1-2025"
   },
   {
    "id": 1172,
@@ -30480,9 +30480,9 @@
    "the_industry_income": 76.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 1040,
+   "monthly_room_rent_eur": 979,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Amsterdam"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q1-2025"
   },
   {
    "id": 1173,
@@ -30532,9 +30532,9 @@
    "the_industry_income": 77.5,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 1040,
+   "monthly_room_rent_eur": 979,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Amsterdam"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q1-2025"
   },
   {
    "id": 1175,
@@ -30558,9 +30558,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 285,
+   "monthly_room_rent_eur": 390,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://housinganywhere.com/kamernet-rent-report-q3-2025"
   },
   {
    "id": 1176,
@@ -34848,9 +34848,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 450,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/Lisbon--Portugal/cost-of-living-lisbon"
+   "monthly_room_rent_eur": 225,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1341,
@@ -34900,9 +34900,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 136,
+   "monthly_room_rent_eur": 250,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1343,
@@ -34926,9 +34926,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 341,
+   "monthly_room_rent_eur": 335,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Coimbra"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1344,
@@ -34952,9 +34952,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 450,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/Lisbon--Portugal/cost-of-living-lisbon"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1345,
@@ -35004,9 +35004,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 310,
+   "monthly_room_rent_eur": 300,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1347,
@@ -35056,9 +35056,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 450,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/Lisbon--Portugal/cost-of-living-lisbon"
+   "monthly_room_rent_eur": 250,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1349,
@@ -35082,9 +35082,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 325,
+   "monthly_room_rent_eur": 450,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1350,
@@ -35108,9 +35108,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 450,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/Lisbon--Portugal/cost-of-living-lisbon"
+   "monthly_room_rent_eur": 325,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1351,
@@ -35134,9 +35134,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 238,
+   "monthly_room_rent_eur": 400,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1352,
@@ -35186,9 +35186,9 @@
    "the_industry_income": 22.7,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 206,
+   "monthly_room_rent_eur": 350,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1354,
@@ -35368,9 +35368,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|BUS|EDU|ENG|ICT|LAW|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 310,
+   "monthly_room_rent_eur": 300,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1361,
@@ -35628,9 +35628,9 @@
    "the_industry_income": 55.3,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 267,
+   "monthly_room_rent_eur": 360,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1371,
@@ -35732,9 +35732,9 @@
    "the_industry_income": 81.4,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 341,
+   "monthly_room_rent_eur": 335,
    "room_rent_level": "city",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Coimbra"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1375,
@@ -35758,9 +35758,9 @@
    "the_industry_income": 25.1,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 265,
+   "monthly_room_rent_eur": 360,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1376,
@@ -35784,9 +35784,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 325,
+   "monthly_room_rent_eur": 450,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1377,
@@ -36096,9 +36096,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 325,
+   "monthly_room_rent_eur": 450,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1389,
@@ -36122,9 +36122,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 325,
+   "monthly_room_rent_eur": 450,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano"
   },
   {
    "id": 1390,
@@ -47900,9 +47900,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 308,
+   "monthly_room_rent_eur": 400,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.com/news/inmobiliario/vivienda/2026/01/16/879857-la-oferta-de-habitaciones-crece-un-19-mientras-el-precio-aumenta-un-4-en-2025"
   },
   {
    "id": 1843,
@@ -54062,9 +54062,9 @@
    "the_industry_income": 79.6,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 282,
+   "monthly_room_rent_eur": 588,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2080,
@@ -54244,9 +54244,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 592,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2087,
@@ -54270,9 +54270,9 @@
    "the_industry_income": 67.1,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 507,
+   "monthly_room_rent_eur": 951,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2088,
@@ -54296,9 +54296,9 @@
    "the_industry_income": null,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 507,
+   "monthly_room_rent_eur": 951,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2089,
@@ -54374,9 +54374,9 @@
    "the_industry_income": 25.2,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 392,
+   "monthly_room_rent_eur": 708,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2092,
@@ -54426,9 +54426,9 @@
    "the_industry_income": 74.2,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 392,
+   "monthly_room_rent_eur": 708,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2094,
@@ -54452,9 +54452,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 254,
+   "monthly_room_rent_eur": 662,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2095,
@@ -54478,9 +54478,9 @@
    "the_industry_income": 46.4,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 481,
+   "monthly_room_rent_eur": 762,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2096,
@@ -54504,9 +54504,9 @@
    "the_industry_income": 58.5,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 278,
+   "monthly_room_rent_eur": 565,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2097,
@@ -54556,9 +54556,9 @@
    "the_industry_income": 74.6,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 543,
+   "monthly_room_rent_eur": 852,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2099,
@@ -54582,9 +54582,9 @@
    "the_industry_income": 30.6,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 605,
+   "monthly_room_rent_eur": 951,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2100,
@@ -54634,9 +54634,9 @@
    "the_industry_income": 64.9,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 604,
+   "monthly_room_rent_eur": 845,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2102,
@@ -54712,9 +54712,9 @@
    "the_industry_income": 87.6,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 621,
+   "monthly_room_rent_eur": 910,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2105,
@@ -54764,9 +54764,9 @@
    "the_industry_income": 19.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 370,
+   "monthly_room_rent_eur": 702,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2107,
@@ -54790,9 +54790,9 @@
    "the_industry_income": 70.3,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 753,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2108,
@@ -54842,9 +54842,9 @@
    "the_industry_income": 27.9,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
+   "monthly_room_rent_eur": 753,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2110,
@@ -54920,9 +54920,9 @@
    "the_industry_income": 44.9,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 383,
+   "monthly_room_rent_eur": 639,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2113,
@@ -54998,9 +54998,9 @@
    "the_industry_income": 34.6,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 327,
+   "monthly_room_rent_eur": 672,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2116,
@@ -55024,9 +55024,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 362,
+   "monthly_room_rent_eur": 658,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2117,
@@ -55076,9 +55076,9 @@
    "the_industry_income": 62.8,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 718,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2119,
@@ -55128,9 +55128,9 @@
    "the_industry_income": 71.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 463,
+   "monthly_room_rent_eur": 892,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2121,
@@ -55206,9 +55206,9 @@
    "the_industry_income": 59.1,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 418,
+   "monthly_room_rent_eur": 767,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2124,
@@ -55258,9 +55258,9 @@
    "the_industry_income": 48.7,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 383,
+   "monthly_room_rent_eur": 779,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2126,
@@ -55284,9 +55284,9 @@
    "the_industry_income": 73.2,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 383,
+   "monthly_room_rent_eur": 779,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2127,
@@ -55414,9 +55414,9 @@
    "the_industry_income": null,
    "fields_offered": "ARC|ART|EDU|ENG|HUM|MED",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 383,
+   "monthly_room_rent_eur": 779,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2132,
@@ -55440,9 +55440,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 392,
+   "monthly_room_rent_eur": 708,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2133,
@@ -55518,9 +55518,9 @@
    "the_industry_income": 19.0,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 351,
+   "monthly_room_rent_eur": 632,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2136,
@@ -55544,9 +55544,9 @@
    "the_industry_income": 51.3,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 285,
+   "monthly_room_rent_eur": 560,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2137,
@@ -55570,9 +55570,9 @@
    "the_industry_income": 57.5,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 256,
+   "monthly_room_rent_eur": 593,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2138,
@@ -55622,9 +55622,9 @@
    "the_industry_income": 70.3,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 463,
+   "monthly_room_rent_eur": 892,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2140,
@@ -55908,9 +55908,9 @@
    "the_industry_income": 67.2,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 333,
+   "monthly_room_rent_eur": 673,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2151,
@@ -55934,9 +55934,9 @@
    "the_industry_income": 70.2,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 676,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2152,
@@ -55986,9 +55986,9 @@
    "the_industry_income": 69.0,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 362,
+   "monthly_room_rent_eur": 658,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2154,
@@ -56012,9 +56012,9 @@
    "the_industry_income": 71.6,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 375,
+   "monthly_room_rent_eur": 660,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2155,
@@ -56090,9 +56090,9 @@
    "the_industry_income": 34.1,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 592,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2158,
@@ -56116,9 +56116,9 @@
    "the_industry_income": 68.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 351,
+   "monthly_room_rent_eur": 632,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2159,
@@ -56142,9 +56142,9 @@
    "the_industry_income": 51.2,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 351,
+   "monthly_room_rent_eur": 632,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2160,
@@ -56168,9 +56168,9 @@
    "the_industry_income": 48.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 375,
+   "monthly_room_rent_eur": 660,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2161,
@@ -56324,9 +56324,9 @@
    "the_industry_income": 74.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 429,
+   "monthly_room_rent_eur": 791,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2167,
@@ -56402,9 +56402,9 @@
    "the_industry_income": 42.7,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 429,
+   "monthly_room_rent_eur": 791,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2170,
@@ -56428,9 +56428,9 @@
    "the_industry_income": 41.2,
    "fields_offered": "AGR|ARC|ART|BUS|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 463,
+   "monthly_room_rent_eur": 892,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2171,
@@ -56454,9 +56454,9 @@
    "the_industry_income": 80.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 285,
+   "monthly_room_rent_eur": 689,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2172,
@@ -56480,9 +56480,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 333,
+   "monthly_room_rent_eur": 668,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2173,
@@ -56506,9 +56506,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 333,
+   "monthly_room_rent_eur": 668,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2174,
@@ -56532,9 +56532,9 @@
    "the_industry_income": 18.7,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 406,
+   "monthly_room_rent_eur": 690,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2175,
@@ -56558,9 +56558,9 @@
    "the_industry_income": 72.1,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 347,
+   "monthly_room_rent_eur": 673,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2176,
@@ -56584,9 +56584,9 @@
    "the_industry_income": 38.1,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 347,
+   "monthly_room_rent_eur": 673,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2177,
@@ -56636,9 +56636,9 @@
    "the_industry_income": 99.9,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 605,
+   "monthly_room_rent_eur": 951,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2179,
@@ -56662,9 +56662,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 727,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2180,
@@ -56688,9 +56688,9 @@
    "the_industry_income": 65.8,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 365,
+   "monthly_room_rent_eur": 674,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2181,
@@ -56740,9 +56740,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 367,
+   "monthly_room_rent_eur": 681,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2183,
@@ -56844,9 +56844,9 @@
    "the_industry_income": 66.9,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 540,
+   "monthly_room_rent_eur": 828,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2187,
@@ -56896,9 +56896,9 @@
    "the_industry_income": 39.2,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 282,
+   "monthly_room_rent_eur": 588,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2189,
@@ -56922,9 +56922,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 359,
+   "monthly_room_rent_eur": 741,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2190,
@@ -57000,9 +57000,9 @@
    "the_industry_income": 57.0,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 436,
+   "monthly_room_rent_eur": 827,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2193,
@@ -57156,9 +57156,9 @@
    "the_industry_income": 79.4,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 352,
+   "monthly_room_rent_eur": 614,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2199,
@@ -57182,9 +57182,9 @@
    "the_industry_income": 34.9,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 352,
+   "monthly_room_rent_eur": 614,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2200,
@@ -57208,9 +57208,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 607,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2201,
@@ -57260,9 +57260,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 458,
+   "monthly_room_rent_eur": 750,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2203,
@@ -57312,9 +57312,9 @@
    "the_industry_income": 73.1,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 458,
+   "monthly_room_rent_eur": 750,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2205,
@@ -57468,9 +57468,9 @@
    "the_industry_income": 79.7,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 383,
+   "monthly_room_rent_eur": 779,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2211,
@@ -57494,9 +57494,9 @@
    "the_industry_income": 33.7,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 264,
+   "monthly_room_rent_eur": 601,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2212,
@@ -57546,9 +57546,9 @@
    "the_industry_income": 64.8,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 604,
+   "monthly_room_rent_eur": 845,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2214,
@@ -57572,9 +57572,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 607,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2215,
@@ -57624,9 +57624,9 @@
    "the_industry_income": 29.8,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 290,
+   "monthly_room_rent_eur": 547,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2217,
@@ -57832,9 +57832,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 370,
+   "monthly_room_rent_eur": 702,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2225,
@@ -57936,9 +57936,9 @@
    "the_industry_income": 47.8,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 285,
+   "monthly_room_rent_eur": 689,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2229,
@@ -57988,9 +57988,9 @@
    "the_industry_income": 59.2,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 543,
+   "monthly_room_rent_eur": 852,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2231,
@@ -58014,9 +58014,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 753,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2232,
@@ -58196,9 +58196,9 @@
    "the_industry_income": 47.3,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 355,
+   "monthly_room_rent_eur": 623,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2239,
@@ -58222,9 +58222,9 @@
    "the_industry_income": 23.6,
    "fields_offered": "AGR|ART|BUS|EDU|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 396,
+   "monthly_room_rent_eur": 677,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2240,
@@ -58248,9 +58248,9 @@
    "the_industry_income": 67.6,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 461,
+   "monthly_room_rent_eur": 846,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2241,
@@ -58274,9 +58274,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 290,
+   "monthly_room_rent_eur": 547,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2242,
@@ -58300,9 +58300,9 @@
    "the_industry_income": "",
    "fields_offered": "ART|BUS|EDU|HUM|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 367,
+   "monthly_room_rent_eur": 681,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2243,
@@ -58326,9 +58326,9 @@
    "the_industry_income": null,
    "fields_offered": "ART|BUS|EDU|HUM|LAW|MED|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 375,
+   "monthly_room_rent_eur": 660,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2244,
@@ -58378,9 +58378,9 @@
    "the_industry_income": 58.3,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 607,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2246,
@@ -58404,9 +58404,9 @@
    "the_industry_income": 16.0,
    "fields_offered": "ART|BUS|EDU|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 461,
+   "monthly_room_rent_eur": 846,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2247,
@@ -58430,9 +58430,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 753,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2248,
@@ -59314,9 +59314,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 880,
-   "room_rent_level": "country:national-figure",
-   "room_rent_source": "https://www.spareroom.co.uk/content/info-statistics/annual-rental-market-summary-2025/"
+   "monthly_room_rent_eur": 624,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2282,
@@ -60328,9 +60328,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 507,
+   "monthly_room_rent_eur": 951,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2321,
@@ -60406,9 +60406,9 @@
    "the_industry_income": 53.4,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 308,
+   "monthly_room_rent_eur": 400,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.idealista.com/news/inmobiliario/vivienda/2026/01/16/879857-la-oferta-de-habitaciones-crece-un-19-mientras-el-precio-aumenta-un-4-en-2025"
   },
   {
    "id": 2324,
@@ -60926,9 +60926,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 285,
+   "monthly_room_rent_eur": 689,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2344,
@@ -60952,9 +60952,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 338,
+   "monthly_room_rent_eur": 778,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2345,
@@ -61654,9 +61654,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 399,
+   "monthly_room_rent_eur": 757,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2372,
@@ -62018,9 +62018,9 @@
    "the_industry_income": "",
    "fields_offered": "ART|HUM",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 543,
+   "monthly_room_rent_eur": 852,
    "room_rent_level": "city",
-   "room_rent_source": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv"
+   "room_rent_source": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/"
   },
   {
    "id": 2386,
@@ -64941,9 +64941,9 @@
    "city": "Bielefeld",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 404,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 783.72/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 673; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 360,
+   "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+   "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
   },
   {
    "city": "Bochum",
@@ -64957,9 +64957,9 @@
    "city": "Bonn",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 319,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 618.20/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 531; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 525,
+   "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+   "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
   },
   {
    "city": "Braunschweig",
@@ -64989,9 +64989,9 @@
    "city": "Chemnitz",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 190,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 368.81/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 317; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 290,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+   "note": "WG-Gesucht/MMI WiSe 2024/25, cheapest German university city"
   },
   {
    "city": "Cottbus",
@@ -65021,17 +65021,17 @@
    "city": "Dresden",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 240,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 465.40/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 400; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 435,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+   "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
   },
   {
    "city": "Düsseldorf",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 401,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 778.45/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 669; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 600,
+   "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+   "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
   },
   {
    "city": "Erfurt",
@@ -65069,9 +65069,9 @@
    "city": "Freiburg",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 365,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 707.99/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 608; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 490,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+   "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
   },
   {
    "city": "Fulda",
@@ -65141,9 +65141,9 @@
    "city": "Heidelberg",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 525,
-   "source_url": "https://www.numbeo.com/cost-of-living/in/Heidelberg",
-   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+   "monthly_room_rent_eur": 453,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+   "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
   },
   {
    "city": "Heilbronn",
@@ -65157,9 +65157,9 @@
    "city": "Hildesheim",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 290,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 562.00/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 483; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 362,
+   "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+   "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
   },
   {
    "city": "Ingolstadt",
@@ -65173,9 +65173,9 @@
    "city": "Jena",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 200,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 387.25/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 333; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 328,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+   "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
   },
   {
    "city": "Kaiserslautern",
@@ -65293,9 +65293,9 @@
    "city": "Münster",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 328,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 635.76/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 546; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 395,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+   "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
   },
   {
    "city": "Neu-Ulm",
@@ -65333,9 +65333,9 @@
    "city": "Osnabrück",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 201,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 389.89/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 335; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 395,
+   "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+   "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
   },
   {
    "city": "Paderborn",
@@ -65421,9 +65421,9 @@
    "city": "Siegen",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 243,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 470.67/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 404; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 330,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+   "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
   },
   {
    "city": "Stuttgart",
@@ -65445,9 +65445,9 @@
    "city": "Tübingen",
    "country_code": "DE",
    "country": "Germany",
-   "monthly_room_rent_eur": 320,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 620.23/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 533; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 445,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+   "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
   },
   {
    "city": "Villingen-Schwenningen",
@@ -65472,6 +65472,14 @@
    "monthly_room_rent_eur": 378,
    "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
    "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 734.11/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 631; room = round(1bed*0.6)"
+  },
+  {
+   "city": "Wismar",
+   "country_code": "DE",
+   "country": "Germany",
+   "monthly_room_rent_eur": 325,
+   "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+   "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
   },
   {
    "city": "Worms",
@@ -65653,9 +65661,9 @@
    "city": "Girona",
    "country_code": "ES",
    "country": "Spain",
-   "monthly_room_rent_eur": 308,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 597.12/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 513; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 400,
+   "source_url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/01/16/879857-la-oferta-de-habitaciones-crece-un-19-mientras-el-precio-aumenta-un-4-en-2025",
+   "note": "Idealista - habitacion en piso compartido, precio medio 2025"
   },
   {
    "city": "Granada",
@@ -66053,9 +66061,9 @@
    "city": "Nice",
    "country_code": "FR",
    "country": "France",
-   "monthly_room_rent_eur": 381,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 739.03/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 635; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 576,
+   "source_url": "https://www.locservice.fr/actualites/marche-colocation-france-2025-14260.html",
+   "note": "LocService Observatoire colocation 2025 - chambre en colocation, charges comprises"
   },
   {
    "city": "Nîmes",
@@ -66165,9 +66173,9 @@
    "city": "Aberdeen",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 282,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 546.12/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 469; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 588,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Aberystwyth",
@@ -66178,116 +66186,132 @@
    "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 594.50/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 511; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
   },
   {
+   "city": "Bangor",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 592,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
    "city": "Bath",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 507,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 984.00/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 845; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 951,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Bedford",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 359,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 697.00/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 599; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 741,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Belfast",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 367,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 711.98/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 612; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 681,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Birmingham",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 392,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 760.68/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 654; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 708,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Bolton",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 254,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 492.00/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 423; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 662,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Bournemouth",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 481,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 932.75/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 801; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 762,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Bradford",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 278,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 538.89/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 463; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 565,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Brighton",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 604,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1172.28/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 1007; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 845,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Bristol",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 543,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1054.29/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 906; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 852,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Cambridge",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 621,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1204.63/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 1035; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 910,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Canterbury",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 370,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 717.50/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 616; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 702,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
+   "city": "Cardiff",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 753,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Chester",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 460,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 891.75/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 766; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 753,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Coventry",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 383,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 742.78/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 638; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 639,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Derby",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 327,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 634.48/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 545; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 672,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Dundee",
@@ -66298,76 +66322,92 @@
    "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 550.43/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 473; room = round(1bed*0.6)"
   },
   {
+   "city": "Durham",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 718,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
    "city": "Edinburgh",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 463,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 898.49/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 772; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 892,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Exeter",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 418,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 811.80/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 697; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 767,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Glasgow",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 383,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 743.31/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 639; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 779,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Huddersfield",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 285,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 553.50/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 476; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 560,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Kingston upon Hull",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 256,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 497.27/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 427; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 593,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Lancaster",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 333,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 645.75/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 555; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 673,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Leeds",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 375,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 727.75/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 625; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 660,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Leicester",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 362,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 702.64/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 604; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 658,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
+   "city": "Lincoln",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 592,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Liverpool",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 351,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 680.60/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 585; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 632,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "London",
@@ -66378,108 +66418,124 @@
    "note": "SpareRoom Rental Index, avg room rent London GBP 978/mo (updated Apr 2026, bills incl.); converted at GBP/EUR 1.157 (ECB Jun 2026)"
   },
   {
+   "city": "Loughborough",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 676,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
    "city": "Manchester",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 429,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 831.73/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 715; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 791,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Middlesbrough",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 290,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 562.29/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 483; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 547,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Newcastle upon Tyne",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 285,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 553.50/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 476; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 689,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Newport",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 333,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 645.75/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 555; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 668,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Northampton",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 406,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 787.20/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 676; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 690,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Nottingham",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 347,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 673.43/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 579; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 673,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Oxford",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 605,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1174.65/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 1009; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 951,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
+   "city": "Paisley",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 727,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Plymouth",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 365,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 707.25/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 608; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 674,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Portsmouth",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 384,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 745.69/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 641; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 755,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Reading",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 540,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1047.61/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 900; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 828,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Salford",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 436,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 845.32/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 726; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 827,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Sheffield",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 352,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 682.04/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 586; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 614,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Southampton",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 458,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 887.91/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 763; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 750,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Stirling",
@@ -66493,49 +66549,65 @@
    "city": "Sunderland",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 264,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 512.50/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 440; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 601,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
+   "city": "Swansea",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 607,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Swindon",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 399,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 773.14/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 664; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 757,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Taunton",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 338,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 656.00/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 564; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 778,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+  },
+  {
+   "city": "Wakefield",
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "monthly_room_rent_eur": 624,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Wolverhampton",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 355,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 688.80/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 592; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 623,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Worcester",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 396,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 768.75/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 660; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 677,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "York",
    "country_code": "GB",
    "country": "United Kingdom",
-   "monthly_room_rent_eur": 461,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 895.26/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 769; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 846,
+   "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+   "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
   },
   {
    "city": "Athens",
@@ -66789,17 +66861,17 @@
    "city": "Bologna",
    "country_code": "IT",
    "country": "Italy",
-   "monthly_room_rent_eur": 469,
-   "source_url": "https://www.numbeo.com/cost-of-living/in/Bologna",
-   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+   "monthly_room_rent_eur": 632,
+   "source_url": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/",
+   "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
   },
   {
    "city": "Brescia",
    "country_code": "IT",
    "country": "Italy",
-   "monthly_room_rent_eur": 389,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 755.18/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 649; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 519,
+   "source_url": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi",
+   "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
   },
   {
    "city": "Cagliari",
@@ -66845,9 +66917,9 @@
    "city": "Florence",
    "country_code": "IT",
    "country": "Italy",
-   "monthly_room_rent_eur": 336,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 652.00/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 560; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 606,
+   "source_url": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/",
+   "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
   },
   {
    "city": "Foggia",
@@ -66917,9 +66989,9 @@
    "city": "Modena",
    "country_code": "IT",
    "country": "Italy",
-   "monthly_room_rent_eur": 272,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 526.87/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 453; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 506,
+   "source_url": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi",
+   "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
   },
   {
    "city": "Naples",
@@ -67029,9 +67101,9 @@
    "city": "Trento",
    "country_code": "IT",
    "country": "Italy",
-   "monthly_room_rent_eur": 285,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 553.22/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 475; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 544,
+   "source_url": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi",
+   "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
   },
   {
    "city": "Trieste",
@@ -67165,33 +67237,33 @@
    "city": "Amsterdam",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 1040,
-   "source_url": "https://www.numbeo.com/cost-of-living/in/Amsterdam",
-   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+   "monthly_room_rent_eur": 979,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q1-2025",
+   "note": "Kamernet Rent Report Q1 2025, avg private room"
   },
   {
    "city": "Breda",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 497,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 964.18/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 828; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 569,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q3 2025, avg private room"
   },
   {
    "city": "Delft",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 755,
-   "source_url": "https://www.numbeo.com/cost-of-living/in/Delft",
-   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+   "monthly_room_rent_eur": 490,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q3 2025, avg private room"
   },
   {
    "city": "Eindhoven",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 513,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 994.29/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 854; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 500,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q3 2025, avg private room"
   },
   {
    "city": "Groningen",
@@ -67205,9 +67277,9 @@
    "city": "Leiden",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 577,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1119.60/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 962; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 600,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q3 2025, avg private room"
   },
   {
    "city": "Maastricht",
@@ -67221,9 +67293,17 @@
    "city": "Rotterdam",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 533,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1033.89/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 888; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 700,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q2/Q3 2025, avg private room"
+  },
+  {
+   "city": "The Hague",
+   "country_code": "NL",
+   "country": "Netherlands",
+   "monthly_room_rent_eur": 800,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q3 2025, avg private room"
   },
   {
    "city": "Tilburg",
@@ -67237,17 +67317,17 @@
    "city": "Utrecht",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 546,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 1058.39/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 909; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 803,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q1-2025",
+   "note": "Kamernet Rent Report Q1 2025, avg private room"
   },
   {
    "city": "Wageningen",
    "country_code": "NL",
    "country": "Netherlands",
-   "monthly_room_rent_eur": 285,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 553.22/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 475; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 390,
+   "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+   "note": "Kamernet Rent Report Q3 2025, avg private room"
   },
   {
    "city": "Bergen",
@@ -67501,33 +67581,49 @@
    "city": "Aveiro",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 267,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 518.09/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 445; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 360,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+  },
+  {
+   "city": "Bragança",
+   "country_code": "PT",
+   "country": "Portugal",
+   "monthly_room_rent_eur": 225,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Castelo Branco",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 136,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 263.44/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 226; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 250,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Coimbra",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 341,
-   "source_url": "https://www.numbeo.com/cost-of-living/in/Coimbra",
-   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+   "monthly_room_rent_eur": 335,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+  },
+  {
+   "city": "Guarda",
+   "country_code": "PT",
+   "country": "Portugal",
+   "monthly_room_rent_eur": 210,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Leiria",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 310,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 600.63/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 516; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 300,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Lisbon",
@@ -67538,36 +67634,52 @@
    "note": "HousingAnywhere Lisbon private-room listings, representative avg ~EUR 450-480/mo (platform listing average)"
   },
   {
+   "city": "Portalegre",
+   "country_code": "PT",
+   "country": "Portugal",
+   "monthly_room_rent_eur": 250,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+  },
+  {
    "city": "Porto",
    "country_code": "PT",
    "country": "Portugal",
+   "monthly_room_rent_eur": 450,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+  },
+  {
+   "city": "Santarém",
+   "country_code": "PT",
+   "country": "Portugal",
    "monthly_room_rent_eur": 325,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 629.94/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 541; room = round(1bed*0.6)"
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Setúbal",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 238,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 461.01/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 396; room = round(1bed*0.6)"
+   "monthly_room_rent_eur": 400,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Viana do Castelo",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 206,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 400.42/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 344; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 350,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Évora",
    "country_code": "PT",
    "country": "Portugal",
-   "monthly_room_rent_eur": 265,
-   "source_url": "https://raw.githubusercontent.com/HieuTam/P4DS-Global_Cost_of_Living/main/data/cost-of-living_v2.csv",
-   "note": "Numbeo Cost-of-Living dataset (Kaggle mirror), Apartment (1 bedroom) Outside of Centre USD 513.70/mo; converted USD->EUR at 1 EUR=1.1640 USD (ECB 2026-06-05) = EUR 441; room = round(1bed*0.6); data_quality flag=0 (Numbeo: low contributor count)"
+   "monthly_room_rent_eur": 360,
+   "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+   "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
   },
   {
    "city": "Alba Iulia",

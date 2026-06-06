@@ -1,0 +1,793 @@
+[
+ {
+  "city": "Berlin",
+  "country_code": "DE",
+  "room_rent_eur_month": 650,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Bielefeld",
+  "country_code": "DE",
+  "room_rent_eur_month": 360,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Bonn",
+  "country_code": "DE",
+  "room_rent_eur_month": 525,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Chemnitz",
+  "country_code": "DE",
+  "room_rent_eur_month": 290,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+  "note": "WG-Gesucht/MMI WiSe 2024/25, cheapest German university city"
+ },
+ {
+  "city": "Dresden",
+  "country_code": "DE",
+  "room_rent_eur_month": 435,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
+ },
+ {
+  "city": "Düsseldorf",
+  "country_code": "DE",
+  "room_rent_eur_month": 600,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Frankfurt am Main",
+  "country_code": "DE",
+  "room_rent_eur_month": 680,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
+ },
+ {
+  "city": "Freiburg",
+  "country_code": "DE",
+  "room_rent_eur_month": 490,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
+ },
+ {
+  "city": "Hamburg",
+  "country_code": "DE",
+  "room_rent_eur_month": 620,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Heidelberg",
+  "country_code": "DE",
+  "room_rent_eur_month": 453,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
+ },
+ {
+  "city": "Hildesheim",
+  "country_code": "DE",
+  "room_rent_eur_month": 362,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Jena",
+  "country_code": "DE",
+  "room_rent_eur_month": 328,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+  "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
+ },
+ {
+  "city": "Köln",
+  "country_code": "DE",
+  "room_rent_eur_month": 600,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht/MMI WiSe 2025/26 (Cologne)"
+ },
+ {
+  "city": "Munich",
+  "country_code": "DE",
+  "room_rent_eur_month": 800,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI summer semester 2026; warm rent, most expensive German city"
+ },
+ {
+  "city": "Münster",
+  "country_code": "DE",
+  "room_rent_eur_month": 395,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
+ },
+ {
+  "city": "Osnabrück",
+  "country_code": "DE",
+  "room_rent_eur_month": 395,
+  "source_url": "https://www.moses-mendelssohn-institut.de/aktuelles/Studentische_Wohnkosten_Hochschulorte_WiSe_2025_2026/",
+  "note": "WG-Gesucht / Moses Mendelssohn Institut, WG-Zimmer warm, WiSe 2025/26 (released Sep 2025)"
+ },
+ {
+  "city": "Siegen",
+  "country_code": "DE",
+  "room_rent_eur_month": 330,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+  "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
+ },
+ {
+  "city": "Stuttgart",
+  "country_code": "DE",
+  "room_rent_eur_month": 520,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI 2022 figure; latest published"
+ },
+ {
+  "city": "Tübingen",
+  "country_code": "DE",
+  "room_rent_eur_month": 445,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/mietspiegel-wie-viel-kostet-ein-wg-zimmer-in-deutschen-staedten",
+  "note": "WG-Gesucht/MMI summer semester 2025 warm rent"
+ },
+ {
+  "city": "Wismar",
+  "country_code": "DE",
+  "room_rent_eur_month": 325,
+  "source_url": "https://www.wg-gesucht.de/en/artikel/deutsche-studentenstaedte-im-preisvergleich-wo-ein-wg-zimmer-aktuell-am-guenstigsten-ist",
+  "note": "WG-Gesucht/MMI WiSe 2024/25 warm rent"
+ },
+ {
+  "city": "Barcelona",
+  "country_code": "ES",
+  "room_rent_eur_month": 600,
+  "source_url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/01/16/879857-la-oferta-de-habitaciones-crece-un-19-mientras-el-precio-aumenta-un-4-en-2025",
+  "note": "Idealista - habitacion en piso compartido, precio medio 2025"
+ },
+ {
+  "city": "Girona",
+  "country_code": "ES",
+  "room_rent_eur_month": 400,
+  "source_url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/01/16/879857-la-oferta-de-habitaciones-crece-un-19-mientras-el-precio-aumenta-un-4-en-2025",
+  "note": "Idealista - habitacion en piso compartido, precio medio 2025"
+ },
+ {
+  "city": "Madrid",
+  "country_code": "ES",
+  "room_rent_eur_month": 575,
+  "source_url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/01/16/879857-la-oferta-de-habitaciones-crece-un-19-mientras-el-precio-aumenta-un-4-en-2025",
+  "note": "Idealista - habitacion en piso compartido, precio medio 2025"
+ },
+ {
+  "city": "Bordeaux",
+  "country_code": "FR",
+  "room_rent_eur_month": 583,
+  "source_url": "https://www.locservice.fr/actualites/marche-colocation-france-2025-14260.html",
+  "note": "LocService Observatoire colocation 2025 - chambre en colocation, charges comprises"
+ },
+ {
+  "city": "Nice",
+  "country_code": "FR",
+  "room_rent_eur_month": 576,
+  "source_url": "https://www.locservice.fr/actualites/marche-colocation-france-2025-14260.html",
+  "note": "LocService Observatoire colocation 2025 - chambre en colocation, charges comprises"
+ },
+ {
+  "city": "Paris",
+  "country_code": "FR",
+  "room_rent_eur_month": 747,
+  "source_url": "https://www.locservice.fr/actualites/marche-colocation-france-2025-14260.html",
+  "note": "LocService Observatoire colocation 2025 - chambre en colocation, charges comprises"
+ },
+ {
+  "city": "Aberdeen",
+  "country_code": "GB",
+  "room_rent_eur_month": 588,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bangor",
+  "country_code": "GB",
+  "room_rent_eur_month": 592,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bath",
+  "country_code": "GB",
+  "room_rent_eur_month": 951,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bedford",
+  "country_code": "GB",
+  "room_rent_eur_month": 741,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Belfast",
+  "country_code": "GB",
+  "room_rent_eur_month": 681,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Birmingham",
+  "country_code": "GB",
+  "room_rent_eur_month": 708,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bolton",
+  "country_code": "GB",
+  "room_rent_eur_month": 662,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bournemouth",
+  "country_code": "GB",
+  "room_rent_eur_month": 762,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bradford",
+  "country_code": "GB",
+  "room_rent_eur_month": 565,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Brighton",
+  "country_code": "GB",
+  "room_rent_eur_month": 845,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bristol",
+  "country_code": "GB",
+  "room_rent_eur_month": 852,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Cambridge",
+  "country_code": "GB",
+  "room_rent_eur_month": 910,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Canterbury",
+  "country_code": "GB",
+  "room_rent_eur_month": 702,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Cardiff",
+  "country_code": "GB",
+  "room_rent_eur_month": 753,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Chester",
+  "country_code": "GB",
+  "room_rent_eur_month": 753,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Coventry",
+  "country_code": "GB",
+  "room_rent_eur_month": 639,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Derby",
+  "country_code": "GB",
+  "room_rent_eur_month": 672,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Durham",
+  "country_code": "GB",
+  "room_rent_eur_month": 718,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Edinburgh",
+  "country_code": "GB",
+  "room_rent_eur_month": 892,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Exeter",
+  "country_code": "GB",
+  "room_rent_eur_month": 767,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Glasgow",
+  "country_code": "GB",
+  "room_rent_eur_month": 779,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Huddersfield",
+  "country_code": "GB",
+  "room_rent_eur_month": 560,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Kingston upon Hull",
+  "country_code": "GB",
+  "room_rent_eur_month": 593,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Lancaster",
+  "country_code": "GB",
+  "room_rent_eur_month": 673,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Leeds",
+  "country_code": "GB",
+  "room_rent_eur_month": 660,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Leicester",
+  "country_code": "GB",
+  "room_rent_eur_month": 658,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Lincoln",
+  "country_code": "GB",
+  "room_rent_eur_month": 592,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Liverpool",
+  "country_code": "GB",
+  "room_rent_eur_month": 632,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "London",
+  "country_code": "GB",
+  "room_rent_eur_month": 1133,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Loughborough",
+  "country_code": "GB",
+  "room_rent_eur_month": 676,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Manchester",
+  "country_code": "GB",
+  "room_rent_eur_month": 791,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Middlesbrough",
+  "country_code": "GB",
+  "room_rent_eur_month": 547,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Newcastle upon Tyne",
+  "country_code": "GB",
+  "room_rent_eur_month": 689,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Newport",
+  "country_code": "GB",
+  "room_rent_eur_month": 668,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Northampton",
+  "country_code": "GB",
+  "room_rent_eur_month": 690,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Nottingham",
+  "country_code": "GB",
+  "room_rent_eur_month": 673,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Oxford",
+  "country_code": "GB",
+  "room_rent_eur_month": 951,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Paisley",
+  "country_code": "GB",
+  "room_rent_eur_month": 727,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Plymouth",
+  "country_code": "GB",
+  "room_rent_eur_month": 674,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Portsmouth",
+  "country_code": "GB",
+  "room_rent_eur_month": 755,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Reading",
+  "country_code": "GB",
+  "room_rent_eur_month": 828,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Salford",
+  "country_code": "GB",
+  "room_rent_eur_month": 827,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Sheffield",
+  "country_code": "GB",
+  "room_rent_eur_month": 614,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Southampton",
+  "country_code": "GB",
+  "room_rent_eur_month": 750,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Sunderland",
+  "country_code": "GB",
+  "room_rent_eur_month": 601,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Swansea",
+  "country_code": "GB",
+  "room_rent_eur_month": 607,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Swindon",
+  "country_code": "GB",
+  "room_rent_eur_month": 757,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Taunton",
+  "country_code": "GB",
+  "room_rent_eur_month": 778,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Wakefield",
+  "country_code": "GB",
+  "room_rent_eur_month": 624,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Wolverhampton",
+  "country_code": "GB",
+  "room_rent_eur_month": 623,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Worcester",
+  "country_code": "GB",
+  "room_rent_eur_month": 677,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "York",
+  "country_code": "GB",
+  "room_rent_eur_month": 846,
+  "source_url": "https://www.spareroom.co.uk/content/info-flatsharing/average-rent-uk-towns-cities/",
+  "note": "SpareRoom Rental Index (room rent incl bills, updated Apr 2026); GBP->EUR @1.158 (05/06/2026)"
+ },
+ {
+  "city": "Bologna",
+  "country_code": "IT",
+  "room_rent_eur_month": 632,
+  "source_url": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Brescia",
+  "country_code": "IT",
+  "room_rent_eur_month": 519,
+  "source_url": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Florence",
+  "country_code": "IT",
+  "room_rent_eur_month": 606,
+  "source_url": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Milan",
+  "country_code": "IT",
+  "room_rent_eur_month": 732,
+  "source_url": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Modena",
+  "country_code": "IT",
+  "room_rent_eur_month": 506,
+  "source_url": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Rome",
+  "country_code": "IT",
+  "room_rent_eur_month": 575,
+  "source_url": "https://www.immobiliare.it/news/osservatorio-immobiliare/borsino-immobiliare/non-si-ferma-la-corsa-dei-prezzi-delle-stanze-singole-e-doppie-sono-sempre-piu-care-7-e-sempre-piu-richieste-27-225497/",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Trento",
+  "country_code": "IT",
+  "room_rent_eur_month": 544,
+  "source_url": "https://tg24.sky.it/economia/2025/09/11/affitti-studenti-stanze-singole-prezzi",
+  "note": "Immobiliare.it Osservatorio - stanza singola, anno accademico 2025/26"
+ },
+ {
+  "city": "Amsterdam",
+  "country_code": "NL",
+  "room_rent_eur_month": 979,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q1-2025",
+  "note": "Kamernet Rent Report Q1 2025, avg private room"
+ },
+ {
+  "city": "Breda",
+  "country_code": "NL",
+  "room_rent_eur_month": 569,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q3 2025, avg private room"
+ },
+ {
+  "city": "Delft",
+  "country_code": "NL",
+  "room_rent_eur_month": 490,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q3 2025, avg private room"
+ },
+ {
+  "city": "Eindhoven",
+  "country_code": "NL",
+  "room_rent_eur_month": 500,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q3 2025, avg private room"
+ },
+ {
+  "city": "Leiden",
+  "country_code": "NL",
+  "room_rent_eur_month": 600,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q3 2025, avg private room"
+ },
+ {
+  "city": "Rotterdam",
+  "country_code": "NL",
+  "room_rent_eur_month": 700,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q2/Q3 2025, avg private room"
+ },
+ {
+  "city": "The Hague",
+  "country_code": "NL",
+  "room_rent_eur_month": 800,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q3 2025, avg private room"
+ },
+ {
+  "city": "Utrecht",
+  "country_code": "NL",
+  "room_rent_eur_month": 803,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q1-2025",
+  "note": "Kamernet Rent Report Q1 2025, avg private room"
+ },
+ {
+  "city": "Wageningen",
+  "country_code": "NL",
+  "room_rent_eur_month": 390,
+  "source_url": "https://housinganywhere.com/kamernet-rent-report-q3-2025",
+  "note": "Kamernet Rent Report Q3 2025, avg private room"
+ },
+ {
+  "city": "Gdańsk",
+  "country_code": "PL",
+  "room_rent_eur_month": 283,
+  "source_url": "https://muratordom.pl/wnetrza/inne-pomieszczenia/ceny-wynajmu-pokoju-dla-studenta-w-2025-srednie-stawki-w-warszawie-krakowie-wroclawiu-i-innych-miastach-uniwersyteckich-aa-pjRT-yEeY-wdRS.html",
+  "note": "Otodom/Morizon via Murator student room report 2025 (single room, excl. utilities); PLN->EUR @0.2357 (03/06/2026)"
+ },
+ {
+  "city": "Kraków",
+  "country_code": "PL",
+  "room_rent_eur_month": 282,
+  "source_url": "https://muratordom.pl/wnetrza/inne-pomieszczenia/ceny-wynajmu-pokoju-dla-studenta-w-2025-srednie-stawki-w-warszawie-krakowie-wroclawiu-i-innych-miastach-uniwersyteckich-aa-pjRT-yEeY-wdRS.html",
+  "note": "Otodom/Morizon via Murator student room report 2025 (single room, excl. utilities); PLN->EUR @0.2357 (03/06/2026)"
+ },
+ {
+  "city": "Poznań",
+  "country_code": "PL",
+  "room_rent_eur_month": 271,
+  "source_url": "https://muratordom.pl/wnetrza/inne-pomieszczenia/ceny-wynajmu-pokoju-dla-studenta-w-2025-srednie-stawki-w-warszawie-krakowie-wroclawiu-i-innych-miastach-uniwersyteckich-aa-pjRT-yEeY-wdRS.html",
+  "note": "Otodom/Morizon via Murator student room report 2025 (single room, excl. utilities); PLN->EUR @0.2357 (03/06/2026)"
+ },
+ {
+  "city": "Warsaw",
+  "country_code": "PL",
+  "room_rent_eur_month": 359,
+  "source_url": "https://muratordom.pl/wnetrza/inne-pomieszczenia/ceny-wynajmu-pokoju-dla-studenta-w-2025-srednie-stawki-w-warszawie-krakowie-wroclawiu-i-innych-miastach-uniwersyteckich-aa-pjRT-yEeY-wdRS.html",
+  "note": "Otodom/Morizon via Murator student room report 2025 (single room, excl. utilities); PLN->EUR @0.2357 (03/06/2026)"
+ },
+ {
+  "city": "Wrocław",
+  "country_code": "PL",
+  "room_rent_eur_month": 318,
+  "source_url": "https://muratordom.pl/wnetrza/inne-pomieszczenia/ceny-wynajmu-pokoju-dla-studenta-w-2025-srednie-stawki-w-warszawie-krakowie-wroclawiu-i-innych-miastach-uniwersyteckich-aa-pjRT-yEeY-wdRS.html",
+  "note": "Otodom/Morizon via Murator student room report 2025 (single room, excl. utilities); PLN->EUR @0.2357 (03/06/2026)"
+ },
+ {
+  "city": "Łódź",
+  "country_code": "PL",
+  "room_rent_eur_month": 224,
+  "source_url": "https://muratordom.pl/wnetrza/inne-pomieszczenia/ceny-wynajmu-pokoju-dla-studenta-w-2025-srednie-stawki-w-warszawie-krakowie-wroclawiu-i-innych-miastach-uniwersyteckich-aa-pjRT-yEeY-wdRS.html",
+  "note": "Otodom/Morizon via Murator student room report 2025 (single room, excl. utilities); PLN->EUR @0.2357 (03/06/2026)"
+ },
+ {
+  "city": "Aveiro",
+  "country_code": "PT",
+  "room_rent_eur_month": 360,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Bragança",
+  "country_code": "PT",
+  "room_rent_eur_month": 225,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Castelo Branco",
+  "country_code": "PT",
+  "room_rent_eur_month": 250,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Coimbra",
+  "country_code": "PT",
+  "room_rent_eur_month": 335,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Guarda",
+  "country_code": "PT",
+  "room_rent_eur_month": 210,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Leiria",
+  "country_code": "PT",
+  "room_rent_eur_month": 300,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Lisbon",
+  "country_code": "PT",
+  "room_rent_eur_month": 550,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Portalegre",
+  "country_code": "PT",
+  "room_rent_eur_month": 250,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Porto",
+  "country_code": "PT",
+  "room_rent_eur_month": 450,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Santarém",
+  "country_code": "PT",
+  "room_rent_eur_month": 325,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Setúbal",
+  "country_code": "PT",
+  "room_rent_eur_month": 400,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Viana do Castelo",
+  "country_code": "PT",
+  "room_rent_eur_month": 350,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ },
+ {
+  "city": "Évora",
+  "country_code": "PT",
+  "room_rent_eur_month": 360,
+  "source_url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/04/13/74878-arrendar-quarto-em-portugal-esta-mais-caro-preco-subiu-8-num-ano",
+  "note": "Idealista - quarto em casa partilhada, mediana Q1 2026"
+ }
+]
