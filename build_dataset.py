@@ -125,6 +125,25 @@ for u in unis:
 # ---------- ROOM RENT (comparable metric on EVERY university) ----------
 rr_country = {r["country_code"]: r for r in load("room_rent_country.json")}
 rr_city = {(r["city"], r["country_code"]): r for r in load("room_rent_city.json")}
+# augment city room rent with values DERIVED from the Numbeo 1-bedroom data we already have (room ~= 0.6 x 1-bed)
+for fn in ["cost_of_living.json","cost_of_living_extra_1.json","cost_of_living_extra_2.json"]:
+    p = os.path.join(RAW, fn)
+    if not os.path.exists(p): continue
+    for c in json.load(open(p, encoding="utf-8")):
+        cc = c.get("country_code") or CC.get(c.get("country",""), "")
+        city = c.get("city"); rent1 = c.get("monthly_rent_eur")
+        if city and cc and isinstance(rent1,(int,float)) and (city,cc) not in rr_city:
+            rr_city[(city,cc)] = {"city":city,"country_code":cc,"room_rent_eur_month":round(rent1*0.6),
+                "source_url":c.get("source_numbeo_url",""),"note":"derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"}
+# augment from external bulk city-rent dataset if present (city-level for many more cities)
+_bp = os.path.join(RAW, "city_rent_bulk.json")
+if os.path.exists(_bp):
+    for c in json.load(open(_bp, encoding="utf-8")):
+        cc = c.get("country_code",""); city = c.get("city","")
+        rr = c.get("room_rent_eur_month")
+        if city and cc and isinstance(rr,(int,float)) and (city,cc) not in rr_city:
+            rr_city[(city,cc)] = {"city":city,"country_code":cc,"room_rent_eur_month":round(rr),
+                "source_url":c.get("source_url",""),"note":c.get("note","bulk city dataset")}
 rr_city_rows = sorted(({"city":r["city"],"country_code":r["country_code"],"country":CC2NAME.get(r["country_code"],""),
     "monthly_room_rent_eur":r["room_rent_eur_month"],"source_url":r.get("source_url",""),"note":r.get("note","")}
     for r in rr_city.values()), key=lambda x:(x["country_code"],x["city"]))

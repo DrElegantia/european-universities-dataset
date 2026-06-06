@@ -138,9 +138,9 @@
    "the_industry_income": 19.0,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 6,
@@ -502,9 +502,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 230,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://realting.com/albania/property-to-rent"
+   "monthly_room_rent_eur": 266,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Tirana"
   },
   {
    "id": 20,
@@ -528,9 +528,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|BUS|ENG|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 230,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://realting.com/albania/property-to-rent"
+   "monthly_room_rent_eur": 266,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Tirana"
   },
   {
    "id": 21,
@@ -632,9 +632,9 @@
    "the_industry_income": null,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 230,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://realting.com/albania/property-to-rent"
+   "monthly_room_rent_eur": 266,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Tirana"
   },
   {
    "id": 25,
@@ -710,9 +710,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS|EDU|ICT|LAW|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 230,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://realting.com/albania/property-to-rent"
+   "monthly_room_rent_eur": 266,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Tirana"
   },
   {
    "id": 28,
@@ -762,9 +762,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 230,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://realting.com/albania/property-to-rent"
+   "monthly_room_rent_eur": 266,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Tirana"
   },
   {
    "id": 30,
@@ -3024,9 +3024,9 @@
    "the_industry_income": "",
    "fields_offered": "THEO",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 117,
@@ -3362,9 +3362,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 130,
@@ -3440,9 +3440,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 133,
@@ -3466,9 +3466,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 134,
@@ -3648,9 +3648,9 @@
    "the_industry_income": 95.2,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 141,
@@ -6170,9 +6170,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 238,
@@ -6196,9 +6196,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 239,
@@ -6222,9 +6222,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 240,
@@ -6326,9 +6326,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS|LAW|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 244,
@@ -6404,9 +6404,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 247,
@@ -6456,9 +6456,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 249,
@@ -6508,9 +6508,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 251,
@@ -6534,9 +6534,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS|ICT|LAW|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 252,
@@ -6690,9 +6690,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 258,
@@ -6742,9 +6742,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 460,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/student-housing-in-europe-2026-prices-best-cities-where-to-live"
+   "monthly_room_rent_eur": 556,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Prague"
   },
   {
    "id": 260,
@@ -10642,9 +10642,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 410,
@@ -10694,9 +10694,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 412,
@@ -11786,9 +11786,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 454,
@@ -12020,9 +12020,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 463,
@@ -12696,9 +12696,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 489,
@@ -12774,9 +12774,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 492,
@@ -13372,9 +13372,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 515,
@@ -14126,9 +14126,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://erasmusplay.com/en/strasbourg.html"
+   "monthly_room_rent_eur": 245,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nancy"
   },
   {
    "id": 544,
@@ -16960,9 +16960,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://acolyteliving.com/post/room-rent-in-germany-for-students-2025-guide"
+   "monthly_room_rent_eur": 525,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
   },
   {
    "id": 653,
@@ -19040,9 +19040,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://acolyteliving.com/post/room-rent-in-germany-for-students-2025-guide"
+   "monthly_room_rent_eur": 525,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
   },
   {
    "id": 733,
@@ -20314,9 +20314,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://acolyteliving.com/post/room-rent-in-germany-for-students-2025-guide"
+   "monthly_room_rent_eur": 525,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
   },
   {
    "id": 782,
@@ -20730,9 +20730,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://acolyteliving.com/post/room-rent-in-germany-for-students-2025-guide"
+   "monthly_room_rent_eur": 525,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
   },
   {
    "id": 798,
@@ -21822,9 +21822,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 500,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://acolyteliving.com/post/room-rent-in-germany-for-students-2025-guide"
+   "monthly_room_rent_eur": 525,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Heidelberg"
   },
   {
    "id": 840,
@@ -25774,9 +25774,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 560,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "monthly_room_rent_eur": 469,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bologna"
   },
   {
    "id": 992,
@@ -26320,9 +26320,9 @@
    "the_industry_income": 82.5,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 560,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "monthly_room_rent_eur": 469,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bologna"
   },
   {
    "id": 1013,
@@ -29934,9 +29934,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 800,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "monthly_room_rent_eur": 1040,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Amsterdam"
   },
   {
    "id": 1152,
@@ -30324,9 +30324,9 @@
    "the_industry_income": 100.0,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 800,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "monthly_room_rent_eur": 755,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Delft"
   },
   {
    "id": 1167,
@@ -30480,9 +30480,9 @@
    "the_industry_income": 76.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 800,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "monthly_room_rent_eur": 1040,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Amsterdam"
   },
   {
    "id": 1173,
@@ -30532,9 +30532,9 @@
    "the_industry_income": 77.5,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 800,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/rent-index-by-city"
+   "monthly_room_rent_eur": 1040,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Amsterdam"
   },
   {
    "id": 1175,
@@ -31286,9 +31286,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 273,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Katowice"
   },
   {
    "id": 1204,
@@ -31520,9 +31520,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 273,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Katowice"
   },
   {
    "id": 1213,
@@ -31572,9 +31572,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 298,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lublin"
   },
   {
    "id": 1215,
@@ -31910,9 +31910,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 298,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lublin"
   },
   {
    "id": 1228,
@@ -31936,9 +31936,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 271,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Szczecin"
   },
   {
    "id": 1229,
@@ -32040,9 +32040,9 @@
    "the_industry_income": "",
    "fields_offered": "ART|HUM",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 273,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Katowice"
   },
   {
    "id": 1233,
@@ -32274,9 +32274,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 273,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Katowice"
   },
   {
    "id": 1242,
@@ -32534,9 +32534,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|BUS|EDU|ENG|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 273,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Katowice"
   },
   {
    "id": 1252,
@@ -32612,9 +32612,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 298,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lublin"
   },
   {
    "id": 1255,
@@ -32716,9 +32716,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|BUS|EDU|ENG|LAW|MED|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 271,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Szczecin"
   },
   {
    "id": 1259,
@@ -32898,9 +32898,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 298,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lublin"
   },
   {
    "id": 1266,
@@ -33314,9 +33314,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 273,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Katowice"
   },
   {
    "id": 1282,
@@ -33418,9 +33418,9 @@
    "the_industry_income": 17.4,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 271,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Szczecin"
   },
   {
    "id": 1286,
@@ -33548,9 +33548,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 298,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lublin"
   },
   {
    "id": 1291,
@@ -33574,9 +33574,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|BUS|EDU|ENG|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 298,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lublin"
   },
   {
    "id": 1292,
@@ -33730,9 +33730,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 271,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Szczecin"
   },
   {
    "id": 1298,
@@ -34224,9 +34224,9 @@
    "the_industry_income": null,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 271,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Szczecin"
   },
   {
    "id": 1317,
@@ -34588,9 +34588,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 400,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://pepehousing.com/blog/erasmus-in-poland-when-to-rent-a-best-room-as-a-student-for-the-upcoming-semester"
+   "monthly_room_rent_eur": 271,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Szczecin"
   },
   {
    "id": 1331,
@@ -34926,9 +34926,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 450,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/Lisbon--Portugal/cost-of-living-lisbon"
+   "monthly_room_rent_eur": 341,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Coimbra"
   },
   {
    "id": 1344,
@@ -35732,9 +35732,9 @@
    "the_industry_income": 81.4,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 450,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://housinganywhere.com/Lisbon--Portugal/cost-of-living-lisbon"
+   "monthly_room_rent_eur": 341,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Coimbra"
   },
   {
    "id": 1375,
@@ -36278,9 +36278,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1396,
@@ -36304,9 +36304,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 227,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Iasi"
   },
   {
    "id": 1397,
@@ -36330,9 +36330,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1398,
@@ -36408,9 +36408,9 @@
    "the_industry_income": null,
    "fields_offered": "ARC",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1401,
@@ -36538,9 +36538,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1406,
@@ -36616,9 +36616,9 @@
    "the_industry_income": "",
    "fields_offered": "SOC",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1409,
@@ -36668,9 +36668,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 227,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Iasi"
   },
   {
    "id": 1411,
@@ -36720,9 +36720,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 227,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Iasi"
   },
   {
    "id": 1413,
@@ -37006,9 +37006,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC|ENG|MED",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 227,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Iasi"
   },
   {
    "id": 1424,
@@ -37136,9 +37136,9 @@
    "the_industry_income": 39.2,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1429,
@@ -37188,9 +37188,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 227,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Iasi"
   },
   {
    "id": 1431,
@@ -37240,9 +37240,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1433,
@@ -37370,9 +37370,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 227,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Iasi"
   },
   {
    "id": 1438,
@@ -37500,9 +37500,9 @@
    "the_industry_income": null,
    "fields_offered": "AGR|ARC|EDU|ENG|SCI",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1443,
@@ -37604,9 +37604,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 243,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bucharest"
   },
   {
    "id": 1447,
@@ -37812,9 +37812,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1455,
@@ -38020,9 +38020,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1463,
@@ -38254,9 +38254,9 @@
    "the_industry_income": 54.4,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1472,
@@ -38436,9 +38436,9 @@
    "the_industry_income": "",
    "fields_offered": "HUM",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1479,
@@ -38488,9 +38488,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Novosibirsk"
   },
   {
    "id": 1481,
@@ -38514,9 +38514,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Novosibirsk"
   },
   {
    "id": 1482,
@@ -38540,9 +38540,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1483,
@@ -38800,9 +38800,9 @@
    "the_industry_income": 39.2,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1493,
@@ -38826,9 +38826,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1494,
@@ -38878,9 +38878,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1496,
@@ -38956,9 +38956,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1499,
@@ -39086,9 +39086,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1504,
@@ -39112,9 +39112,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1505,
@@ -39138,9 +39138,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1506,
@@ -39164,9 +39164,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1507,
@@ -39216,9 +39216,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1509,
@@ -39372,9 +39372,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1515,
@@ -39788,9 +39788,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1531,
@@ -39840,9 +39840,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1533,
@@ -39866,9 +39866,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1534,
@@ -39892,9 +39892,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1535,
@@ -40022,9 +40022,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1540,
@@ -40100,9 +40100,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1543,
@@ -40126,9 +40126,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1544,
@@ -40334,9 +40334,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1552,
@@ -40360,9 +40360,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1553,
@@ -40516,9 +40516,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 209,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kazan"
   },
   {
    "id": 1559,
@@ -40672,9 +40672,9 @@
    "the_industry_income": "",
    "fields_offered": "HUM",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 228,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia"
   },
   {
    "id": 1565,
@@ -40698,9 +40698,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1566,
@@ -40802,9 +40802,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1570,
@@ -40828,9 +40828,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Novosibirsk"
   },
   {
    "id": 1571,
@@ -40854,9 +40854,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 195,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saratov"
   },
   {
    "id": 1572,
@@ -40880,9 +40880,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1573,
@@ -40906,9 +40906,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1574,
@@ -40932,9 +40932,9 @@
    "the_industry_income": "",
    "fields_offered": "SOC",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1575,
@@ -40984,9 +40984,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1577,
@@ -41010,9 +41010,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1578,
@@ -41062,9 +41062,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1580,
@@ -41088,9 +41088,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1581,
@@ -41140,9 +41140,9 @@
    "the_industry_income": 80.8,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1583,
@@ -41166,9 +41166,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1584,
@@ -41192,9 +41192,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1585,
@@ -41218,9 +41218,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1586,
@@ -41244,9 +41244,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1587,
@@ -41270,9 +41270,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1588,
@@ -41296,9 +41296,9 @@
    "the_industry_income": null,
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1589,
@@ -41322,9 +41322,9 @@
    "the_industry_income": 56.4,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1590,
@@ -41374,9 +41374,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1592,
@@ -41400,9 +41400,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1593,
@@ -41426,9 +41426,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1594,
@@ -41452,9 +41452,9 @@
    "the_industry_income": 53.0,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1595,
@@ -41504,9 +41504,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1597,
@@ -41530,9 +41530,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1598,
@@ -41556,9 +41556,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1599,
@@ -41582,9 +41582,9 @@
    "the_industry_income": 93.4,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1600,
@@ -41608,9 +41608,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1601,
@@ -41790,9 +41790,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 228,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia"
   },
   {
    "id": 1608,
@@ -41842,9 +41842,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 228,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia"
   },
   {
    "id": 1610,
@@ -41868,9 +41868,9 @@
    "the_industry_income": 40.8,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 228,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia"
   },
   {
    "id": 1611,
@@ -41946,9 +41946,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Novosibirsk"
   },
   {
    "id": 1614,
@@ -41998,9 +41998,9 @@
    "the_industry_income": 32.8,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Novosibirsk"
   },
   {
    "id": 1616,
@@ -42024,9 +42024,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 210,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Novosibirsk"
   },
   {
    "id": 1617,
@@ -42076,9 +42076,9 @@
    "the_industry_income": null,
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 155,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Omsk"
   },
   {
    "id": 1619,
@@ -42102,9 +42102,9 @@
    "the_industry_income": 19.9,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 155,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Omsk"
   },
   {
    "id": 1620,
@@ -42128,9 +42128,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 155,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Omsk"
   },
   {
    "id": 1621,
@@ -42154,9 +42154,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 155,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Omsk"
   },
   {
    "id": 1622,
@@ -42180,9 +42180,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 155,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Omsk"
   },
   {
    "id": 1623,
@@ -42700,9 +42700,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1643,
@@ -42856,9 +42856,9 @@
    "the_industry_income": "",
    "fields_offered": "LAW",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 195,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saratov"
   },
   {
    "id": 1649,
@@ -42882,9 +42882,9 @@
    "the_industry_income": null,
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 195,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saratov"
   },
   {
    "id": 1650,
@@ -42934,9 +42934,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 195,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saratov"
   },
   {
    "id": 1652,
@@ -43038,9 +43038,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1656,
@@ -43090,9 +43090,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1658,
@@ -43116,9 +43116,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1659,
@@ -43142,9 +43142,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1660,
@@ -43168,9 +43168,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1661,
@@ -43194,9 +43194,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1662,
@@ -43220,9 +43220,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1663,
@@ -43246,9 +43246,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1664,
@@ -43272,9 +43272,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1665,
@@ -43298,9 +43298,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1666,
@@ -43324,9 +43324,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1667,
@@ -43350,9 +43350,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1668,
@@ -43454,9 +43454,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 195,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saratov"
   },
   {
    "id": 1672,
@@ -43558,9 +43558,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 195,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saratov"
   },
   {
    "id": 1676,
@@ -43662,9 +43662,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1680,
@@ -43766,9 +43766,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1684,
@@ -43818,9 +43818,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1686,
@@ -43844,9 +43844,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1687,
@@ -43870,9 +43870,9 @@
    "the_industry_income": "",
    "fields_offered": "ART",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1688,
@@ -43974,9 +43974,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1692,
@@ -44026,9 +44026,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1694,
@@ -44494,9 +44494,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1712,
@@ -44728,9 +44728,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 279,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg"
   },
   {
    "id": 1721,
@@ -44780,9 +44780,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 155,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Omsk"
   },
   {
    "id": 1723,
@@ -44884,9 +44884,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 228,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia"
   },
   {
    "id": 1727,
@@ -45144,9 +45144,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 228,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia"
   },
   {
    "id": 1737,
@@ -45274,9 +45274,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 129,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Voronezh"
   },
   {
    "id": 1742,
@@ -45404,9 +45404,9 @@
    "the_industry_income": 18.7,
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 129,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Voronezh"
   },
   {
    "id": 1747,
@@ -45430,9 +45430,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 129,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Voronezh"
   },
   {
    "id": 1748,
@@ -45508,9 +45508,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 129,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Voronezh"
   },
   {
    "id": 1751,
@@ -45534,9 +45534,9 @@
    "the_industry_income": "",
    "fields_offered": "EDU",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 129,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Voronezh"
   },
   {
    "id": 1752,
@@ -45638,9 +45638,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 129,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Voronezh"
   },
   {
    "id": 1756,
@@ -45794,9 +45794,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 250,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 441,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Moscow"
   },
   {
    "id": 1762,
@@ -46184,9 +46184,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1777,
@@ -46262,9 +46262,9 @@
    "the_industry_income": "",
    "fields_offered": "HUM",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1780,
@@ -46314,9 +46314,9 @@
    "the_industry_income": null,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1782,
@@ -46470,9 +46470,9 @@
    "the_industry_income": 45.4,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1788,
@@ -46704,9 +46704,9 @@
    "the_industry_income": 30.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1797,
@@ -46730,9 +46730,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1798,
@@ -46886,9 +46886,9 @@
    "the_industry_income": "",
    "fields_offered": "ART|EDU|HUM|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1804,
@@ -46938,9 +46938,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ART|EDU|HUM|MED|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1806,
@@ -46964,9 +46964,9 @@
    "the_industry_income": "",
    "fields_offered": "AGR|ARC|ART|EDU|ENG|HUM|ICT|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 320,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 433,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Bratislava"
   },
   {
    "id": 1807,
@@ -49798,9 +49798,9 @@
    "the_industry_income": 99.7,
    "fields_offered": "ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 550,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.nestpick.com/student-accommodation/stockholm/"
+   "monthly_room_rent_eur": 371,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lund"
   },
   {
    "id": 1916,
@@ -50240,9 +50240,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 850,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 894,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lausanne"
   },
   {
    "id": 1933,
@@ -50344,9 +50344,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 850,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 894,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lausanne"
   },
   {
    "id": 1937,
@@ -51020,9 +51020,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 850,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 894,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lausanne"
   },
   {
    "id": 1963,
@@ -51280,9 +51280,9 @@
    "the_industry_income": 99.4,
    "fields_offered": "ART|BUS|EDU|HUM|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 850,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 894,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lausanne"
   },
   {
    "id": 1973,
@@ -52008,9 +52008,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 850,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.globalpropertyguide.com/europe/rent"
+   "monthly_room_rent_eur": 894,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Lausanne"
   },
   {
    "id": 2001,
@@ -52164,9 +52164,9 @@
    "the_industry_income": "",
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2007,
@@ -52502,9 +52502,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2020,
@@ -52580,9 +52580,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2023,
@@ -52606,9 +52606,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2024,
@@ -52658,9 +52658,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2026,
@@ -52684,9 +52684,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2027,
@@ -52710,9 +52710,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2028,
@@ -52736,9 +52736,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2029,
@@ -52788,9 +52788,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2031,
@@ -52814,9 +52814,9 @@
    "the_industry_income": null,
    "fields_offered": "MED",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2032,
@@ -52840,9 +52840,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2033,
@@ -52866,9 +52866,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2034,
@@ -52892,9 +52892,9 @@
    "the_industry_income": 18.6,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 78,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kharkiv"
   },
   {
    "id": 2035,
@@ -52996,9 +52996,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2039,
@@ -53230,9 +53230,9 @@
    "the_industry_income": "",
    "fields_offered": "ARC",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2048,
@@ -53256,9 +53256,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2049,
@@ -53282,9 +53282,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2050,
@@ -53308,9 +53308,9 @@
    "the_industry_income": "",
    "fields_offered": "ENG",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2051,
@@ -53334,9 +53334,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 100,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Odesa"
   },
   {
    "id": 2052,
@@ -53672,9 +53672,9 @@
    "the_industry_income": "",
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2065,
@@ -53776,9 +53776,9 @@
    "the_industry_income": 28.6,
    "fields_offered": "COMP",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 150,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.numbeo.com/cost-of-living/region_prices_by_city?itemId=27&region=150"
+   "monthly_room_rent_eur": 193,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Kiev"
   },
   {
    "id": 2069,
@@ -59860,9 +59860,9 @@
    "the_industry_income": "",
    "fields_offered": "BUS",
    "fields_source": "name-heuristic",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 2303,
@@ -62044,9 +62044,9 @@
    "the_industry_income": 100.0,
    "fields_offered": "AGR|ARC|ART|BUS|EDU|ENG|HUM|ICT|LAW|MED|SCI|SOC",
    "fields_source": "ETER",
-   "monthly_room_rent_eur": 530,
-   "room_rent_level": "country:city-derived",
-   "room_rent_source": "https://www.brukot.be/en/"
+   "monthly_room_rent_eur": 524,
+   "room_rent_level": "city",
+   "room_rent_source": "https://www.numbeo.com/cost-of-living/in/Leuven"
   },
   {
    "id": 2387,
@@ -64426,6 +64426,14 @@
  ],
  "room_rent_city": [
   {
+   "city": "Tirana",
+   "country_code": "AL",
+   "country": "Albania",
+   "monthly_room_rent_eur": 266,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Tirana",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Graz",
    "country_code": "AT",
    "country": "Austria",
@@ -64458,6 +64466,14 @@
    "note": "HousingAnywhere Brussels private-room listings, representative avg ~EUR 500-550/mo (platform listing average)"
   },
   {
+   "city": "Leuven",
+   "country_code": "BE",
+   "country": "Belgium",
+   "monthly_room_rent_eur": 524,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Leuven",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Geneva",
    "country_code": "CH",
    "country": "Switzerland",
@@ -64466,12 +64482,36 @@
    "note": "HousingAnywhere Geneva: rooms typically CHF 800-1100/mo; midpoint ~CHF 950 -> ~EUR 1000/mo (platform estimate, lower confidence)"
   },
   {
+   "city": "Lausanne",
+   "country_code": "CH",
+   "country": "Switzerland",
+   "monthly_room_rent_eur": 894,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Lausanne",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Zurich",
+   "country_code": "CH",
+   "country": "Switzerland",
+   "monthly_room_rent_eur": 1250,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Zurich",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Zürich",
    "country_code": "CH",
    "country": "Switzerland",
    "monthly_room_rent_eur": 1300,
    "source_url": "https://housinganywhere.com/s/Zurich--Switzerland/private-rooms",
    "note": "HousingAnywhere Zurich: central rooms CHF 900-1500/mo per FAQ; midpoint ~CHF 1200; converted at CHF/EUR ~0.93x (1 CHF ~ 1.07 EUR) -> ~EUR 1300/mo (platform estimate)"
+  },
+  {
+   "city": "Prague",
+   "country_code": "CZ",
+   "country": "Czech Republic",
+   "monthly_room_rent_eur": 556,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Prague",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
   },
   {
    "city": "Berlin",
@@ -64504,6 +64544,14 @@
    "monthly_room_rent_eur": 615,
    "source_url": "https://housinganywhere.com/s/Hannover--Germany/private-rooms",
    "note": "HousingAnywhere Hannover private-room listings, representative avg ~EUR 615/mo (platform listing average, utilities incl.)"
+  },
+  {
+   "city": "Heidelberg",
+   "country_code": "DE",
+   "country": "Germany",
+   "monthly_room_rent_eur": 525,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Heidelberg",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
   },
   {
    "city": "Köln",
@@ -64618,6 +64666,14 @@
    "note": "LocService Montpellier room listings, representative avg ~EUR 480-500/mo (platform listing average, charges incl.)"
   },
   {
+   "city": "Nancy",
+   "country_code": "FR",
+   "country": "France",
+   "monthly_room_rent_eur": 245,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Nancy",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Nantes",
    "country_code": "FR",
    "country": "France",
@@ -64690,6 +64746,14 @@
    "note": "Daft.ie Rental Report 2025: double room in shared house in Dublin avg EUR 876/mo (national double-room avg EUR 775)"
   },
   {
+   "city": "Bologna",
+   "country_code": "IT",
+   "country": "Italy",
+   "monthly_room_rent_eur": 469,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Bologna",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Milan",
    "country_code": "IT",
    "country": "Italy",
@@ -64706,12 +64770,36 @@
    "note": "HousingAnywhere International Rent Index Q4 2025: furnished room EUR 650/mo (+4.8% YoY)"
   },
   {
+   "city": "Amsterdam",
+   "country_code": "NL",
+   "country": "Netherlands",
+   "monthly_room_rent_eur": 1040,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Amsterdam",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Delft",
+   "country_code": "NL",
+   "country": "Netherlands",
+   "monthly_room_rent_eur": 755,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Delft",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Gdańsk",
    "country_code": "PL",
    "country": "Poland",
    "monthly_room_rent_eur": 342,
    "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
    "note": "Murator student-room report Sep 2025: single room Gdańsk ~1450 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+  },
+  {
+   "city": "Katowice",
+   "country_code": "PL",
+   "country": "Poland",
+   "monthly_room_rent_eur": 273,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Katowice",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
   },
   {
    "city": "Kraków",
@@ -64722,12 +64810,28 @@
    "note": "Murator student-room report Sep 2025: single room Kraków ~1250 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
   },
   {
+   "city": "Lublin",
+   "country_code": "PL",
+   "country": "Poland",
+   "monthly_room_rent_eur": 298,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Lublin",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Poznań",
    "country_code": "PL",
    "country": "Poland",
    "monthly_room_rent_eur": 236,
    "source_url": "https://muratordom.pl/prawo/finanse/ceny-wynajmu-mieszkania-dla-studenta-we-wrzesniu-2025-ile-kosztuje-stancja-dla-studenta-aa-E8NK-97Hn-r11Z.html",
    "note": "Murator student-room report Sep 2025: single room Poznań ~1000 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
+  },
+  {
+   "city": "Szczecin",
+   "country_code": "PL",
+   "country": "Poland",
+   "monthly_room_rent_eur": 271,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Szczecin",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
   },
   {
    "city": "Warsaw",
@@ -64754,6 +64858,14 @@
    "note": "Murator student-room report Sep 2025: single room Łódź ~850 PLN/mo (excl. utilities); converted at PLN/EUR 4.24"
   },
   {
+   "city": "Coimbra",
+   "country_code": "PT",
+   "country": "Portugal",
+   "monthly_room_rent_eur": 341,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Coimbra",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Lisbon",
    "country_code": "PT",
    "country": "Portugal",
@@ -64762,12 +64874,132 @@
    "note": "HousingAnywhere Lisbon private-room listings, representative avg ~EUR 450-480/mo (platform listing average)"
   },
   {
+   "city": "Bucharest",
+   "country_code": "RO",
+   "country": "Romania",
+   "monthly_room_rent_eur": 243,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Bucharest",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Iaşi",
+   "country_code": "RO",
+   "country": "Romania",
+   "monthly_room_rent_eur": 227,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Iasi",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Kazan",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 209,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Kazan",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Moscow",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 441,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Moscow",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Nizhniy Novgorod",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 228,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Nizhny-Novgorod-Russia",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Novosibirsk",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 210,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Novosibirsk",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Omsk",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 155,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Omsk",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Saint Petersburg",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 279,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Saint-Petersburg",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Saratov",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 195,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Saratov",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Voronezh",
+   "country_code": "RU",
+   "country": "Russian Federation",
+   "monthly_room_rent_eur": 129,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Voronezh",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Lund",
+   "country_code": "SE",
+   "country": "Sweden",
+   "monthly_room_rent_eur": 371,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Lund",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
    "city": "Stockholm",
    "country_code": "SE",
    "country": "Sweden",
    "monthly_room_rent_eur": 573,
    "source_url": "https://housinganywhere.com/s/Stockholm--Sweden/private-rooms",
    "note": "HousingAnywhere Stockholm private-room listings, median ~SEK 6300/mo; converted at SEK/EUR ~11.0 -> ~EUR 573/mo (platform listing average)"
+  },
+  {
+   "city": "Bratislava",
+   "country_code": "SK",
+   "country": "Slovakia",
+   "monthly_room_rent_eur": 433,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Bratislava",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Kharkiv",
+   "country_code": "UA",
+   "country": "Ukraine",
+   "monthly_room_rent_eur": 78,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Kharkiv",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Kyiv",
+   "country_code": "UA",
+   "country": "Ukraine",
+   "monthly_room_rent_eur": 193,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Kiev",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
+  },
+  {
+   "city": "Odesa",
+   "country_code": "UA",
+   "country": "Ukraine",
+   "monthly_room_rent_eur": 100,
+   "source_url": "https://www.numbeo.com/cost-of-living/in/Odesa",
+   "note": "derived from Numbeo 1-bedroom rent x0.6 (single-room share estimate)"
   }
  ],
  "room_rent_country": [
