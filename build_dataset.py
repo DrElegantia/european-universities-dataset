@@ -96,7 +96,7 @@ BUCKET = {"Medicine&Health":"MED","Engineering&Technology":"ENG","ComputerScienc
 idx2 = {}
 for u in unis:
     idx2.setdefault(u["country_code"], []).append((toks(u["name"]), norm(u["city"]) if u["city"] else "", u))
-eter_codes_by_uid = {}; eter_matched = 0
+eter_codes_by_uid = {}; eter_city_by_uid = {}; eter_matched = 0
 for e in load("eter_fields.json"):
     cc = ETER_CC.get(e["country_code"], e["country_code"])
     if cc not in idx2: continue
@@ -115,6 +115,38 @@ for e in load("eter_fields.json"):
         eter_matched += 1
         codes = {BUCKET[b] for b in (e.get("fields",[]) + e.get("ambiguous_buckets",[])) if b in BUCKET}
         eter_codes_by_uid.setdefault(best["id"], set()).update(codes)
+        if best["id"] not in eter_city_by_uid and e.get("city"):
+            eter_city_by_uid[best["id"]] = e["city"]
+
+# fill missing university city from ETER's authoritative city, mapped to a GeoNames canonical label (+coords)
+GAZ = {}
+import os as _os
+_gz = _os.path.join(ROOT, "cities15000.txt")
+if _os.path.exists(_gz):
+    with open(_gz, encoding="utf-8") as f:
+        for line in f:
+            p = line.split("\t")
+            if len(p) < 15 or p[8] not in CC2NAME: continue
+            try: pop = int(p[14])
+            except: pop = 0
+            names = {norm(p[2])}
+            for alt in p[3].split(","):
+                an = norm(alt)
+                if an and an.isascii() and len(an) >= 4: names.add(an)
+            for nm in names:
+                nm = nm.strip()
+                if len(nm) >= 3:
+                    cur = GAZ.get((p[8], nm))
+                    if not cur or pop > cur[3]:
+                        GAZ[(p[8], nm)] = (p[1], p[4], p[5], pop)
+city_filled = 0
+for u in unis:
+    if u["city"]: continue
+    ec = eter_city_by_uid.get(u["id"])
+    if not ec: continue
+    g = GAZ.get((u["country_code"], norm(ec).strip()))
+    if g:
+        u["city"], u["lat"], u["lon"] = g[0], g[1], g[2]; city_filled += 1
 for u in unis:
     codes = eter_codes_by_uid.get(u["id"])
     if codes:
