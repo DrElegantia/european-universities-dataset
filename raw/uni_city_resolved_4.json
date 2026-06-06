@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1476,
+    "city": "Ulan-Ude"
+  },
+  {
+    "id": 1479,
+    "city": "Cheboksary"
+  },
+  {
+    "id": 1485,
+    "city": "Makhachkala"
+  },
+  {
+    "id": 1486,
+    "city": "Persianovsky"
+  },
+  {
+    "id": 1487,
+    "city": "Rostov-on-Don"
+  },
+  {
+    "id": 1488,
+    "city": "Khabarovsk"
+  },
+  {
+    "id": 1489,
+    "city": "Vladivostok"
+  },
+  {
+    "id": 1494,
+    "city": "Ulan-Ude"
+  },
+  {
+    "id": 1496,
+    "city": "Moscow"
+  },
+  {
+    "id": 1497,
+    "city": "Vladivostok"
+  },
+  {
+    "id": 1500,
+    "city": "Moscow"
+  },
+  {
+    "id": 1501,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1502,
+    "city": "Moscow"
+  },
+  {
+    "id": 1509,
+    "city": "Moscow"
+  },
+  {
+    "id": 1510,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1511,
+    "city": "Moscow"
+  },
+  {
+    "id": 1513,
+    "city": "Moscow"
+  },
+  {
+    "id": 1515,
+    "city": "Moscow"
+  },
+  {
+    "id": 1516,
+    "city": "Izhevsk"
+  },
+  {
+    "id": 1517,
+    "city": "Moscow"
+  },
+  {
+    "id": 1518,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1519,
+    "city": ""
+  },
+  {
+    "id": 1520,
+    "city": "Moscow"
+  },
+  {
+    "id": 1522,
+    "city": "Irkutsk"
+  },
+  {
+    "id": 1535,
+    "city": "Elista"
+  },
+  {
+    "id": 1536,
+    "city": "Petropavlovsk-Kamchatsky"
+  },
+  {
+    "id": 1537,
+    "city": "Kaliningrad"
+  },
+  {
+    "id": 1540,
+    "city": "Nalchik"
+  },
+  {
+    "id": 1545,
+    "city": "Khabarovsk"
+  },
+  {
+    "id": 1547,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1555,
+    "city": "Petrozavodsk"
+  },
+  {
+    "id": 1559,
+    "city": "Krasnodar"
+  },
+  {
+    "id": 1560,
+    "city": "Krasnodar"
+  },
+  {
+    "id": 1561,
+    "city": "Krasnodar"
+  },
+  {
+    "id": 1563,
+    "city": "Kemerovo"
+  },
+  {
+    "id": 1566,
+    "city": "Yoshkar-Ola"
+  },
+  {
+    "id": 1567,
+    "city": "Yoshkar-Ola"
+  },
+  {
+    "id": 1575,
+    "city": "Moscow"
+  },
+  {
+    "id": 1578,
+    "city": "Zelenograd"
+  },
+  {
+    "id": 1581,
+    "city": ""
+  },
+  {
+    "id": 1590,
+    "city": "Saransk"
+  },
+  {
+    "id": 1601,
+    "city": "Moscow"
+  },
+  {
+    "id": 1602,
+    "city": "Moscow"
+  },
+  {
+    "id": 1603,
+    "city": "Samara"
+  },
+  {
+    "id": 1605,
+    "city": "Novosibirsk"
+  },
+  {
+    "id": 1606,
+    "city": "Moscow"
+  },
+  {
+    "id": 1608,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1611,
+    "city": "Vladikavkaz"
+  },
+  {
+    "id": 1614,
+    "city": "Arkhangelsk"
+  },
+  {
+    "id": 1617,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1623,
+    "city": "Moscow"
+  },
+  {
+    "id": 1625,
+    "city": "Moscow"
+  },
+  {
+    "id": 1628,
+    "city": "Arkhangelsk"
+  },
+  {
+    "id": 1634,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1635,
+    "city": "Moscow"
+  },
+  {
+    "id": 1637,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1639,
+    "city": "Moscow"
+  },
+  {
+    "id": 1640,
+    "city": "Moscow"
+  },
+  {
+    "id": 1643,
+    "city": "Ufa"
+  },
+  {
+    "id": 1644,
+    "city": "Yuzhno-Sakhalinsk"
+  },
+  {
+    "id": 1647,
+    "city": "Novosibirsk"
+  },
+  {
+    "id": 1653,
+    "city": "Novokuznetsk"
+  },
+  {
+    "id": 1654,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1656,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1673,
+    "city": "Tomsk"
+  },
+  {
+    "id": 1682,
+    "city": "Novosibirsk"
+  },
+  {
+    "id": 1707,
+    "city": "Chelyabinsk"
+  },
+  {
+    "id": 1709,
+    "city": "Kyzyl"
+  },
+  {
+    "id": 1710,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1712,
+    "city": "Ufa"
+  },
+  {
+    "id": 1713,
+    "city": "Khanty-Mansiysk"
+  },
+  {
+    "id": 1721,
+    "city": "Izhevsk"
+  },
+  {
+    "id": 1728,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1729,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1730,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1731,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1732,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1733,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1734,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1735,
+    "city": "Yekaterinburg"
+  },
+  {
+    "id": 1744,
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 1748,
+    "city": "Ulan-Ude"
+  },
+  {
+    "id": 1749,
+    "city": "Ulan-Ude"
+  },
+  {
+    "id": 1756,
+    "city": "Vladivostok"
+  },
+  {
+    "id": 1765,
+    "city": "Belgrade"
+  },
+  {
+    "id": 1767,
+    "city": "Belgrade"
+  },
+  {
+    "id": 1768,
+    "city": "Belgrade"
+  },
+  {
+    "id": 1770,
+    "city": "Novi Pazar"
+  },
+  {
+    "id": 1771,
+    "city": "Kosovska Mitrovica"
+  },
+  {
+    "id": 1772,
+    "city": "Novi Sad"
+  },
+  {
+    "id": 1784,
+    "city": "Bratislava"
+  },
+  {
+    "id": 1785,
+    "city": "Komarno"
+  },
+  {
+    "id": 1799,
+    "city": "Zilina"
+  },
+  {
+    "id": 1802,
+    "city": "Bratislava"
+  },
+  {
+    "id": 1804,
+    "city": "Sladkovicovo"
+  },
+  {
+    "id": 1807,
+    "city": "Nova Gorica"
+  },
+  {
+    "id": 1812,
+    "city": "Madrid"
+  },
+  {
+    "id": 1815,
+    "city": "Leioa"
+  },
+  {
+    "id": 1816,
+    "city": "Madrid"
+  },
+  {
+    "id": 1819,
+    "city": "Barcelona"
+  },
+  {
+    "id": 1820,
+    "city": "Barcelona"
+  },
+  {
+    "id": 1822,
+    "city": "Barcelona"
+  },
+  {
+    "id": 1836,
+    "city": "Valencia"
+  },
+  {
+    "id": 1848,
+    "city": "Seville"
+  },
+  {
+    "id": 1849,
+    "city": "Palma"
+  },
+  {
+    "id": 1850,
+    "city": "Barcelona"
+  },
+  {
+    "id": 1851,
+    "city": "Santander"
+  },
+  {
+    "id": 1859,
+    "city": "Pamplona"
+  },
+  {
+    "id": 1861,
+    "city": "Madrid"
+  },
+  {
+    "id": 1864,
+    "city": "Seville"
+  },
+  {
+    "id": 1865,
+    "city": "Madrid"
+  },
+  {
+    "id": 1866,
+    "city": "Huelva"
+  },
+  {
+    "id": 1871,
+    "city": ""
+  },
+  {
+    "id": 1873,
+    "city": "Madrid"
+  },
+  {
+    "id": 1874,
+    "city": "Barcelona"
+  },
+  {
+    "id": 1875,
+    "city": "Barcelona"
+  },
+  {
+    "id": 1891,
+    "city": "Vic"
+  },
+  {
+    "id": 1899,
+    "city": "Gothenburg"
+  },
+  {
+    "id": 1920,
+    "city": "Gothenburg"
+  },
+  {
+    "id": 1929,
+    "city": "Malmo"
+  },
+  {
+    "id": 1930,
+    "city": "Leysin"
+  },
+  {
+    "id": 1931,
+    "city": "Lucerne"
+  },
+  {
+    "id": 1933,
+    "city": "Diepoldsau"
+  },
+  {
+    "id": 1934,
+    "city": "Vitznau"
+  },
+  {
+    "id": 1935,
+    "city": "Saas-Fee"
+  },
+  {
+    "id": 1937,
+    "city": "Montreux"
+  },
+  {
+    "id": 1938,
+    "city": "Lugano"
+  },
+  {
+    "id": 1939,
+    "city": "Brugg"
+  },
+  {
+    "id": 1944,
+    "city": "Glion"
+  },
+  {
+    "id": 1947,
+    "city": "Lucerne"
+  }
+]

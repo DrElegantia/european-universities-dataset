@@ -1,0 +1,3878 @@
+[
+{
+"id": 1,
+"name": "Hellenic College of Noah",
+"country_code": "GR",
+"website": "https://noah.edu.gr/"
+},
+{
+"id": 3,
+"name": "West Herts College",
+"country_code": "GB",
+"website": "https://westherts.ac.uk/"
+},
+{
+"id": 6,
+"name": "IÉSEG School of Management",
+"country_code": "FR",
+"website": "https://ieseg.fr/"
+},
+{
+"id": 9,
+"name": "Central Supélec",
+"country_code": "FR",
+"website": "https://www.centralesupelec.fr/"
+},
+{
+"id": 15,
+"name": "Academy of Sports and Physical Training",
+"country_code": "AL",
+"website": "http://www.aefs.edu.al/"
+},
+{
+"id": 16,
+"name": "Academy of Arts",
+"country_code": "AL",
+"website": "http://www.akademiaearteve.edu.al/"
+},
+{
+"id": 28,
+"name": "University of Gjirokstra \"Eqerem Cabej\"",
+"country_code": "AL",
+"website": "http://www.uogj.edu.al/"
+},
+{
+"id": 30,
+"name": "Ecole pour l'Informatique et les nouvelles Technologies - Albania",
+"country_code": "AL",
+"website": "http://www.epitech.al/"
+},
+{
+"id": 34,
+"name": "Donau-Universität Krems",
+"country_code": "AT",
+"website": "http://www.donau-uni.ac.at/"
+},
+{
+"id": 35,
+"name": "Fachhochschule Burgenland",
+"country_code": "AT",
+"website": "http://www.fh-burgenland.at/"
+},
+{
+"id": 36,
+"name": "Fachhochschulstudiengänge Hagenberg",
+"country_code": "AT",
+"website": "http://www.fh-hagenberg.at/"
+},
+{
+"id": 37,
+"name": "Fachhochschule JOANNEUM",
+"country_code": "AT",
+"website": "http://www.fh-joanneum.at/"
+},
+{
+"id": 38,
+"name": "Fachhochschule Kärnten",
+"country_code": "AT",
+"website": "http://www.fh-kaernten.ac.at/"
+},
+{
+"id": 39,
+"name": "Fachhochschule Krems",
+"country_code": "AT",
+"website": "http://www.fh-krems.ac.at/"
+},
+{
+"id": 40,
+"name": "Fachhochschule Kufstein (Tirol)",
+"country_code": "AT",
+"website": "http://www.fh-kufstein.ac.at/"
+},
+{
+"id": 44,
+"name": "Fachhochschule Vorarlberg",
+"country_code": "AT",
+"website": "http://www.fhv.at/"
+},
+{
+"id": 45,
+"name": "Fachhochschule für Bank- und Finanzwirtschaft",
+"country_code": "AT",
+"website": "http://www.fh-vie.ac.at/"
+},
+{
+"id": 46,
+"name": "Fachhochschulstudiengänge der Wiener Wirtschaft",
+"country_code": "AT",
+"website": "http://www.fhw.at/"
+},
+{
+"id": 49,
+"name": "Fachhochschulstudiengänge Krems IMC",
+"country_code": "AT",
+"website": "http://www.imc-krems.ac.at/"
+},
+{
+"id": 51,
+"name": "Institute of Science and Technology",
+"country_code": "AT",
+"website": "http://www.ist.ac.at/"
+},
+{
+"id": 67,
+"name": "Private Universität für Medizinische Informatik und Technik Tirol",
+"country_code": "AT",
+"website": "http://www.umit.at/"
+},
+{
+"id": 69,
+"name": "Montanuniversität Leoben",
+"country_code": "AT",
+"website": "http://www.unileoben.ac.at/"
+},
+{
+"id": 75,
+"name": "Academy of the Ministry of Internal Affairs of the Republic of Belarus",
+"country_code": "BY",
+"website": "https://www.amia.by/"
+},
+{
+"id": 76,
+"name": "Belarusian State Agricultural Academy",
+"country_code": "BY",
+"website": "https://baa.by/"
+},
+{
+"id": 77,
+"name": "Belarusian State Agrarian Technical University",
+"country_code": "BY",
+"website": "https://www.bsatu.by/"
+},
+{
+"id": 78,
+"name": "Belarusian State University of Transport",
+"country_code": "BY",
+"website": "https://www.bsut.by/"
+},
+{
+"id": 79,
+"name": "Belarusian State Academy of Music",
+"country_code": "BY",
+"website": "https://bgam.by/"
+},
+{
+"id": 80,
+"name": "Belarusian National Technical University",
+"country_code": "BY",
+"website": "https://bntu.by/"
+},
+{
+"id": 82,
+"name": "Belarusian-Russian University",
+"country_code": "BY",
+"website": "http://en.bru.by/"
+},
+{
+"id": 83,
+"name": "Belarusian State Economic University",
+"country_code": "BY",
+"website": "http://bseu.by/"
+},
+{
+"id": 84,
+"name": "Belarusian State Medical University",
+"country_code": "BY",
+"website": "https://bsmu.by/"
+},
+{
+"id": 85,
+"name": "Belarusian State Pedagogical University M. Tanka",
+"country_code": "BY",
+"website": "https://bspu.by/"
+},
+{
+"id": 87,
+"name": "Belarusian State Technological University",
+"country_code": "BY",
+"website": "https://belstu.by/"
+},
+{
+"id": 88,
+"name": "Belarusian State University",
+"country_code": "BY",
+"website": "https://bsu.by/"
+},
+{
+"id": 89,
+"name": "Belarusian State University of Informatics and Radioelectronics",
+"country_code": "BY",
+"website": "https://www.bsuir.by/"
+},
+{
+"id": 90,
+"name": "Belarusian State University of Culture and Arts",
+"country_code": "BY",
+"website": "https://www.buk.by/"
+},
+{
+"id": 95,
+"name": "International Sakharov Environmental University",
+"country_code": "BY",
+"website": "https://www.iseu.bsu.by/"
+},
+{
+"id": 96,
+"name": "Institute for Command Engineers of The Ministry for Emergency Situations",
+"country_code": "BY",
+"website": "https://ucp.by/"
+},
+{
+"id": 102,
+"name": "Academy of Public Administration of Belarus",
+"country_code": "BY",
+"website": "https://www.pac.by/"
+},
+{
+"id": 109,
+"name": "Brexgata University Academy",
+"country_code": "BE",
+"website": "http://www.brexgata.eu/"
+},
+{
+"id": 110,
+"name": "European Carolus Magnus University",
+"country_code": "BE",
+"website": "http://www.carolus-magnus-university.eu/"
+},
+{
+"id": 111,
+"name": "College of Europe",
+"country_code": "BE",
+"website": "http://www.coleurope.eu/"
+},
+{
+"id": 112,
+"name": "Continental Theological Seminary",
+"country_code": "BE",
+"website": "http://www.ctsem.edu/"
+},
+{
+"id": 113,
+"name": "ECAM - Institut Supérieur Industriel",
+"country_code": "BE",
+"website": "http://www.ecam.be/"
+},
+{
+"id": 117,
+"name": "European International University",
+"country_code": "BE",
+"website": "http://www.europeaniu.org/"
+},
+{
+"id": 121,
+"name": "Fondation Universitaire Luxembourgeoise",
+"country_code": "BE",
+"website": "http://www.ful.ac.be/"
+},
+{
+"id": 122,
+"name": "Facultés Universitaires Notre-Dame de la Paix",
+"country_code": "BE",
+"website": "http://www.fundp.ac.be/"
+},
+{
+"id": 123,
+"name": "Facultés Universitaires Saint-Louis",
+"country_code": "BE",
+"website": "http://www.fusl.ac.be/"
+},
+{
+"id": 125,
+"name": "Hogere Zeevaartschool - Maritime Academy",
+"country_code": "BE",
+"website": "http://www.hzs.be/"
+},
+{
+"id": 128,
+"name": "Katholieke Hogeschool Kempen",
+"country_code": "BE",
+"website": "http://www.khk.be/"
+},
+{
+"id": 130,
+"name": "Katholieke Hogeschool Limburg",
+"country_code": "BE",
+"website": "http://www.khlim.be/"
+},
+{
+"id": 134,
+"name": "Royal Military Academy",
+"country_code": "BE",
+"website": "http://www.rma.ac.be/"
+},
+{
+"id": 136,
+"name": "Thierry Graduate School of Leadership",
+"country_code": "BE",
+"website": "http://www.thierryschool.org/"
+},
+{
+"id": 139,
+"name": "United Business Institute",
+"country_code": "BE",
+"website": "http://www.ubi.edu/"
+},
+{
+"id": 145,
+"name": "Vesalius College",
+"country_code": "BE",
+"website": "http://www.vesalius.edu/"
+},
+{
+"id": 149,
+"name": "Hogeschool voor Wetenschap & Kunst",
+"country_code": "BE",
+"website": "http://www.wenk.be/"
+},
+{
+"id": 152,
+"name": "Thomas More Hogeschool",
+"country_code": "BE",
+"website": "https://www.thomasmore.be/"
+},
+{
+"id": 153,
+"name": "American University",
+"country_code": "BA",
+"website": "http://www.aubih.ba/"
+},
+{
+"id": 154,
+"name": "International Burch University",
+"country_code": "BA",
+"website": "http://www.ibu.edu.ba/"
+},
+{
+"id": 158,
+"name": "Slobomir P Univerzitet",
+"country_code": "BA",
+"website": "http://www.spu.ba/"
+},
+{
+"id": 162,
+"name": "Univerzitet u Mostaru \"Dzemal Bijedic\"",
+"country_code": "BA",
+"website": "http://www.unmo.ba/"
+},
+{
+"id": 164,
+"name": "University of East Srarajevo",
+"country_code": "BA",
+"website": "http://www.unssa.rs.ba/"
+},
+{
+"id": 173,
+"name": "City University Programs in Bulgaria",
+"country_code": "BG",
+"website": "http://www.cityu.bg/"
+},
+{
+"id": 182,
+"name": "National Academy of Arts",
+"country_code": "BG",
+"website": "http://www.nha-bg.org/"
+},
+{
+"id": 195,
+"name": "University of Food Technology",
+"country_code": "BG",
+"website": "http://www.uft-plovdiv.bg/"
+},
+{
+"id": 199,
+"name": "Academy of Economics \"Dimitur A. Tscenov\"",
+"country_code": "BG",
+"website": "http://www.uni-svishtov.bg/"
+},
+{
+"id": 204,
+"name": "International University College",
+"country_code": "BG",
+"website": "http://www.vumk.eu/"
+},
+{
+"id": 205,
+"name": "Zachodniopomorska School of Science and Engineering",
+"country_code": "PL",
+"website": "http://www.zut.edu.pl/"
+},
+{
+"id": 218,
+"name": "University North",
+"country_code": "HR",
+"website": "http://www.unin.hr/"
+},
+{
+"id": 219,
+"name": "Americanos College",
+"country_code": "CY",
+"website": "http://www.ac.ac.cy/"
+},
+{
+"id": 221,
+"name": "Cyprus International University",
+"country_code": "CY",
+"website": "http://www.ciu.edu.tr/"
+},
+{
+"id": 225,
+"name": "Eastern Mediterranean University",
+"country_code": "CY",
+"website": "http://www.emu.edu.tr/"
+},
+{
+"id": 230,
+"name": "European University of Lefke",
+"country_code": "CY",
+"website": "http://www.lefke.edu.tr/"
+},
+{
+"id": 231,
+"name": "Near East University",
+"country_code": "CY",
+"website": "http://www.neu.edu.tr/"
+},
+{
+"id": 232,
+"name": "Open University of Cyprus",
+"country_code": "CY",
+"website": "http://www.ouc.ac.cy/"
+},
+{
+"id": 233,
+"name": "University of Cyprus",
+"country_code": "CY",
+"website": "http://www.ucy.ac.cy/"
+},
+{
+"id": 235,
+"name": "Middle East Technical University Northern Cyprus Campus",
+"country_code": "CY",
+"website": "https://ncc.metu.edu.tr/"
+},
+{
+"id": 240,
+"name": "Academy of Performing Arts, Film and TV Fakulty",
+"country_code": "CZ",
+"website": "http://www.famu.cz/"
+},
+{
+"id": 241,
+"name": "University of South Bohemia",
+"country_code": "CZ",
+"website": "http://www.jcu.cz/"
+},
+{
+"id": 242,
+"name": "Mendel University of Agriculture and Forestry",
+"country_code": "CZ",
+"website": "https://www.mendelu.cz/"
+},
+{
+"id": 247,
+"name": "Silesian University",
+"country_code": "CZ",
+"website": "http://www.slu.cz/"
+},
+{
+"id": 249,
+"name": "University of Jan Evangelista Purkyne",
+"country_code": "CZ",
+"website": "http://www.ujep.cz/"
+},
+{
+"id": 258,
+"name": "Cevro Institut College",
+"country_code": "CZ",
+"website": "http://www.vsci.cz/"
+},
+{
+"id": 263,
+"name": "University of West Bohemia",
+"country_code": "CZ",
+"website": "http://www.zcu.cz/"
+},
+{
+"id": 272,
+"name": "Royal Danish School of Pharmacy",
+"country_code": "DK",
+"website": "http://www.dfh.dk/"
+},
+{
+"id": 274,
+"name": "Royal Danish School of Educational Sciences",
+"country_code": "DK",
+"website": "http://www.dlh.dk/"
+},
+{
+"id": 275,
+"name": "Danish University of Education",
+"country_code": "DK",
+"website": "http://www.dpu.dk/"
+},
+{
+"id": 276,
+"name": "Technical University of Denmark",
+"country_code": "DK",
+"website": "http://www.dtu.dk/"
+},
+{
+"id": 279,
+"name": "International Business School of Scandinavia",
+"country_code": "DK",
+"website": "http://www.ibss.eu/"
+},
+{
+"id": 282,
+"name": "International People's College",
+"country_code": "DK",
+"website": "http://www.ipc.dk/"
+},
+{
+"id": 285,
+"name": "Knightsbridge University",
+"country_code": "DK",
+"website": "http://www.knightsbridgeuniversity.com/"
+},
+{
+"id": 287,
+"name": "Royal Danish Academy of Fine Arts, School of Visual Art",
+"country_code": "DK",
+"website": "http://www.kunstakademiet.dk/"
+},
+{
+"id": 288,
+"name": "Royal Veterinary and Agricultural University",
+"country_code": "DK",
+"website": "http://www.kvl.dk/"
+},
+{
+"id": 292,
+"name": "University of Southern Denmark - SDU",
+"country_code": "DK",
+"website": "http://www.sdu.dk/"
+},
+{
+"id": 294,
+"name": "Tietgen Business College",
+"country_code": "DK",
+"website": "http://www.tietgen.dk/"
+},
+{
+"id": 295,
+"name": "VIA University College",
+"country_code": "DK",
+"website": "https://en.via.dk/"
+},
+{
+"id": 302,
+"name": "University of Applied Sciences",
+"country_code": "EE",
+"website": "http://www.tktk.ee/"
+},
+{
+"id": 307,
+"name": "Central Ostrobothnia University of Applied Sciences",
+"country_code": "FI",
+"website": "http://www.cou.fi/"
+},
+{
+"id": 309,
+"name": "EVTEK University of Applied Sciences",
+"country_code": "FI",
+"website": "http://www.evtek.fi/"
+},
+{
+"id": 323,
+"name": "Scandinavian Art and Business Institute",
+"country_code": "FI",
+"website": "http://www.sabi.eu.com/"
+},
+{
+"id": 324,
+"name": "Satakunta University Of Applied Scinces",
+"country_code": "FI",
+"website": "http://www.samk.fi/"
+},
+{
+"id": 325,
+"name": "South Carelian Polytechnic",
+"country_code": "FI",
+"website": "http://www.scp.fi/"
+},
+{
+"id": 326,
+"name": "Swedish School of Economics and Business Administration, Finland",
+"country_code": "FI",
+"website": "http://www.shh.fi/"
+},
+{
+"id": 340,
+"name": "42 FR",
+"country_code": "FR",
+"website": "http://www.42.fr/"
+},
+{
+"id": 341,
+"name": "Ecole de l'Air",
+"country_code": "FR",
+"website": "http://www.aea.asso.fr/"
+},
+{
+"id": 342,
+"name": "AgroParisTech",
+"country_code": "FR",
+"website": "http://www.agroparistech.fr/"
+},
+{
+"id": 349,
+"name": "Centre de Formation et de Perfectionnement des Journalistes",
+"country_code": "FR",
+"website": "http://www.cfpj.com/"
+},
+{
+"id": 351,
+"name": "Centre National d'Etudes Agronomiques des Régions Chaudes",
+"country_code": "FR",
+"website": "http://www.cnearc.fr/"
+},
+{
+"id": 356,
+"name": "Ecole Superieur d'Ingenieurs Leonard de Vinci",
+"country_code": "FR",
+"website": "http://www.devinci.fr/"
+},
+{
+"id": 357,
+"name": "Ecole d'Ingénieurs en Informatique pour l'Industrie",
+"country_code": "FR",
+"website": "http://www.e3i.univ-tours.fr/"
+},
+{
+"id": 358,
+"name": "Ecole Européen des Affaires",
+"country_code": "FR",
+"website": "http://www.eap.fr/"
+},
+{
+"id": 359,
+"name": "European Business School",
+"country_code": "FR",
+"website": "http://www.ebs-paris.com/"
+},
+{
+"id": 362,
+"name": "IMT Atlantique",
+"country_code": "FR",
+"website": "https://www.imt-atlantique.fr/"
+},
+{
+"id": 367,
+"name": "IDRAC (Institut de recherche en action commerciale)",
+"country_code": "FR",
+"website": "http://www.ecoles-idrac.com/"
+},
+{
+"id": 369,
+"name": "Ecole pour les Etudes et la Recherche en Informatique et Electronique",
+"country_code": "FR",
+"website": "http://www.eerie.fr/"
+},
+{
+"id": 370,
+"name": "Ecole Française de Papeterie et des Industries Graphiques",
+"country_code": "FR",
+"website": "http://www.efpg.inpg.fr/"
+},
+{
+"id": 371,
+"name": "Ecole Française d'Electronique et d'Informatique",
+"country_code": "FR",
+"website": "http://www.efrei.fr/"
+},
+{
+"id": 376,
+"name": "Ecole Nationale de l'Aviation Civile",
+"country_code": "FR",
+"website": "http://www.enac.fr/"
+},
+{
+"id": 377,
+"name": "Ecole Nationale d'Administration",
+"country_code": "FR",
+"website": "http://www.ena.fr/"
+},
+{
+"id": 385,
+"name": "Ecole Nationale de la Météorologie",
+"country_code": "FR",
+"website": "http://www.enm.meteo.fr/"
+},
+{
+"id": 387,
+"name": "Ecole Nationale Supérieur de Mécaniques et des Microtechniques",
+"country_code": "FR",
+"website": "http://www.ens2m.fr/"
+},
+{
+"id": 389,
+"name": "Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires",
+"country_code": "FR",
+"website": "http://www.ensaia.u-nancy.fr/"
+},
+{
+"id": 390,
+"name": "Ecole Nationale de la Statistique et de l'Analyse de l'information",
+"country_code": "FR",
+"website": "http://www.ensai.fr/"
+},
+{
+"id": 404,
+"name": "Ecole Nationale Supérieure Electricité et Mécanique",
+"country_code": "FR",
+"website": "http://www.ensem.u-nancy.fr/"
+},
+{
+"id": 410,
+"name": "Ecole Nationale Supérieur d'Ingénieurs de Constructions Aéronautique",
+"country_code": "FR",
+"website": "http://www.ensica.fr/"
+},
+{
+"id": 412,
+"name": "Ecole Nationale Supérieur des Ingénieur des Etudes et Techniques d'Armement",
+"country_code": "FR",
+"website": "http://www.ensieta.fr/"
+},
+{
+"id": 415,
+"name": "Ecole Nationale Supérieur de Mécanique et d'Aéronautique",
+"country_code": "FR",
+"website": "http://www.ensma.fr/"
+},
+{
+"id": 421,
+"name": "Ecole Nationale Supérieure des Telecommunications de Bretagne",
+"country_code": "FR",
+"website": "http://www.enst-bretagne.fr/"
+},
+{
+"id": 426,
+"name": "Ecole Supérieure d'Agriculture de Purpan",
+"country_code": "FR",
+"website": "http://www.esa-purpan.fr/"
+},
+{
+"id": 431,
+"name": "Ecole Supérieure de Commerce et Management",
+"country_code": "FR",
+"website": "http://www.escem.fr/"
+},
+{
+"id": 437,
+"name": "Ecole Supérieure de Commerce de Pau",
+"country_code": "FR",
+"website": "http://www.esc-pau.fr/"
+},
+{
+"id": 443,
+"name": "Ecole Supérieure Internationale d'Administration des Entreprises",
+"country_code": "FR",
+"website": "http://www.esiae.fr/"
+},
+{
+"id": 448,
+"name": "Ecole Supérieure d'Ingénieurs et de Techniciens pour l'Agriculture",
+"country_code": "FR",
+"website": "http://www.esitpa.org/"
+},
+{
+"id": 449,
+"name": "Ecole Spéciale de Mécanique et d'Electricité",
+"country_code": "FR",
+"website": "http://www.esme.fr/"
+},
+{
+"id": 452,
+"name": "Ecole Supérieure des Sciences Economiques et Commerciales",
+"country_code": "FR",
+"website": "http://www.essec.fr/"
+},
+{
+"id": 459,
+"name": "École des Hautes Études Commerciales (HEC Business School)",
+"country_code": "FR",
+"website": "http://www.hec.fr/"
+},
+{
+"id": 466,
+"name": "Ecole Nationale Supérieure du Pétrole et des Monteurs",
+"country_code": "FR",
+"website": "http://www.ifp.fr/"
+},
+{
+"id": 468,
+"name": "Institut National Polytechnique de Lorraine",
+"country_code": "FR",
+"website": "http://www.inpl-nancy.fr/"
+},
+{
+"id": 473,
+"name": "Institut des hautes études économiques et commerciales",
+"country_code": "FR",
+"website": "http://www.inseec.fr/"
+},
+{
+"id": 474,
+"name": "Institut National des Télécommunications",
+"country_code": "FR",
+"website": "http://www.int-evry.fr/"
+},
+{
+"id": 475,
+"name": "Ecole Supérieure d'Optique",
+"country_code": "FR",
+"website": "https://www.iso.fr/"
+},
+{
+"id": 476,
+"name": "Institut de Recherche et Coordination Acoustique/Musique",
+"country_code": "FR",
+"website": "http://www.ircam.fr/"
+},
+{
+"id": 477,
+"name": "Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique",
+"country_code": "FR",
+"website": "http://www.ireste.fr/"
+},
+{
+"id": 481,
+"name": "Institut Supérieure d'Electronique du Nord",
+"country_code": "FR",
+"website": "http://www.isen.fr/"
+},
+{
+"id": 485,
+"name": "Institut des Sciences de la Matière et du Rayonnement",
+"country_code": "FR",
+"website": "http://www.ismra.fr/"
+},
+{
+"id": 501,
+"name": "Ecole Superieure Robert de Sorbon",
+"country_code": "FR",
+"website": "http://www.sorbon.fr/"
+},
+{
+"id": 502,
+"name": "Ecole Nationale Supérieure de l'Aéronautique et de l'Espace",
+"country_code": "FR",
+"website": "http://www.supaero.fr/"
+},
+{
+"id": 511,
+"name": "Université Catholique de l' Ouest",
+"country_code": "FR",
+"website": "http://www.uco.fr/"
+},
+{
+"id": 522,
+"name": "Université de Bretagne Occidentale",
+"country_code": "FR",
+"website": "http://www.univ-brest.fr/"
+},
+{
+"id": 524,
+"name": "Université de Corse Pascal Paoli",
+"country_code": "FR",
+"website": "http://www.univ-corse.fr/"
+},
+{
+"id": 527,
+"name": "Université du Maine",
+"country_code": "FR",
+"website": "http://www.univ-lemans.fr/"
+},
+{
+"id": 531,
+"name": "Université du Littoral Cote d'Opale",
+"country_code": "FR",
+"website": "http://www.univ-littoral.fr/"
+},
+{
+"id": 542,
+"name": "Université de Haute-Alsace",
+"country_code": "FR",
+"website": "http://www.univ-mulhouse.fr/"
+},
+{
+"id": 558,
+"name": "Université de Savoie",
+"country_code": "FR",
+"website": "http://www.univ-savoie.fr/"
+},
+{
+"id": 566,
+"name": "Université de Bretagne Sud",
+"country_code": "FR",
+"website": "http://www.univ-ubs.fr/"
+},
+{
+"id": 570,
+"name": "Université de Picardie Jules-Verne",
+"country_code": "FR",
+"website": "http://www.u-picardie.fr/"
+},
+{
+"id": 580,
+"name": "Ecole Nationale Vétérinaire d'Alfort",
+"country_code": "FR",
+"website": "http://www.vet-alfort.fr/"
+},
+{
+"id": 591,
+"name": "Ecole pour l'Informatique et les nouvelles Technologies",
+"country_code": "FR",
+"website": "http://www.epitech.eu/"
+},
+{
+"id": 594,
+"name": "Ecole des technologies numeriques appliquees",
+"country_code": "FR",
+"website": "http://www.etna.io/"
+},
+{
+"id": 596,
+"name": "IU Internationale Hochschule GmbH",
+"country_code": "DE",
+"website": "https://www.iu-fernstudium.de/"
+},
+{
+"id": 599,
+"name": "Augustana Hochschule Neuendettelsau",
+"country_code": "DE",
+"website": "http://www.augustana.de/"
+},
+{
+"id": 600,
+"name": "Kirchliche Hochschule Bethel",
+"country_code": "DE",
+"website": "http://www.bethel.de/"
+},
+{
+"id": 601,
+"name": "BiTS - Business and Information Technology School gGmbH",
+"country_code": "DE",
+"website": "http://www.bits-iserlohn.de/"
+},
+{
+"id": 605,
+"name": "DIPLOMA-Fachhochschule Ölsnitz/Vogtland",
+"country_code": "DE",
+"website": "http://www.diploma.de/"
+},
+{
+"id": 608,
+"name": "Europäische Betriebswirtschafts-Akademie",
+"country_code": "DE",
+"website": "http://www.eba-muenchen.de/"
+},
+{
+"id": 609,
+"name": "European Business School Schloß Reichartshausen",
+"country_code": "DE",
+"website": "http://www.ebs.de/"
+},
+{
+"id": 610,
+"name": "European College of Liberal Arts",
+"country_code": "DE",
+"website": "http://www.ecla.de/"
+},
+{
+"id": 611,
+"name": "Evangelische Fachhochschule Rheinland-Westfalen-Lippe",
+"country_code": "DE",
+"website": "http://www.efh-bochum.de/"
+},
+{
+"id": 618,
+"name": "European Management School",
+"country_code": "DE",
+"website": "http://www.ems-mainz.de/"
+},
+{
+"id": 619,
+"name": "Europäische Fachhochschule",
+"country_code": "DE",
+"website": "http://www.eufh.de/"
+},
+{
+"id": 639,
+"name": "Fachhochschule für die Wirtschaft",
+"country_code": "DE",
+"website": "http://www.fhdw.bib.de/"
+},
+{
+"id": 640,
+"name": "Fachhochschule der Wirtschaft",
+"country_code": "DE",
+"website": "http://www.fhdw.de/"
+},
+{
+"id": 645,
+"name": "Europa Fachhochschule Fresenius",
+"country_code": "DE",
+"website": "http://www.fh-fresenius.de/"
+},
+{
+"id": 646,
+"name": "Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft",
+"country_code": "DE",
+"website": "http://www.fh-furtwangen.de/"
+},
+{
+"id": 655,
+"name": "Fachhochschule Hof",
+"country_code": "DE",
+"website": "http://www.fh-hof.de/"
+},
+{
+"id": 657,
+"name": "Fachhochschule und Berufskollegs NTA, Prof.Dr. Grübler gemein. GmbH",
+"country_code": "DE",
+"website": "http://www.fh-isny.de/"
+},
+{
+"id": 666,
+"name": "Staatlich anerkannte Fachhochschule für Kunsttherapie",
+"country_code": "DE",
+"website": "http://www.fhkt.de/"
+},
+{
+"id": 668,
+"name": "Fachhochschule Lausitz",
+"country_code": "DE",
+"website": "http://www.fh-lausitz.de/"
+},
+{
+"id": 669,
+"name": "Fachhochschule Lippe",
+"country_code": "DE",
+"website": "http://www.fh-lippe.de/"
+},
+{
+"id": 675,
+"name": "Fachhochschule des Mittelstandes (FHM)",
+"country_code": "DE",
+"website": "http://www.fhm-mittelstand.de/"
+},
+{
+"id": 681,
+"name": "Fachhochschule Niederrhein",
+"country_code": "DE",
+"website": "http://www.fh-niederrhein.de/"
+},
+{
+"id": 682,
+"name": "Fachhochschule Nordostniedersachsen",
+"country_code": "DE",
+"website": "http://www.fhnon.de/"
+},
+{
+"id": 690,
+"name": "Freie Kunst-Studienstätte Ottersberg",
+"country_code": "DE",
+"website": "http://www.fh-ottersberg.de/"
+},
+{
+"id": 695,
+"name": "Deutsch-Ordens Fachhochschule Riedlingen, Hochschule für Wirtschaft",
+"country_code": "DE",
+"website": "http://www.fh-riedlingen.de/"
+},
+{
+"id": 701,
+"name": "Evangelische Fachhochschule für Religionspädagogik, und Gemeindediakonie Moritzburg",
+"country_code": "DE",
+"website": "http://www.fhs-moritzburg.de/"
+},
+{
+"id": 707,
+"name": "Hochschule Ulm, Hochschule für Angewandte Wissenschaft",
+"country_code": "DE",
+"website": "http://www.hs-ulm.de/"
+},
+{
+"id": 711,
+"name": "Fachhochschule Weihenstephan",
+"country_code": "DE",
+"website": "http://www.fh-weihenstephan.de/"
+},
+{
+"id": 713,
+"name": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+"country_code": "DE",
+"website": "http://www.fh-westkueste.de/"
+},
+{
+"id": 715,
+"name": "Ostfalia Hochschule für angewandte Wissenschaften",
+"country_code": "DE",
+"website": "https://www.ostfalia.de/"
+},
+{
+"id": 720,
+"name": "Fachhochschule für Oekonomie und Management (FOM)",
+"country_code": "DE",
+"website": "http://www.fom.de/"
+},
+{
+"id": 722,
+"name": "Private Hanseuniversität",
+"country_code": "DE",
+"website": "http://www.hanseuni.de/"
+},
+{
+"id": 726,
+"name": "Hochschule für Bankwirtschaft (HfB), Private Fachhochschule der Bankakademie",
+"country_code": "DE",
+"website": "http://www.hfb.de/"
+},
+{
+"id": 729,
+"name": "Hochschule für Politik (HFP)",
+"country_code": "DE",
+"website": "http://www.hfp.mhn.de/"
+},
+{
+"id": 731,
+"name": "Hochschule für Internationales Management",
+"country_code": "DE",
+"website": "http://www.himh.de/"
+},
+{
+"id": 734,
+"name": "Hochschule Anhalt (FH), Hochschule für angewandte Wissenschaften",
+"country_code": "DE",
+"website": "http://www.hs-anhalt.de/"
+},
+{
+"id": 741,
+"name": "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",
+"country_code": "DE",
+"website": "http://www.hs-harz.de/"
+},
+{
+"id": 748,
+"name": "Hochschule für Technik und Wirtschaft des Saarlandes",
+"country_code": "DE",
+"website": "http://www.htw-saarland.de/"
+},
+{
+"id": 750,
+"name": "HWP - Hamburger Universität für Wirtschaft und Politik",
+"country_code": "DE",
+"website": "http://www.hwp-hamburg.de/"
+},
+{
+"id": 755,
+"name": "International University in Germany",
+"country_code": "DE",
+"website": "http://www.i-u.de/"
+},
+{
+"id": 758,
+"name": "Katholische Fachhochschule Norddeutschland",
+"country_code": "DE",
+"website": "http://www.kath-fh-nord.de/"
+},
+{
+"id": 762,
+"name": "Katholische Fachhochschule Nordrhein-Westfalen",
+"country_code": "DE",
+"website": "http://www.kfhnw.de/"
+},
+{
+"id": 766,
+"name": "Katholische Universität Eichstätt",
+"country_code": "DE",
+"website": "http://www.ku-eichstaett.de/"
+},
+{
+"id": 772,
+"name": "Staatliche Hochschule für Musik",
+"country_code": "DE",
+"website": "http://www.mh-trossingen.de/"
+},
+{
+"id": 774,
+"name": "Muthesius-Hochschule, Fachhochschule für Kunst und Gestaltung",
+"country_code": "DE",
+"website": "http://www.muthesius.de/"
+},
+{
+"id": 775,
+"name": "Nordakademie, Staatlich anerkannte private Fachhochschule mit dualen Studiengängen",
+"country_code": "DE",
+"website": "http://www.nordakademie.de/"
+},
+{
+"id": 788,
+"name": "Philosophisch-Theologische Hochschule der Salesianer Don Boscos",
+"country_code": "DE",
+"website": "http://www.pth-bb.de/"
+},
+{
+"id": 790,
+"name": "Philosophisch-Theologische Hochschule Vallendar der Gesellschaft des Katholischen Apostolates (Pallottiner)",
+"country_code": "DE",
+"website": "http://www.pthv.de/"
+},
+{
+"id": 796,
+"name": "Gustav-Siewerth-Akademie",
+"country_code": "DE",
+"website": "http://www.siewerth-akademie.de/"
+},
+{
+"id": 798,
+"name": "SRH University of Applied Sciences",
+"country_code": "DE",
+"website": "http://www.srh-berlin.de/"
+},
+{
+"id": 799,
+"name": "Philosophisch-Theologische Hochschule Sankt Georgen",
+"country_code": "DE",
+"website": "http://www.st-georgen.uni-frankfurt.de/"
+},
+{
+"id": 803,
+"name": "Technische Fachhochschule Wildau",
+"country_code": "DE",
+"website": "http://www.tfh-wildau.de/"
+},
+{
+"id": 804,
+"name": "Theologische Hochschule Friedensau",
+"country_code": "DE",
+"website": "http://www.thh-friedensau.de/"
+},
+{
+"id": 809,
+"name": "Technische Universität Clausthal",
+"country_code": "DE",
+"website": "http://www.tu-clausthal.de/"
+},
+{
+"id": 843,
+"name": "Karlsruher Institut für Technologie",
+"country_code": "DE",
+"website": "http://www.kit.edu/"
+},
+{
+"id": 865,
+"name": "Universität des Saarlandes",
+"country_code": "DE",
+"website": "http://www.uni-saarland.de/"
+},
+{
+"id": 876,
+"name": "WHU – Otto Beisheim School of Management",
+"country_code": "DE",
+"website": "https://www.whu.edu/"
+},
+{
+"id": 877,
+"name": "American College of Greece",
+"country_code": "GR",
+"website": "https://www.acg.edu/"
+},
+{
+"id": 879,
+"name": "Aegean University",
+"country_code": "GR",
+"website": "https://www.aegean.gr/"
+},
+{
+"id": 888,
+"name": "DEI Bachelor & Master Degrees",
+"country_code": "GR",
+"website": "https://www.dei.edu.gr/"
+},
+{
+"id": 889,
+"name": "Dimocritus University of Thrace",
+"country_code": "GR",
+"website": "https://www.duth.gr/"
+},
+{
+"id": 895,
+"name": "Hellenic Army Academy",
+"country_code": "GR",
+"website": "https://sse.army.gr/"
+},
+{
+"id": 902,
+"name": "University of Crete",
+"country_code": "GR",
+"website": "https://www.uoc.gr/"
+},
+{
+"id": 912,
+"name": "Avicenna International College",
+"country_code": "HU",
+"website": "http://www.avicenna.hu/"
+},
+{
+"id": 913,
+"name": "Dániel Berzsenyi Teacher Training College",
+"country_code": "HU",
+"website": "http://www.bdtf.hu/"
+},
+{
+"id": 923,
+"name": "Academy of Drama and Film",
+"country_code": "HU",
+"website": "http://www.filmacademy.hu/"
+},
+{
+"id": 925,
+"name": "Hungarian University of Physical Education",
+"country_code": "HU",
+"website": "http://www.hupe.hu/"
+},
+{
+"id": 926,
+"name": "Janus Pannonius University",
+"country_code": "HU",
+"website": "http://www.jpte.hu/"
+},
+{
+"id": 927,
+"name": "University of Horticulture and Food Industry",
+"country_code": "HU",
+"website": "http://www.kee.hu/"
+},
+{
+"id": 928,
+"name": "Károl Gáspár University of the Reformed Church",
+"country_code": "HU",
+"website": "http://www.kgre.hu/"
+},
+{
+"id": 931,
+"name": "Kossuth Lajos University",
+"country_code": "HU",
+"website": "http://www.lib.klte.hu/"
+},
+{
+"id": 932,
+"name": "Hungarian Academy of Craft and Design",
+"country_code": "HU",
+"website": "http://www.mif.hu/"
+},
+{
+"id": 933,
+"name": "University of West Hungary",
+"country_code": "HU",
+"website": "http://www.nyme.hu/"
+},
+{
+"id": 937,
+"name": "Semmelweis University of Medical Sciences",
+"country_code": "HU",
+"website": "http://www.sote.hu/"
+},
+{
+"id": 938,
+"name": "Séchenyi István University",
+"country_code": "HU",
+"website": "http://www.sze.hu/"
+},
+{
+"id": 944,
+"name": "University of Veterinary Science",
+"country_code": "HU",
+"website": "http://www.univet.hu/"
+},
+{
+"id": 946,
+"name": "Bifrost School of Business",
+"country_code": "IS",
+"website": "http://www.bifrost.is/"
+},
+{
+"id": 948,
+"name": "Holar University College",
+"country_code": "IS",
+"website": "http://www.holar.is/"
+},
+{
+"id": 949,
+"name": "University Centre of the Westfjords",
+"country_code": "IS",
+"website": "http://www.hsvest.is/"
+},
+{
+"id": 950,
+"name": "Hvanneyri Agricultural University",
+"country_code": "IS",
+"website": "http://www.hvanneyri.is/"
+},
+{
+"id": 951,
+"name": "Technological University of Iceland",
+"country_code": "IS",
+"website": "http://www.iti.is/"
+},
+{
+"id": 952,
+"name": "Iceland University of Education",
+"country_code": "IS",
+"website": "http://www.khi.is/"
+},
+{
+"id": 961,
+"name": "Griffith College",
+"country_code": "IE",
+"website": "http://www.gcd.ie/"
+},
+{
+"id": 963,
+"name": "Irish International University (Distance Education)",
+"country_code": "IE",
+"website": "http://www.iiuedu.ie/"
+},
+{
+"id": 966,
+"name": "LSB College",
+"country_code": "IE",
+"website": "http://www.lsb.ie/"
+},
+{
+"id": 967,
+"name": "National University of Ireland, Maynooth",
+"country_code": "IE",
+"website": "http://www.may.ie/"
+},
+{
+"id": 968,
+"name": "National College of Ireland",
+"country_code": "IE",
+"website": "http://www.ncirl.ie/"
+},
+{
+"id": 969,
+"name": "National University of Ireland",
+"country_code": "IE",
+"website": "http://www.nui.ie/"
+},
+{
+"id": 970,
+"name": "Royal College of Physicians of Ireland",
+"country_code": "IE",
+"website": "http://www.rcpi.ie/"
+},
+{
+"id": 971,
+"name": "Royal College of Surgeons",
+"country_code": "IE",
+"website": "http://www.rcsi.ie/"
+},
+{
+"id": 972,
+"name": "Shannon College of Hotel Management",
+"country_code": "IE",
+"website": "http://www.shannoncollege.com/"
+},
+{
+"id": 973,
+"name": "Technological University of the Shannon",
+"country_code": "IE",
+"website": "https://tus.ie/"
+},
+{
+"id": 980,
+"name": "Pontificia Università S. Tommaso",
+"country_code": "IT",
+"website": "http://www.angelicum.org/"
+},
+{
+"id": 981,
+"name": "Pontificio Ateneo Antonianum",
+"country_code": "IT",
+"website": "http://www.antonianum.ofm.org/"
+},
+{
+"id": 983,
+"name": "Abdus Salam international centre for theoretical physics",
+"country_code": "IT",
+"website": "http://www.ictp.trieste.it/"
+},
+{
+"id": 986,
+"name": "European University Institute",
+"country_code": "IT",
+"website": "http://www.iue.it/"
+},
+{
+"id": 987,
+"name": "University Institute of Modern Languages",
+"country_code": "IT",
+"website": "http://www.iulm.it/"
+},
+{
+"id": 988,
+"name": "Dutch University Institute for Art History (DUIA)",
+"country_code": "IT",
+"website": "http://www.iuoart.org/"
+},
+{
+"id": 989,
+"name": "University Institute of Oriental Studies",
+"country_code": "IT",
+"website": "http://www.iuo.it/"
+},
+{
+"id": 990,
+"name": "Istituto Universitario di Studi Superiori",
+"country_code": "IT",
+"website": "http://www.iusspavia.it/"
+},
+{
+"id": 992,
+"name": "John Cabot University",
+"country_code": "IT",
+"website": "http://www.johncabot.edu/"
+},
+{
+"id": 993,
+"name": "Free University Institute \"Carlo Cattaneo\"",
+"country_code": "IT",
+"website": "http://www.liuc.it/"
+},
+{
+"id": 994,
+"name": "Free University \"Maria Santissima Assunta\"",
+"country_code": "IT",
+"website": "http://www.lumsa.it/"
+},
+{
+"id": 997,
+"name": "Pontificio Istituto Orientale",
+"country_code": "IT",
+"website": "http://www.pio.urbe.it/"
+},
+{
+"id": 1001,
+"name": "Pontificia Università Lateranense",
+"country_code": "IT",
+"website": "http://www.pul.it/"
+},
+{
+"id": 1002,
+"name": "Pontificia Università della Santa Croce",
+"country_code": "IT",
+"website": "http://www.pusc.it/"
+},
+{
+"id": 1003,
+"name": "Fondazione Sacro Cuore",
+"country_code": "IT",
+"website": "http://www.sacrocuore.org/"
+},
+{
+"id": 1016,
+"name": "University of Calabria",
+"country_code": "IT",
+"website": "http://www.unical.it/"
+},
+{
+"id": 1017,
+"name": "University of Camerino",
+"country_code": "IT",
+"website": "http://www.unicam.it/"
+},
+{
+"id": 1020,
+"name": "Catholic University of the Sacred Heart",
+"country_code": "IT",
+"website": "http://www.unicatt.it/"
+},
+{
+"id": 1023,
+"name": "Università eCampus",
+"country_code": "IT",
+"website": "http://www.uniecampus.it/"
+},
+{
+"id": 1024,
+"name": "European School of Economics",
+"country_code": "IT",
+"website": "http://www.uniese.it/"
+},
+{
+"id": 1029,
+"name": "Pontifica Università Gregoriana",
+"country_code": "IT",
+"website": "http://www.unigre.it/"
+},
+{
+"id": 1039,
+"name": "University Institute of Naval Studies",
+"country_code": "IT",
+"website": "http://www.uninav.it/"
+},
+{
+"id": 1052,
+"name": "Università Pontificia Salesiana",
+"country_code": "IT",
+"website": "http://www.unisal.it/"
+},
+{
+"id": 1054,
+"name": "University of Gastronomic Sciences",
+"country_code": "IT",
+"website": "http://www.unisg.it/"
+},
+{
+"id": 1065,
+"name": "University of Urbino",
+"country_code": "IT",
+"website": "http://www.uniurb.it/"
+},
+{
+"id": 1071,
+"name": "Team Lingue International House",
+"country_code": "IT",
+"website": "https://ihteamlingue.it/"
+},
+{
+"id": 1073,
+"name": "ILIRIA College",
+"country_code": "XK",
+"website": "http://www.uiliria.org/"
+},
+{
+"id": 1077,
+"name": "Medical Academy of Latvia",
+"country_code": "LV",
+"website": "http://www.aml.lv/"
+},
+{
+"id": 1085,
+"name": "Latvian Academy of Arts",
+"country_code": "LV",
+"website": "http://www.lma.lv/"
+},
+{
+"id": 1087,
+"name": "Latvian Academy of Sports Education",
+"country_code": "LV",
+"website": "http://lspa.lanet.lv/"
+},
+{
+"id": 1089,
+"name": "National Defence Academy of Latvia",
+"country_code": "LV",
+"website": "http://www.mil.lv/"
+},
+{
+"id": 1090,
+"name": "Police Academy of Latvia",
+"country_code": "LV",
+"website": "http://www.polak.edu.lv/"
+},
+{
+"id": 1091,
+"name": "Higher School of Psychology",
+"country_code": "LV",
+"website": "http://www.psy.lv/"
+},
+{
+"id": 1100,
+"name": "Internationle Akademie für Philosophie",
+"country_code": "LI",
+"website": "http://www.iap.li/"
+},
+{
+"id": 1103,
+"name": "International School of Management",
+"country_code": "LT",
+"website": "http://www.ism.lt/"
+},
+{
+"id": 1106,
+"name": "Lithuania Christian College",
+"country_code": "LT",
+"website": "http://www.lcc.lt/"
+},
+{
+"id": 1107,
+"name": "Military academy of Lithuania",
+"country_code": "LT",
+"website": "http://www.lka.lt/"
+},
+{
+"id": 1108,
+"name": "Lithunian Institute of Physical Education",
+"country_code": "LT",
+"website": "http://www.lkka.lt/"
+},
+{
+"id": 1110,
+"name": "Lithunian Veterinary Academy",
+"country_code": "LT",
+"website": "http://www.lva.lt/"
+},
+{
+"id": 1111,
+"name": "Lithunian University of Agriculture",
+"country_code": "LT",
+"website": "http://www.lzua.lt/"
+},
+{
+"id": 1113,
+"name": "Mykolo Romerio university",
+"country_code": "LT",
+"website": "http://www.mruni.eu/"
+},
+{
+"id": 1121,
+"name": "FON University",
+"country_code": "MK",
+"website": "http://www.fon.edu.mk/"
+},
+{
+"id": 1123,
+"name": "Macedonian Academy of Sciences and Arts",
+"country_code": "MK",
+"website": "http://manu.edu.mk/"
+},
+{
+"id": 1124,
+"name": "University Goce Delcev",
+"country_code": "MK",
+"website": "http://www.ugd.edu.mk/"
+},
+{
+"id": 1127,
+"name": "St.Kliment Ohridski University",
+"country_code": "MK",
+"website": "http://www.uklo.edu.mk/"
+},
+{
+"id": 1129,
+"name": "European Institute of Education",
+"country_code": "MT",
+"website": "http://www.eieonline.com/"
+},
+{
+"id": 1130,
+"name": "International Tourism Institute",
+"country_code": "MT",
+"website": "http://www.itismalta.com/"
+},
+{
+"id": 1131,
+"name": "Malta College of Arts, Science and Technology",
+"country_code": "MT",
+"website": "http://www.mcast.edu.mt/"
+},
+{
+"id": 1132,
+"name": "University of Malta",
+"country_code": "MT",
+"website": "http://www.um.edu.mt/"
+},
+{
+"id": 1133,
+"name": "University of Montenegro",
+"country_code": "ME",
+"website": "http://www.ucg.cg.ac.yu/"
+},
+{
+"id": 1134,
+"name": "University of Sint Eustatius School of Medicine",
+"country_code": "NL",
+"website": "http://www.eustatiusmed.edu/"
+},
+{
+"id": 1135,
+"name": "International University School of Medicine (IUSOM)",
+"country_code": "NL",
+"website": "http://www.internationaluniversity-schoolofmedicine.org/"
+},
+{
+"id": 1136,
+"name": "St.James's School of Medicine, Bonaire",
+"country_code": "NL",
+"website": "http://www.sjsm.org/"
+},
+{
+"id": 1137,
+"name": "University of the Netherlands Antilles, Curacao",
+"country_code": "NL",
+"website": "http://www.una.an/"
+},
+{
+"id": 1138,
+"name": "Dutch Delta University",
+"country_code": "NL",
+"website": "http://www.ddu.nl/"
+},
+{
+"id": 1139,
+"name": "De Haagse Hogeschool",
+"country_code": "NL",
+"website": "http://www.dehaagsehogeschool.nl/"
+},
+{
+"id": 1142,
+"name": "European Open University",
+"country_code": "NL",
+"website": "http://www.europeanopenuniversity.com/"
+},
+{
+"id": 1144,
+"name": "Foundation University",
+"country_code": "NL",
+"website": "http://www.foundationuniversity.com/"
+},
+{
+"id": 1152,
+"name": "Hogeschool Inholland",
+"country_code": "NL",
+"website": "http://www.inholland.nl/"
+},
+{
+"id": 1154,
+"name": "Institute of Social Studies",
+"country_code": "NL",
+"website": "http://www.iss.nl/"
+},
+{
+"id": 1155,
+"name": "International Institute for Geo - Information Science and Earth Observation",
+"country_code": "NL",
+"website": "http://www.itc.nl/"
+},
+{
+"id": 1158,
+"name": "Nyenrode Business University",
+"country_code": "NL",
+"website": "http://www.nyenrode.nl/"
+},
+{
+"id": 1160,
+"name": "Roosevelt Academy University College",
+"country_code": "NL",
+"website": "http://www.roac.nl/"
+},
+{
+"id": 1162,
+"name": "Radboud University",
+"country_code": "NL",
+"website": "http://www.ru.nl/"
+},
+{
+"id": 1163,
+"name": "Saxion Universities",
+"country_code": "NL",
+"website": "http://saxion.edu/"
+},
+{
+"id": 1168,
+"name": "UNESCO-IHE Institute for Water Education",
+"country_code": "NL",
+"website": "http://www.unesco-ihe.org/"
+},
+{
+"id": 1173,
+"name": "University for Humanistics (UH)",
+"country_code": "NL",
+"website": "http://www.uvh.nl/"
+},
+{
+"id": 1176,
+"name": "Christelijke Hogeschool Windesheim",
+"country_code": "NL",
+"website": "http://www.windesheim.nl/"
+},
+{
+"id": 1177,
+"name": "Wittenborg University",
+"country_code": "NL",
+"website": "http://www.wittenborg.eu/"
+},
+{
+"id": 1180,
+"name": "Norwegian School of Management BI",
+"country_code": "NO",
+"website": "http://www.bi.no/"
+},
+{
+"id": 1184,
+"name": "Finnmark University College",
+"country_code": "NO",
+"website": "http://www.hifm.no/"
+},
+{
+"id": 1187,
+"name": "National College of Art and Design",
+"country_code": "NO",
+"website": "http://www.khio.no/"
+},
+{
+"id": 1188,
+"name": "Norwegian School of Economics and Business Administration",
+"country_code": "NO",
+"website": "http://www.nhh.no/"
+},
+{
+"id": 1190,
+"name": "Norway's Information Technology University College",
+"country_code": "NO",
+"website": "http://www.nith.no/"
+},
+{
+"id": 1191,
+"name": "Norwegian Teacher Academy for Studies in Religion and Education",
+"country_code": "NO",
+"website": "http://www.nla.no/"
+},
+{
+"id": 1192,
+"name": "Agricultural University of Norway",
+"country_code": "NO",
+"website": "http://www.nlh.no/"
+},
+{
+"id": 1200,
+"name": "Norwegian University of Life Sciences",
+"country_code": "NO",
+"website": "http://www.umb.no/"
+},
+{
+"id": 1207,
+"name": "AGH University of Science and Technology",
+"country_code": "PL",
+"website": "http://www.agh.edu.pl/"
+},
+{
+"id": 1225,
+"name": "Akademia Podlaska",
+"country_code": "PL",
+"website": "http://www.ap.siedlce.pl/"
+},
+{
+"id": 1242,
+"name": "University School of Physical Education",
+"country_code": "PL",
+"website": "http://www.awf.krakow.pl/"
+},
+{
+"id": 1246,
+"name": "Collegium Civitas",
+"country_code": "PL",
+"website": "http://www.collegium.edu.pl/"
+},
+{
+"id": 1250,
+"name": "Silesian School of Economics and Languages",
+"country_code": "PL",
+"website": "http://www.gallus.pl/"
+},
+{
+"id": 1252,
+"name": "French Institute of Management",
+"country_code": "PL",
+"website": "http://www.ifg.com.pl/"
+},
+{
+"id": 1255,
+"name": "Lazarski School of Commerce and Law",
+"country_code": "PL",
+"website": "http://www.lazarski.pl/"
+},
+{
+"id": 1257,
+"name": "Teacher Training College of Revalidation, Rehabilitation and Physical Education",
+"country_code": "PL",
+"website": "http://www.nkrriwf.pl/"
+},
+{
+"id": 1299,
+"name": "University of Silesia",
+"country_code": "PL",
+"website": "http://www.us.edu.pl/"
+},
+{
+"id": 1301,
+"name": "University of Technology and Life Sciences",
+"country_code": "PL",
+"website": "http://www.utp.edu.pl/"
+},
+{
+"id": 1327,
+"name": "University of Management and Marketing",
+"country_code": "PL",
+"website": "http://www.wszim.edu.pl/"
+},
+{
+"id": 1331,
+"name": "Instituto Superior de Informática e Gestão",
+"country_code": "PT",
+"website": "http://www.cocite.pt/"
+},
+{
+"id": 1332,
+"name": "Escola Nautica Infante D. Henrique",
+"country_code": "PT",
+"website": "http://www.enautica.pt/"
+},
+{
+"id": 1333,
+"name": "Escola Superior de Artes e Design",
+"country_code": "PT",
+"website": "http://www.esad.pt/"
+},
+{
+"id": 1335,
+"name": "European University Portugal",
+"country_code": "PT",
+"website": "http://www.europeanuniversity.pt/"
+},
+{
+"id": 1336,
+"name": "Instituto de Artes Visuais, Design e Marketing - IADE",
+"country_code": "PT",
+"website": "http://www.iade.pt/"
+},
+{
+"id": 1337,
+"name": "Instituto Superior Novas Profissões - INP",
+"country_code": "PT",
+"website": "http://www.inp.pt/"
+},
+{
+"id": 1341,
+"name": "Instituto Politécnico do Cávado e do Ave",
+"country_code": "PT",
+"website": "http://www.ipca.pt/"
+},
+{
+"id": 1345,
+"name": "Instituto Piaget",
+"country_code": "PT",
+"website": "http://www.ipiaget.org/"
+},
+{
+"id": 1354,
+"name": "Instituto Superior de Assistentes e Intérpretes",
+"country_code": "PT",
+"website": "http://www.isai.pt/"
+},
+{
+"id": 1355,
+"name": "Instituto Superior de Saúde do Alto Ave",
+"country_code": "PT",
+"website": "http://www.isave.edu.pt/"
+},
+{
+"id": 1356,
+"name": "Instituto Superior Bissaya Barreto",
+"country_code": "PT",
+"website": "http://www.isbb.pt/"
+},
+{
+"id": 1357,
+"name": "Instituto Superior de Ciências Empresariais e de Turismo",
+"country_code": "PT",
+"website": "http://www.iscet.pt/"
+},
+{
+"id": 1359,
+"name": "Instituto Superior de Gestão - ISG",
+"country_code": "PT",
+"website": "http://www.isg.pt/"
+},
+{
+"id": 1361,
+"name": "Instituto Superior de Paços de Brandão",
+"country_code": "PT",
+"website": "http://www.ispab.pt/"
+},
+{
+"id": 1362,
+"name": "Instituto Superior de Psicologia Aplicada",
+"country_code": "PT",
+"website": "http://www.ispa.pt/"
+},
+{
+"id": 1363,
+"name": "Instituto Superior Politécnico Gaya",
+"country_code": "PT",
+"website": "http://www.ispgaya.pt/"
+},
+{
+"id": 1364,
+"name": "Instituto Superior de Tecnologias Avançadas - ISTEC",
+"country_code": "PT",
+"website": "http://www.istec.pt/"
+},
+{
+"id": 1365,
+"name": "Instituto Superior de Transportes e Comunicações",
+"country_code": "PT",
+"website": "http://www.istp.pt/"
+},
+{
+"id": 1366,
+"name": "Instituto Superior de Entre Douro e Vouga",
+"country_code": "PT",
+"website": "http://www.isvouga.com/"
+},
+{
+"id": 1367,
+"name": "Instituto Superior de Ciências Educativas",
+"country_code": "PT",
+"website": "http://www.pedago.pt/"
+},
+{
+"id": 1368,
+"name": "Universidade dos Acores",
+"country_code": "PT",
+"website": "http://www.uac.pt/"
+},
+{
+"id": 1369,
+"name": "Universidade do Algarve",
+"country_code": "PT",
+"website": "http://www.ualg.pt/"
+},
+{
+"id": 1371,
+"name": "Universidade Atlântica",
+"country_code": "PT",
+"website": "http://www.uatla.pt/"
+},
+{
+"id": 1373,
+"name": "Universidade Catolica Portuguesa",
+"country_code": "PT",
+"website": "http://www.ucp.pt/"
+},
+{
+"id": 1379,
+"name": "Universidade Lusiada",
+"country_code": "PT",
+"website": "http://www.ulusiada.pt/"
+},
+{
+"id": 1380,
+"name": "Universidade Lusófona de Humanidades e Technologias",
+"country_code": "PT",
+"website": "http://www.ulusofona.pt/"
+},
+{
+"id": 1381,
+"name": "Universidade da Madeira",
+"country_code": "PT",
+"website": "http://www.uma.pt/"
+},
+{
+"id": 1382,
+"name": "Universidade do Minho",
+"country_code": "PT",
+"website": "http://www.uminho.pt/"
+},
+{
+"id": 1384,
+"name": "Universidade Independente",
+"country_code": "PT",
+"website": "http://www.uni.pt/"
+},
+{
+"id": 1392,
+"name": "Nova School of Business and Economics",
+"country_code": "PT",
+"website": "https://www.novasbe.unl.pt/"
+},
+{
+"id": 1393,
+"name": "AISTEDA",
+"country_code": "RO",
+"website": "http://www.aistedaab.ro/"
+},
+{
+"id": 1399,
+"name": "Emanuel University",
+"country_code": "RO",
+"website": "http://www.emanuel.ro/"
+},
+{
+"id": 1401,
+"name": "Academia Tehnica Militara",
+"country_code": "RO",
+"website": "http://www.mta.ro/"
+},
+{
+"id": 1406,
+"name": "Romanian-American University",
+"country_code": "RO",
+"website": "http://www.rau.ro/"
+},
+{
+"id": 1420,
+"name": "University of Galatzi",
+"country_code": "RO",
+"website": "http://www.ugal.ro/"
+},
+{
+"id": 1426,
+"name": "National University of Arts",
+"country_code": "RO",
+"website": "http://www.unarte.ro/"
+},
+{
+"id": 1427,
+"name": "National University of Theater and Film Arts",
+"country_code": "RO",
+"website": "http://www.unatc.ro/"
+},
+{
+"id": 1435,
+"name": "National University of Music",
+"country_code": "RO",
+"website": "http://www.unmb.ro/"
+},
+{
+"id": 1449,
+"name": "University \"Titu Maiorescu\"",
+"country_code": "RO",
+"website": "http://www.utm.ro/"
+},
+{
+"id": 1452,
+"name": "Universitatea de Vest \"Vasile Goldiş\"",
+"country_code": "RO",
+"website": "http://www.uvvg.ro/"
+},
+{
+"id": 1455,
+"name": "Adygeja State University",
+"country_code": "RU",
+"website": "http://www.adygnet.ru/"
+},
+{
+"id": 1458,
+"name": "Arhangelsk State Technical University",
+"country_code": "RU",
+"website": "http://www.agtu.ru/"
+},
+{
+"id": 1459,
+"name": "Academy of Management and Entrepreneurship",
+"country_code": "RU",
+"website": "http://www.ame.ru/"
+},
+{
+"id": 1460,
+"name": "Amur State University",
+"country_code": "RU",
+"website": "http://www.amursu.ru/"
+},
+{
+"id": 1461,
+"name": "Volga State Academy of Water Transport",
+"country_code": "RU",
+"website": "http://www.aqua.sci-nnov.ru/"
+},
+{
+"id": 1463,
+"name": "Altai State Medical University",
+"country_code": "RU",
+"website": "http://www.asmu.ru/"
+},
+{
+"id": 1466,
+"name": "Altai State Technical University",
+"country_code": "RU",
+"website": "http://www.astu.secna.ru/"
+},
+{
+"id": 1467,
+"name": "Altai State University",
+"country_code": "RU",
+"website": "http://www.asu.ru/"
+},
+{
+"id": 1469,
+"name": "Bashkir State University",
+"country_code": "RU",
+"website": "http://www.bashedu.ru/"
+},
+{
+"id": 1470,
+"name": "Shukshin Altai State University for Humanities and Pedagogy",
+"country_code": "RU",
+"website": "http://www.bigpi.biysk.ru/"
+},
+{
+"id": 1474,
+"name": "Bashkir State Pedagogical University named After M. Akmullah",
+"country_code": "RU",
+"website": "http://www.bspu.ru/"
+},
+{
+"id": 1476,
+"name": "Burjat State University",
+"country_code": "RU",
+"website": "http://www.bsu.burnet.ru/"
+},
+{
+"id": 1479,
+"name": "Chuvash State University",
+"country_code": "RU",
+"website": "http://www.chuvsu.ru/"
+},
+{
+"id": 1485,
+"name": "Dagestan State University",
+"country_code": "RU",
+"website": "http://www.dgu.ru/"
+},
+{
+"id": 1486,
+"name": "Don State Agrarian University",
+"country_code": "RU",
+"website": "http://www.dongau.ru/"
+},
+{
+"id": 1487,
+"name": "Don State Technical University",
+"country_code": "RU",
+"website": "http://www.dstu.edu.ru/"
+},
+{
+"id": 1488,
+"name": "Far East State Transport University",
+"country_code": "RU",
+"website": "http://www.dvgups.ru/"
+},
+{
+"id": 1489,
+"name": "Far Eastern State University",
+"country_code": "RU",
+"website": "http://www.dvgu.ru/"
+},
+{
+"id": 1494,
+"name": "East-Siberian State University of Technology",
+"country_code": "RU",
+"website": "http://www.esstu.ru/"
+},
+{
+"id": 1496,
+"name": "Finance Academy",
+"country_code": "RU",
+"website": "http://www.fa.ru/"
+},
+{
+"id": 1497,
+"name": "Far Eastern State Technical University",
+"country_code": "RU",
+"website": "http://www.festu.ru/"
+},
+{
+"id": 1500,
+"name": "Russian Academy of Theatre Arts",
+"country_code": "RU",
+"website": "http://www.gitis.net/"
+},
+{
+"id": 1501,
+"name": "State Maritine Academy",
+"country_code": "RU",
+"website": "http://www.gma.ru/"
+},
+{
+"id": 1502,
+"name": "Gnesins Russian Academy of Music",
+"country_code": "RU",
+"website": "http://www.gnesin-academy.ru/"
+},
+{
+"id": 1509,
+"name": "State University of Management",
+"country_code": "RU",
+"website": "http://www.guu.ru/"
+},
+{
+"id": 1510,
+"name": "Herzen State Pedagogical University of Russia",
+"country_code": "RU",
+"website": "http://www.herzen.spb.ru/"
+},
+{
+"id": 1511,
+"name": "Higher School of Economics",
+"country_code": "RU",
+"website": "http://www.hse.ru/"
+},
+{
+"id": 1513,
+"name": "Shemyakin–Ovchinnikov Institute of bioorganic chemistry RAS",
+"country_code": "RU",
+"website": "http://www.ibch.ru/"
+},
+{
+"id": 1515,
+"name": "Institute of Business and Politics",
+"country_code": "RU",
+"website": "http://www.ibp-moscow.ru/"
+},
+{
+"id": 1516,
+"name": "International East-European University",
+"country_code": "RU",
+"website": "http://www.ieeu.udm.ru/"
+},
+{
+"id": 1517,
+"name": "Institute for the Economy in Transition",
+"country_code": "RU",
+"website": "http://www.iet.ru/"
+},
+{
+"id": 1518,
+"name": "ITMO University",
+"country_code": "RU",
+"website": "http://www.ifmo.ru/"
+},
+{
+"id": 1519,
+"name": "Institute of Management and Economy",
+"country_code": "RU",
+"website": "http://www.ime.ru/"
+},
+{
+"id": 1520,
+"name": "State University of Aerospace Technologies",
+"country_code": "RU",
+"website": "http://www.intstudy.mai.ru/"
+},
+{
+"id": 1522,
+"name": "Baikal National University of Economics and Law",
+"country_code": "RU",
+"website": "http://www.isea.ru/"
+},
+{
+"id": 1535,
+"name": "Kalmyk State University",
+"country_code": "RU",
+"website": "http://www.kalmsu.ru/"
+},
+{
+"id": 1536,
+"name": "Kamchatka State University Vitus Bering",
+"country_code": "RU",
+"website": "http://www.kamgu.ru/"
+},
+{
+"id": 1537,
+"name": "Immanuel Kant State University of Russia",
+"country_code": "RU",
+"website": "http://www.kantiana.ru/"
+},
+{
+"id": 1540,
+"name": "Kabardino-Balkarian State University",
+"country_code": "RU",
+"website": "http://www.kbsu.ru/"
+},
+{
+"id": 1545,
+"name": "Far Easten State University of Humanities",
+"country_code": "RU",
+"website": "http://www.khspu.ru/"
+},
+{
+"id": 1547,
+"name": "Vaganova Academy of Russian Ballet",
+"country_code": "RU",
+"website": "https://vaganovaacademy.ru/"
+},
+{
+"id": 1555,
+"name": "Karelian State Pedagogical University",
+"country_code": "RU",
+"website": "http://kspu.ptz.ru/"
+},
+{
+"id": 1559,
+"name": "Kuban State University of Agriculture",
+"country_code": "RU",
+"website": "http://www.kubagro.ru/"
+},
+{
+"id": 1560,
+"name": "Kuban State University of Technology",
+"country_code": "RU",
+"website": "http://www.kubstu.ru/"
+},
+{
+"id": 1561,
+"name": "Kuban State University",
+"country_code": "RU",
+"website": "http://www.kubsu.ru/"
+},
+{
+"id": 1563,
+"name": "Kuzbass State Technical University",
+"country_code": "RU",
+"website": "http://www.kuzstu.ac.ru/"
+},
+{
+"id": 1566,
+"name": "Marij State University",
+"country_code": "RU",
+"website": "http://margu.mari.ru/"
+},
+{
+"id": 1567,
+"name": "Marij State Technical University",
+"country_code": "RU",
+"website": "http://www.marstu.mari.ru/"
+},
+{
+"id": 1575,
+"name": "Russian State Geological Prospecting University",
+"country_code": "RU",
+"website": "http://www.mgri-rggru.ru/"
+},
+{
+"id": 1578,
+"name": "National Research University of Electronic Technology",
+"country_code": "RU",
+"website": "http://www.miet.ru/"
+},
+{
+"id": 1581,
+"name": "Modern Institute of Managament",
+"country_code": "RU",
+"website": "http://miom.org/"
+},
+{
+"id": 1590,
+"name": "Mordovian State University",
+"country_code": "RU",
+"website": "http://www.mrsu.ru/"
+},
+{
+"id": 1601,
+"name": "Mendeleev Russian University of Chemical Technology",
+"country_code": "RU",
+"website": "http://www.muctr.edu.ru/"
+},
+{
+"id": 1602,
+"name": "Modern University for the Humanities",
+"country_code": "RU",
+"website": "http://www.muh.ru/"
+},
+{
+"id": 1603,
+"name": "Nayanova University",
+"country_code": "RU",
+"website": "http://www.nayanova.edu/"
+},
+{
+"id": 1605,
+"name": "Siberian State University of Telecommunications and Informatics",
+"country_code": "RU",
+"website": "http://www.neic.nsk.su/"
+},
+{
+"id": 1606,
+"name": "New Economic School",
+"country_code": "RU",
+"website": "http://www.nes.ru/"
+},
+{
+"id": 1608,
+"name": "Nevsky Institute of Language and Culture",
+"country_code": "RU",
+"website": "http://www.nilc.spb.ru/"
+},
+{
+"id": 1611,
+"name": "North Ossetian State University",
+"country_code": "RU",
+"website": "http://www.nosu.ru/"
+},
+{
+"id": 1614,
+"name": "Northern State Medical University",
+"country_code": "RU",
+"website": "http://www.nsmu.ru/"
+},
+{
+"id": 1617,
+"name": "North-West State Technical University",
+"country_code": "RU",
+"website": "http://www.nwpi.ru/"
+},
+{
+"id": 1623,
+"name": "Oriental University",
+"country_code": "RU",
+"website": "http://www.orun.ru/"
+},
+{
+"id": 1625,
+"name": "People' s Friendship University of Russia",
+"country_code": "RU",
+"website": "http://www.pfu.edu.ru/"
+},
+{
+"id": 1628,
+"name": "Pomor State University",
+"country_code": "RU",
+"website": "http://www.pomorsu.ru/"
+},
+{
+"id": 1634,
+"name": "Russian Academy of Arts",
+"country_code": "RU",
+"website": "http://www.rah.ru/"
+},
+{
+"id": 1635,
+"name": "Plekhanov Russian Academy of Economics",
+"country_code": "RU",
+"website": "http://www.rea.ru/"
+},
+{
+"id": 1637,
+"name": "Russian State Hydrometeorological University",
+"country_code": "RU",
+"website": "http://www.rshu.ru/"
+},
+{
+"id": 1639,
+"name": "Russian State Medical University",
+"country_code": "RU",
+"website": "http://www.rsmu.ru/"
+},
+{
+"id": 1640,
+"name": "Russian State University for the Humanities",
+"country_code": "RU",
+"website": "http://www.rsuh.ru/"
+},
+{
+"id": 1643,
+"name": "Ufa State Petroleum Technological University",
+"country_code": "RU",
+"website": "http://www.rusoil.net/"
+},
+{
+"id": 1644,
+"name": "Sakhalin State University",
+"country_code": "RU",
+"website": "http://www.sakhgu.sakhalin.ru/"
+},
+{
+"id": 1647,
+"name": "Siberian Academy of Public Services",
+"country_code": "RU",
+"website": "http://www.sapanet.ru/"
+},
+{
+"id": 1653,
+"name": "Siberian State Industrial University",
+"country_code": "RU",
+"website": "http://sibsiu.kemerovo.su/"
+},
+{
+"id": 1654,
+"name": "Smolny University",
+"country_code": "RU",
+"website": "http://www.smolny-un.spb.ru/"
+},
+{
+"id": 1656,
+"name": "Academic University",
+"country_code": "RU",
+"website": "http://www.spbau.ru/"
+},
+{
+"id": 1673,
+"name": "Siberian State Medical University",
+"country_code": "RU",
+"website": "http://www.ssmu.ru/"
+},
+{
+"id": 1682,
+"name": "Siberian State Transport University",
+"country_code": "RU",
+"website": "http://www.stu.ru/"
+},
+{
+"id": 1707,
+"name": "Southern Ural State University",
+"country_code": "RU",
+"website": "http://www.tu-chel.ac.ru/"
+},
+{
+"id": 1709,
+"name": "Tuva State University",
+"country_code": "RU",
+"website": "http://tuvsu.ru/"
+},
+{
+"id": 1710,
+"name": "Ural Academy of Public Administration",
+"country_code": "RU",
+"website": "http://www.uapa.ru/"
+},
+{
+"id": 1712,
+"name": "Ufa State Aviation Technical University",
+"country_code": "RU",
+"website": "http://www.ugatu.ac.ru/"
+},
+{
+"id": 1713,
+"name": "Yugra State University",
+"country_code": "RU",
+"website": "http://www.ugrasu.ru/"
+},
+{
+"id": 1721,
+"name": "Udmurt State University",
+"country_code": "RU",
+"website": "http://www.uni.udm.ru/"
+},
+{
+"id": 1728,
+"name": "Ural State Academy of Architecture and Arts",
+"country_code": "RU",
+"website": "http://www.usaaa.ru/"
+},
+{
+"id": 1729,
+"name": "Ural State Academy of Railway Transport",
+"country_code": "RU",
+"website": "http://www.usart.ru/"
+},
+{
+"id": 1730,
+"name": "Ural State Conservatory",
+"country_code": "RU",
+"website": "http://www.uscon.ru/"
+},
+{
+"id": 1731,
+"name": "Ural State Forestry Technical Academy",
+"country_code": "RU",
+"website": "http://www.usfea.ru/"
+},
+{
+"id": 1732,
+"name": "Ural State Academy of Law",
+"country_code": "RU",
+"website": "http://www.usla.ru/"
+},
+{
+"id": 1733,
+"name": "Ural State Academy of Mining and Geology",
+"country_code": "RU",
+"website": "http://www.usmga.ru/"
+},
+{
+"id": 1734,
+"name": "Ural Federal University",
+"country_code": "RU",
+"website": "https://urfu.ru/"
+},
+{
+"id": 1735,
+"name": "Ural State University of Economics",
+"country_code": "RU",
+"website": "http://www.usue.ru/"
+},
+{
+"id": 1744,
+"name": "Baltic State Technical University",
+"country_code": "RU",
+"website": "http://www.voenmeh.ru/"
+},
+{
+"id": 1748,
+"name": "East-Siberian State Institute of Culture",
+"country_code": "RU",
+"website": "http://www.vsgaki.burnet.ru/"
+},
+{
+"id": 1749,
+"name": "East-Siberian State University",
+"country_code": "RU",
+"website": "http://www.vsgtu.eastsib.ru/"
+},
+{
+"id": 1756,
+"name": "Vladivostock State University of Economics",
+"country_code": "RU",
+"website": "http://www.vvsu.ru/"
+},
+{
+"id": 1765,
+"name": "European University",
+"country_code": "RS",
+"website": "http://www.eu.ac.rs/"
+},
+{
+"id": 1767,
+"name": "Megatrend University of Applied Sciences",
+"country_code": "RS",
+"website": "http://www.megatrend-edu.net/"
+},
+{
+"id": 1768,
+"name": "Metropolitan University",
+"country_code": "RS",
+"website": "http://www.metropolitan.edu.rs/"
+},
+{
+"id": 1770,
+"name": "Drzavni Univerzitet u Novom Pazaru",
+"country_code": "RS",
+"website": "http://www.np.ac.rs/"
+},
+{
+"id": 1771,
+"name": "University of Priština",
+"country_code": "RS",
+"website": "http://www.pr.ac.rs/"
+},
+{
+"id": 1772,
+"name": "Privredna Akademija (Business Academy)",
+"country_code": "RS",
+"website": "http://www.privrednaakademija.edu.rs/"
+},
+{
+"id": 1784,
+"name": "Slovak Medical University",
+"country_code": "SK",
+"website": "http://www.szu.sk/"
+},
+{
+"id": 1785,
+"name": "Janos Selye University",
+"country_code": "SK",
+"website": "http://www.selyeuni.sk/"
+},
+{
+"id": 1799,
+"name": "University of Zilinska",
+"country_code": "SK",
+"website": "http://www.uniza.sk/"
+},
+{
+"id": 1802,
+"name": "School of Management",
+"country_code": "SK",
+"website": "http://www.vsm.sk/"
+},
+{
+"id": 1804,
+"name": "College in Sládkovičovo",
+"country_code": "SK",
+"website": "http://www.vssladkovicovo.sk/"
+},
+{
+"id": 1807,
+"name": "University of Nova Gorica",
+"country_code": "SI",
+"website": "http://www.ung.si/"
+},
+{
+"id": 1812,
+"name": "Bircham International University",
+"country_code": "ES",
+"website": "http://www.bircham.edu/"
+},
+{
+"id": 1815,
+"name": "Universidad del País Vasco",
+"country_code": "ES",
+"website": "http://www.ehu.es/"
+},
+{
+"id": 1816,
+"name": "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+"country_code": "ES",
+"website": "http://www.esic.es/"
+},
+{
+"id": 1819,
+"name": "International University of Southern Europe",
+"country_code": "ES",
+"website": "http://www.iuse.edu.es/"
+},
+{
+"id": 1820,
+"name": "La Salle Universities - International Programmes",
+"country_code": "ES",
+"website": "http://www.lasalleuniversities.net/"
+},
+{
+"id": 1822,
+"name": "La Salle - Universitat Ramon Llull",
+"country_code": "ES",
+"website": "http://www.salleurl.edu/"
+},
+{
+"id": 1836,
+"name": "Universidad Cardenal Herrera-CEU",
+"country_code": "ES",
+"website": "http://www.uchceu.es/"
+},
+{
+"id": 1848,
+"name": "Universidad Internacional de Andalucía",
+"country_code": "ES",
+"website": "http://www.uia.es/"
+},
+{
+"id": 1849,
+"name": "Universitat de les Illes Balears",
+"country_code": "ES",
+"website": "http://www.uib.es/"
+},
+{
+"id": 1850,
+"name": "Universitat Internacional de Catalunya",
+"country_code": "ES",
+"website": "http://www.uic.es/"
+},
+{
+"id": 1851,
+"name": "Universidad Internacional Menéndez Pelayo",
+"country_code": "ES",
+"website": "http://www.uimp.es/"
+},
+{
+"id": 1859,
+"name": "Universidad Pública de Navarra",
+"country_code": "ES",
+"website": "http://www.unavarra.es/"
+},
+{
+"id": 1861,
+"name": "Universidad Nacional de Educación a Distancia",
+"country_code": "ES",
+"website": "http://www.uned.es/"
+},
+{
+"id": 1864,
+"name": "Universidad Loyola Andalucía",
+"country_code": "ES",
+"website": "https://www.uloyola.es/"
+},
+{
+"id": 1865,
+"name": "Universidad Abierta Interactiva",
+"country_code": "ES",
+"website": "http://www.uniactiva.com/"
+},
+{
+"id": 1866,
+"name": "Universidad Internacional de Andalucía, Sede La Rábida",
+"country_code": "ES",
+"website": "http://www.uniara.uia.es/"
+},
+{
+"id": 1871,
+"name": "Iniciativa Universidad del Atlantico",
+"country_code": "ES",
+"website": "http://www.universidadatlantico.org/"
+},
+{
+"id": 1873,
+"name": "Universidad Antonio de Nebrija",
+"country_code": "ES",
+"website": "http://www.unnet.es/"
+},
+{
+"id": 1874,
+"name": "Universitat Oberta de Catalunya",
+"country_code": "ES",
+"website": "http://www.uoc.edu/"
+},
+{
+"id": 1875,
+"name": "Universidad Politécnica de Cataluna",
+"country_code": "ES",
+"website": "http://www.upc.edu/"
+},
+{
+"id": 1891,
+"name": "Universitat de Vic",
+"country_code": "ES",
+"website": "http://www.uvic.es/"
+},
+{
+"id": 1899,
+"name": "School of Design and Crafts",
+"country_code": "SE",
+"website": "http://www.hdk.gu.se/"
+},
+{
+"id": 1920,
+"name": "Nordic School of Public Health",
+"country_code": "SE",
+"website": "http://www.nhv.se/"
+},
+{
+"id": 1929,
+"name": "World Maritime University",
+"country_code": "SE",
+"website": "http://www.wmu.se/"
+},
+{
+"id": 1930,
+"name": "Schiller International University, American College of Switzerland",
+"country_code": "CH",
+"website": "http://www.american-college.com/"
+},
+{
+"id": 1931,
+"name": "Business and Hotel Management School",
+"country_code": "CH",
+"website": "http://www.bhms.ch/"
+},
+{
+"id": 1933,
+"name": "Cubidor University Switzerland",
+"country_code": "CH",
+"website": "http://www.cubidor.com/"
+},
+{
+"id": 1934,
+"name": "DCT International Hotel & Business Management School",
+"country_code": "CH",
+"website": "http://www.dct.ch/"
+},
+{
+"id": 1935,
+"name": "European Graduate School, Media & Communications",
+"country_code": "CH",
+"website": "http://www.egs.edu/"
+},
+{
+"id": 1937,
+"name": "European University",
+"country_code": "CH",
+"website": "http://www.euruni.edu/"
+},
+{
+"id": 1938,
+"name": "Franklin College Switzerland",
+"country_code": "CH",
+"website": "http://www.fc.edu/"
+},
+{
+"id": 1939,
+"name": "University of Applied Sciences Aargau",
+"country_code": "CH",
+"website": "http://www.fh-aargau.ch/"
+},
+{
+"id": 1944,
+"name": "Glion Institute of Higher Education",
+"country_code": "CH",
+"website": "http://www.glion.edu/"
+},
+{
+"id": 1947,
+"name": "International Culinary Institute (ICI)",
+"country_code": "CH",
+"website": "http://www.ici-luzern.com/"
+},
+{
+"id": 1948,
+"name": "International Hotel Management Institute",
+"country_code": "CH",
+"website": "http://www.imi-luzern.com/"
+},
+{
+"id": 1949,
+"name": "International School of Business Management",
+"country_code": "CH",
+"website": "http://www.isbm-school.com/"
+},
+{
+"id": 1951,
+"name": "Les Roches International School of Hotel Management",
+"country_code": "CH",
+"website": "http://www.lesroches.edu/"
+},
+{
+"id": 1952,
+"name": "Les Roches Gruyère University of Applied Sciences",
+"country_code": "CH",
+"website": "http://www.lrguas.ch/"
+},
+{
+"id": 1953,
+"name": "Fachhochschule Pur",
+"country_code": "CH",
+"website": "http://www.phw.info/"
+},
+{
+"id": 1955,
+"name": "Swiss Management Center",
+"country_code": "CH",
+"website": "http://www.swissmc.ch/"
+},
+{
+"id": 1956,
+"name": "University of Switzerland",
+"country_code": "CH",
+"website": "http://www.swissu.org/"
+},
+{
+"id": 1957,
+"name": "University Center \"César Ritz\"",
+"country_code": "CH",
+"website": "http://www.uccr.edu/"
+},
+{
+"id": 1958,
+"name": "Libera Università degli Studi di Scienze Umane e Tecnologiche",
+"country_code": "CH",
+"website": "http://www.uniludes.ch/"
+},
+{
+"id": 1959,
+"name": "Victoria University",
+"country_code": "CH",
+"website": "http://www.victoria-uni.ch/"
+},
+{
+"id": 1975,
+"name": "FFHS - Fernfachhochschule Schweiz",
+"country_code": "CH",
+"website": "http://www.ffhs.ch/"
+},
+{
+"id": 1976,
+"name": "FHNW - Fachhochschule Nordwestschweiz",
+"country_code": "CH",
+"website": "http://www.fhnw.ch/"
+},
+{
+"id": 1977,
+"name": "FHS St.Gallen",
+"country_code": "CH",
+"website": "http://www.fhsg.ch/"
+},
+{
+"id": 1978,
+"name": "HEP Vaud - Haute école pédagogique du canton de Vaud",
+"country_code": "CH",
+"website": "http://www.hepl.ch/"
+},
+{
+"id": 1979,
+"name": "HEP-BEJUNE - Haute Ecole Pédagogique BEJUNE",
+"country_code": "CH",
+"website": "http://www.hep-bejune.ch/"
+},
+{
+"id": 1981,
+"name": "HEPVS - Haute école pédagogique du Valais",
+"country_code": "CH",
+"website": "http://www.hepvs.ch/"
+},
+{
+"id": 1982,
+"name": "HES-SO : UAS Western Switzerland",
+"country_code": "CH",
+"website": "http://www.hes-so.ch/"
+},
+{
+"id": 1983,
+"name": "HfH – University of Applied Sciences of Special Needs Education",
+"country_code": "CH",
+"website": "http://www.hfh.ch/"
+},
+{
+"id": 1988,
+"name": "NTB - Hochschule für Technik Buchs",
+"country_code": "CH",
+"website": "http://www.ntb.ch/"
+},
+{
+"id": 1989,
+"name": "PH Zug - Pädagogische Hochschule Zug",
+"country_code": "CH",
+"website": "http://www.phzg.ch/"
+},
+{
+"id": 1992,
+"name": "PHGR - University of Teacher Education Graubünden",
+"country_code": "CH",
+"website": "http://www.ph-gr.ch/"
+},
+{
+"id": 1994,
+"name": "PHSG - Pädagogische Hochschule St.Gallen",
+"country_code": "CH",
+"website": "http://www.phsg.ch/"
+},
+{
+"id": 1996,
+"name": "PHTG - Pädagogische Hochschule Thurgau",
+"country_code": "CH",
+"website": "http://www.phtg.ch/"
+},
+{
+"id": 1997,
+"name": "SUPSI - University of Applied Sciences Southern Switzerland",
+"country_code": "CH",
+"website": "http://www.supsi.ch/"
+},
+{
+"id": 1998,
+"name": "ZHAW - Zürcher Hochschule für Angewandte Wissenschaften",
+"country_code": "CH",
+"website": "http://www.zhaw.ch/"
+},
+{
+"id": 2002,
+"name": "Insel Gruppe",
+"country_code": "CH",
+"website": "http://www.insel.ch/"
+},
+{
+"id": 2004,
+"name": "Institut Le Rosey",
+"country_code": "CH",
+"website": "http://www.rosey.ch/"
+},
+{
+"id": 2005,
+"name": "Ukrainian Academy of Banking",
+"country_code": "UA",
+"website": "http://www.academy.sumy.ua/"
+},
+{
+"id": 2009,
+"name": "Crimea State Medical University",
+"country_code": "UA",
+"website": "http://www.crsmu.com/"
+},
+{
+"id": 2015,
+"name": "Dneprodzerzhinsk State Technical University",
+"country_code": "UA",
+"website": "http://www.dstu.dp.ua/"
+},
+{
+"id": 2016,
+"name": "Alfred Nobel University of Economics and Law",
+"country_code": "UA",
+"website": "http://www.duep.edu/"
+},
+{
+"id": 2017,
+"name": "Ukrainian National Forestry University",
+"country_code": "UA",
+"website": "http://www.forest.lviv.ua/"
+},
+{
+"id": 2024,
+"name": "Petro Mohyla Black Sea State University",
+"country_code": "UA",
+"website": "http://www.kma.mk.ua/"
+},
+{
+"id": 2029,
+"name": "KROK Economics and Law University",
+"country_code": "UA",
+"website": "http://www.krok.edu.ua/"
+},
+{
+"id": 2040,
+"name": "National Aviation University",
+"country_code": "UA",
+"website": "http://www.nau.edu.ua/"
+},
+{
+"id": 2041,
+"name": "National Agricultural University",
+"country_code": "UA",
+"website": "http://www.nauu.kiev.ua/"
+},
+{
+"id": 2042,
+"name": "National Metallurgical Academy of Ukraine",
+"country_code": "UA",
+"website": "http://www.nmetau.edu.ua/"
+},
+{
+"id": 2043,
+"name": "National Medical University O.O. Bogomolets",
+"country_code": "UA",
+"website": "http://www.nmu.edu.ua/"
+},
+{
+"id": 2044,
+"name": "National Mining University",
+"country_code": "UA",
+"website": "http://www.nmu.org.ua/"
+},
+{
+"id": 2045,
+"name": "National Pedagogical University M. Dragomanov",
+"country_code": "UA",
+"website": "http://www.npu.edu.ua/"
+},
+{
+"id": 2046,
+"name": "National Transport University",
+"country_code": "UA",
+"website": "http://www.ntu.kar.net/"
+},
+{
+"id": 2053,
+"name": "Precarpathian University",
+"country_code": "UA",
+"website": "http://www.pu.if.ua/"
+},
+{
+"id": 2057,
+"name": "East Ukrainian National University",
+"country_code": "UA",
+"website": "http://www.snu.edu.ua/"
+},
+{
+"id": 2060,
+"name": "Taurida National V.I.Vernadsky University",
+"country_code": "UA",
+"website": "http://www.tnu.crimea.ua/"
+},
+{
+"id": 2062,
+"name": "Technological University of Podillya",
+"country_code": "UA",
+"website": "http://www.tup.km.ua/"
+},
+{
+"id": 2063,
+"name": "Ukrainian Medical Stomatological Academy",
+"country_code": "UA",
+"website": "http://www.uamsa.net/"
+},
+{
+"id": 2065,
+"name": "Ukrainian Academy of Pharmacy",
+"country_code": "UA",
+"website": "http://www.ukrfa.kharkov.ua/"
+},
+{
+"id": 2066,
+"name": "National University of Internal Affairs",
+"country_code": "UA",
+"website": "http://www.univd.edu.ua/"
+},
+{
+"id": 2070,
+"name": "National University of Ostroh Academy",
+"country_code": "UA",
+"website": "http://www.uosa.uar.net/"
+},
+{
+"id": 2071,
+"name": "National University of Shipbuilding",
+"country_code": "UA",
+"website": "http://www.usmtu.edu.ua/"
+},
+{
+"id": 2072,
+"name": "National University of Food Technologies",
+"country_code": "UA",
+"website": "http://www.usuft.kiev.ua/"
+},
+{
+"id": 2073,
+"name": "Volyn National University Lesja Ukrainka",
+"country_code": "UA",
+"website": "http://www.vdu.edu.ua/"
+},
+{
+"id": 2074,
+"name": "National Pirogov Memorial Medical University",
+"country_code": "UA",
+"website": "http://www.vnmu.vn.ua/"
+},
+{
+"id": 2076,
+"name": "Zaporizhzhe National Technical University",
+"country_code": "UA",
+"website": "http://www.zntu.edu.ua/"
+},
+{
+"id": 2077,
+"name": "Zaporizhzhe National University",
+"country_code": "UA",
+"website": "http://www.znu.edu.ua/"
+},
+{
+"id": 2090,
+"name": "British College of Osteopathic Medicine",
+"country_code": "GB",
+"website": "http://www.bcom.ac.uk/"
+},
+{
+"id": 2102,
+"name": "University of Buckingham",
+"country_code": "GB",
+"website": "http://www.buck.ac.uk/"
+},
+{
+"id": 2105,
+"name": "Camberwell College of Arts",
+"country_code": "GB",
+"website": "http://www.camb.linst.ac.uk/"
+},
+{
+"id": 2113,
+"name": "Cranfield University",
+"country_code": "GB",
+"website": "http://www.cranfield.ac.uk/"
+},
+{
+"id": 2114,
+"name": "Central Saint Martins College of Art & Design",
+"country_code": "GB",
+"website": "http://www.csm.linst.ac.uk/"
+},
+{
+"id": 2121,
+"name": "European School of Economics",
+"country_code": "GB",
+"website": "http://www.eselondon.ac.uk/"
+},
+{
+"id": 2141,
+"name": "ifs University College",
+"country_code": "GB",
+"website": "http://www.ifslearning.ac.uk/"
+},
+{
+"id": 2144,
+"name": "International Colleges of Islamic Science",
+"country_code": "GB",
+"website": "http://www.islamiccolleges.com/"
+},
+{
+"id": 2146,
+"name": "Keele University",
+"country_code": "GB",
+"website": "http://www.keele.ac.uk/"
+},
+{
+"id": 2147,
+"name": "Kingston University",
+"country_code": "GB",
+"website": "http://www.kingston.ac.uk/"
+},
+{
+"id": 2148,
+"name": "International Centre for Isclamic Science",
+"country_code": "GB",
+"website": "http://www.kolieh.com/"
+},
+{
+"id": 2149,
+"name": "University of Wales, Lampeter",
+"country_code": "GB",
+"website": "http://www.lamp.ac.uk/"
+},
+{
+"id": 2168,
+"name": "Imperial College School of Medicine",
+"country_code": "GB",
+"website": "http://www.med.ic.ac.uk/"
+},
+{
+"id": 2194,
+"name": "South Bank University",
+"country_code": "GB",
+"website": "http://www.sbu.ac.uk/"
+},
+{
+"id": 2215,
+"name": "Trinity College of Music",
+"country_code": "GB",
+"website": "http://www.tcm.ac.uk/"
+},
+{
+"id": 2218,
+"name": "Thames Valley University",
+"country_code": "GB",
+"website": "http://www.tvu.ac.uk/"
+},
+{
+"id": 2221,
+"name": "University Campus Suffolk",
+"country_code": "GB",
+"website": "http://www.ucs.ac.uk/"
+},
+{
+"id": 2229,
+"name": "University of Wales College of Medicine",
+"country_code": "GB",
+"website": "http://www.uwcm.ac.uk/"
+},
+{
+"id": 2232,
+"name": "University of Wales",
+"country_code": "GB",
+"website": "http://www.wales.ac.uk/"
+},
+{
+"id": 2233,
+"name": "Warnborough University",
+"country_code": "GB",
+"website": "http://www.warnborough.edu/"
+},
+{
+"id": 2236,
+"name": "William Gilbert College",
+"country_code": "GB",
+"website": "http://www.williamgilbert.co.uk/"
+},
+{
+"id": 2244,
+"name": "East Coast College",
+"country_code": "GB",
+"website": "https://www.eastcoast.ac.uk/"
+},
+{
+"id": 2248,
+"name": "Universidad Internacional Isabel I",
+"country_code": "ES",
+"website": "https://www.ui1.es/"
+},
+{
+"id": 2249,
+"name": "ENAE Business School",
+"country_code": "ES",
+"website": "https://www.enae.es/"
+},
+{
+"id": 2265,
+"name": "Campus Saint Marc",
+"country_code": "FR",
+"website": "https://campus-saint-marc.com/"
+},
+{
+"id": 2280,
+"name": "Audencia",
+"country_code": "FR",
+"website": "https://www.audencia.com/"
+},
+{
+"id": 2288,
+"name": "Hochschule für Musik Carl Maria von Weber",
+"country_code": "DE",
+"website": "https://www.hfmdd.de/"
+},
+{
+"id": 2296,
+"name": "Europa-Universität Viadrina",
+"country_code": "DE",
+"website": "https://www.europa-uni.de/"
+},
+{
+"id": 2300,
+"name": "ESADE Business & Law School",
+"country_code": "ES",
+"website": "https://www.esade.edu/"
+},
+{
+"id": 2301,
+"name": "IESE Business School",
+"country_code": "ES",
+"website": "https://www.iese.edu/"
+},
+{
+"id": 2304,
+"name": "HULT Business School",
+"country_code": "GB",
+"website": "https://www.hult.edu/"
+},
+{
+"id": 2308,
+"name": "SKEMA Business School",
+"country_code": "FR",
+"website": "https://www.skema.edu/"
+},
+{
+"id": 2312,
+"name": "IMD - International Institute for Management Development",
+"country_code": "CH",
+"website": "https://www.imd.org/"
+},
+{
+"id": 2313,
+"name": "INSEAD",
+"country_code": "FR",
+"website": "https://www.insead.edu/"
+},
+{
+"id": 2315,
+"name": "Académie de Mayotte",
+"country_code": "FR",
+"website": "https://www.ac-mayotte.fr/"
+},
+{
+"id": 2316,
+"name": "UMIT Tirol",
+"country_code": "AT",
+"website": "https://umit-tirol.at/"
+},
+{
+"id": 2322,
+"name": "NOVA School of Science and Technology",
+"country_code": "PT",
+"website": "https://fct.unl.pt/"
+},
+{
+"id": 2324,
+"name": "Collège de France",
+"country_code": "FR",
+"website": "https://www.college-de-france.fr/"
+},
+{
+"id": 2325,
+"name": "Howest University of Applied Sciences",
+"country_code": "BE",
+"website": "https://www.howest.be/"
+},
+{
+"id": 2327,
+"name": "Escola Superior de Media Artes e Design",
+"country_code": "PT",
+"website": "https://www.esmad.ipp.pt/"
+},
+{
+"id": 2329,
+"name": "Maj Institute of Pharmacology Polish Academy of Sciences",
+"country_code": "PL",
+"website": "https://if-pan.krakow.pl/"
+},
+{
+"id": 2330,
+"name": "Nicolaus Copernicus Astronomical Center of Pharmacology Polish Academy of Sciences",
+"country_code": "PL",
+"website": "https://camk.edu.pl/"
+},
+{
+"id": 2333,
+"name": "Asmildkloster Agricultural School",
+"country_code": "DK",
+"website": "https://asmildkloster.dk/"
+},
+{
+"id": 2335,
+"name": "Kalø Økologisk Agricultural College",
+"country_code": "DK",
+"website": "https://videndjurs.dk/"
+},
+{
+"id": 2336,
+"name": "Florida Universitaria",
+"country_code": "ES",
+"website": "https://www.floridauniversitaria.es/"
+},
+{
+"id": 2337,
+"name": "Institute Français de la Mode",
+"country_code": "FR",
+"website": "https://www.ifmparis.fr/"
+},
+{
+"id": 2338,
+"name": "European Leadership University",
+"country_code": "NL",
+"website": "https://amsterdam.tech/"
+},
+{
+"id": 2341,
+"name": "IST-Hochschule fur Management",
+"country_code": "DE",
+"website": "https://www.ist-hochschule.de/"
+},
+{
+"id": 2342,
+"name": "Up Learn Business School",
+"country_code": "GB",
+"website": "https://uplearnbusinessschool.com/"
+},
+{
+"id": 2345,
+"name": "Runshaw College",
+"country_code": "GB",
+"website": "https://www.runshaw.ac.uk/"
+},
+{
+"id": 2346,
+"name": "West Suffolk College",
+"country_code": "GB",
+"website": "https://www.wsc.ac.uk/"
+},
+{
+"id": 2347,
+"name": "Universidad CEU Fernando III",
+"country_code": "ES",
+"website": "https://uf3ceu.es/"
+},
+{
+"id": 2349,
+"name": "Universidad de las Hespérides",
+"country_code": "ES",
+"website": "https://hesperides.edu.es/"
+},
+{
+"id": 2350,
+"name": "Universidad Europea del Atlántico",
+"country_code": "ES",
+"website": "https://www.uneatlantico.es/"
+},
+{
+"id": 2357,
+"name": "Université Champollion",
+"country_code": "FR",
+"website": "http://www.univ-jfc.fr/"
+},
+{
+"id": 2361,
+"name": "Institute of Technology and Business (VŠTE)",
+"country_code": "CZ",
+"website": "https://www.vstecb.cz/"
+},
+{
+"id": 2364,
+"name": "UniLaSalle",
+"country_code": "FR",
+"website": "https://www.unilasalle.fr/"
+},
+{
+"id": 2365,
+"name": "Yncrea",
+"country_code": "FR",
+"website": "https://yncrea.fr/"
+},
+{
+"id": 2366,
+"name": "IAE France",
+"country_code": "FR",
+"website": "https://www.iae-france.fr/"
+},
+{
+"id": 2367,
+"name": "EBS Universität",
+"country_code": "DE",
+"website": "https://www.ebs.edu/"
+},
+{
+"id": 2370,
+"name": "Harlaxton College",
+"country_code": "GB",
+"website": "https://college.harlaxton.co.uk/"
+},
+{
+"id": 2373,
+"name": "Pass26 College",
+"country_code": "MK",
+"website": "https://pass26.edu.mk/"
+},
+{
+"id": 2377,
+"name": "Uniwersytet SWPS",
+"country_code": "PL",
+"website": "https://swps.pl/"
+},
+{
+"id": 2379,
+"name": "Karl-Schiller-Berufskolleg (KSBK)",
+"country_code": "DE",
+"website": "http://www.ksbk-do.de/"
+},
+{
+"id": 2380,
+"name": "Scotland's Rural College (SRUC)",
+"country_code": "GB",
+"website": "https://www.sruc.ac.uk/"
+},
+{
+"id": 2381,
+"name": "Helena Chodkowska University of Technology and Economics",
+"country_code": "PL",
+"website": "https://www.uth.edu.pl/"
+},
+{
+"id": 2387,
+"name": "Westphalian University of Applied Sciences",
+"country_code": "DE",
+"website": "https://www.w-hs.de/"
+},
+{
+"id": 2388,
+"name": "Technische Hochschule Ulm",
+"country_code": "DE",
+"website": "https://www.thu.de/"
+},
+{
+"id": 2390,
+"name": "Sopocka Academia",
+"country_code": "PL",
+"website": "https://sopocka.edu.pl/"
+},
+{
+"id": 2391,
+"name": "Ion Mincu University of Architecture and Urban Planning",
+"country_code": "RO",
+"website": "https://www.uauim.ro/"
+},
+{
+"id": 2392,
+"name": "University of Agder",
+"country_code": "NO",
+"website": "https://www.uia.no/"
+}
+]

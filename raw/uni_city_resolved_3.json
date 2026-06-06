@@ -1,0 +1,522 @@
+[
+ {
+  "id": 993,
+  "city": "Castellanza"
+ },
+ {
+  "id": 994,
+  "city": "Rome"
+ },
+ {
+  "id": 997,
+  "city": "Rome"
+ },
+ {
+  "id": 1001,
+  "city": "Rome"
+ },
+ {
+  "id": 1002,
+  "city": "Rome"
+ },
+ {
+  "id": 1003,
+  "city": "Milan"
+ },
+ {
+  "id": 1016,
+  "city": "Rende"
+ },
+ {
+  "id": 1017,
+  "city": "Camerino"
+ },
+ {
+  "id": 1020,
+  "city": "Milan"
+ },
+ {
+  "id": 1023,
+  "city": "Novedrate"
+ },
+ {
+  "id": 1024,
+  "city": "Florence"
+ },
+ {
+  "id": 1029,
+  "city": "Rome"
+ },
+ {
+  "id": 1039,
+  "city": "Naples"
+ },
+ {
+  "id": 1052,
+  "city": "Rome"
+ },
+ {
+  "id": 1054,
+  "city": "Pollenzo"
+ },
+ {
+  "id": 1065,
+  "city": "Urbino"
+ },
+ {
+  "id": 1071,
+  "city": "Como"
+ },
+ {
+  "id": 1073,
+  "city": "Pristina"
+ },
+ {
+  "id": 1077,
+  "city": "Riga"
+ },
+ {
+  "id": 1085,
+  "city": "Riga"
+ },
+ {
+  "id": 1087,
+  "city": "Riga"
+ },
+ {
+  "id": 1089,
+  "city": "Riga"
+ },
+ {
+  "id": 1090,
+  "city": "Riga"
+ },
+ {
+  "id": 1091,
+  "city": "Riga"
+ },
+ {
+  "id": 1100,
+  "city": "Bendern"
+ },
+ {
+  "id": 1103,
+  "city": "Vilnius"
+ },
+ {
+  "id": 1106,
+  "city": "Klaipeda"
+ },
+ {
+  "id": 1107,
+  "city": "Vilnius"
+ },
+ {
+  "id": 1108,
+  "city": "Kaunas"
+ },
+ {
+  "id": 1110,
+  "city": "Kaunas"
+ },
+ {
+  "id": 1111,
+  "city": "Kaunas"
+ },
+ {
+  "id": 1113,
+  "city": "Vilnius"
+ },
+ {
+  "id": 1121,
+  "city": "Skopje"
+ },
+ {
+  "id": 1123,
+  "city": "Skopje"
+ },
+ {
+  "id": 1124,
+  "city": "Stip"
+ },
+ {
+  "id": 1127,
+  "city": "Bitola"
+ },
+ {
+  "id": 1129,
+  "city": ""
+ },
+ {
+  "id": 1130,
+  "city": "San Gwann"
+ },
+ {
+  "id": 1131,
+  "city": "Paola"
+ },
+ {
+  "id": 1132,
+  "city": "Msida"
+ },
+ {
+  "id": 1133,
+  "city": "Podgorica"
+ },
+ {
+  "id": 1134,
+  "city": ""
+ },
+ {
+  "id": 1135,
+  "city": ""
+ },
+ {
+  "id": 1136,
+  "city": "Kralendijk"
+ },
+ {
+  "id": 1137,
+  "city": "Willemstad"
+ },
+ {
+  "id": 1138,
+  "city": ""
+ },
+ {
+  "id": 1139,
+  "city": "The Hague"
+ },
+ {
+  "id": 1142,
+  "city": ""
+ },
+ {
+  "id": 1144,
+  "city": ""
+ },
+ {
+  "id": 1152,
+  "city": ""
+ },
+ {
+  "id": 1154,
+  "city": "The Hague"
+ },
+ {
+  "id": 1155,
+  "city": "Enschede"
+ },
+ {
+  "id": 1158,
+  "city": "Breukelen"
+ },
+ {
+  "id": 1160,
+  "city": "Middelburg"
+ },
+ {
+  "id": 1162,
+  "city": "Nijmegen"
+ },
+ {
+  "id": 1163,
+  "city": "Enschede"
+ },
+ {
+  "id": 1168,
+  "city": "Delft"
+ },
+ {
+  "id": 1173,
+  "city": "Utrecht"
+ },
+ {
+  "id": 1176,
+  "city": "Zwolle"
+ },
+ {
+  "id": 1177,
+  "city": "Apeldoorn"
+ },
+ {
+  "id": 1180,
+  "city": "Oslo"
+ },
+ {
+  "id": 1184,
+  "city": "Alta"
+ },
+ {
+  "id": 1187,
+  "city": "Oslo"
+ },
+ {
+  "id": 1188,
+  "city": "Bergen"
+ },
+ {
+  "id": 1190,
+  "city": "Oslo"
+ },
+ {
+  "id": 1191,
+  "city": "Bergen"
+ },
+ {
+  "id": 1192,
+  "city": "As"
+ },
+ {
+  "id": 1200,
+  "city": "As"
+ },
+ {
+  "id": 1207,
+  "city": "Krakow"
+ },
+ {
+  "id": 1225,
+  "city": "Siedlce"
+ },
+ {
+  "id": 1242,
+  "city": "Krakow"
+ },
+ {
+  "id": 1246,
+  "city": "Warsaw"
+ },
+ {
+  "id": 1250,
+  "city": "Katowice"
+ },
+ {
+  "id": 1252,
+  "city": "Warsaw"
+ },
+ {
+  "id": 1255,
+  "city": "Warsaw"
+ },
+ {
+  "id": 1257,
+  "city": "Warsaw"
+ },
+ {
+  "id": 1299,
+  "city": "Katowice"
+ },
+ {
+  "id": 1301,
+  "city": "Bydgoszcz"
+ },
+ {
+  "id": 1327,
+  "city": "Sochaczew"
+ },
+ {
+  "id": 1331,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1332,
+  "city": "Oeiras"
+ },
+ {
+  "id": 1333,
+  "city": "Matosinhos"
+ },
+ {
+  "id": 1335,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1336,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1337,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1341,
+  "city": "Barcelos"
+ },
+ {
+  "id": 1345,
+  "city": ""
+ },
+ {
+  "id": 1354,
+  "city": "Porto"
+ },
+ {
+  "id": 1355,
+  "city": ""
+ },
+ {
+  "id": 1356,
+  "city": "Coimbra"
+ },
+ {
+  "id": 1357,
+  "city": "Porto"
+ },
+ {
+  "id": 1359,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1361,
+  "city": "Paços de Brandão"
+ },
+ {
+  "id": 1362,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1363,
+  "city": "Vila Nova de Gaia"
+ },
+ {
+  "id": 1364,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1365,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1366,
+  "city": "Santa Maria da Feira"
+ },
+ {
+  "id": 1367,
+  "city": "Odivelas"
+ },
+ {
+  "id": 1368,
+  "city": "Ponta Delgada"
+ },
+ {
+  "id": 1369,
+  "city": "Faro"
+ },
+ {
+  "id": 1371,
+  "city": "Barcarena"
+ },
+ {
+  "id": 1373,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1379,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1380,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1381,
+  "city": "Funchal"
+ },
+ {
+  "id": 1382,
+  "city": "Braga"
+ },
+ {
+  "id": 1384,
+  "city": "Lisbon"
+ },
+ {
+  "id": 1392,
+  "city": "Carcavelos"
+ },
+ {
+  "id": 1393,
+  "city": "Alba Iulia"
+ },
+ {
+  "id": 1399,
+  "city": "Oradea"
+ },
+ {
+  "id": 1401,
+  "city": "Bucharest"
+ },
+ {
+  "id": 1406,
+  "city": "Bucharest"
+ },
+ {
+  "id": 1420,
+  "city": "Galati"
+ },
+ {
+  "id": 1426,
+  "city": "Bucharest"
+ },
+ {
+  "id": 1427,
+  "city": "Bucharest"
+ },
+ {
+  "id": 1435,
+  "city": "Bucharest"
+ },
+ {
+  "id": 1449,
+  "city": "Bucharest"
+ },
+ {
+  "id": 1452,
+  "city": "Arad"
+ },
+ {
+  "id": 1455,
+  "city": "Maykop"
+ },
+ {
+  "id": 1458,
+  "city": "Arkhangelsk"
+ },
+ {
+  "id": 1459,
+  "city": "Moscow"
+ },
+ {
+  "id": 1460,
+  "city": "Blagoveshchensk"
+ },
+ {
+  "id": 1461,
+  "city": "Nizhny Novgorod"
+ },
+ {
+  "id": 1463,
+  "city": "Barnaul"
+ },
+ {
+  "id": 1466,
+  "city": "Barnaul"
+ },
+ {
+  "id": 1467,
+  "city": "Barnaul"
+ },
+ {
+  "id": 1469,
+  "city": "Ufa"
+ },
+ {
+  "id": 1470,
+  "city": "Biysk"
+ },
+ {
+  "id": 1474,
+  "city": "Ufa"
+ }
+]

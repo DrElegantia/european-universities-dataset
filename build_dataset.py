@@ -147,6 +147,26 @@ for u in unis:
     g = GAZ.get((u["country_code"], norm(ec).strip()))
     if g:
         u["city"], u["lat"], u["lon"] = g[0], g[1], g[2]; city_filled += 1
+
+# fill remaining missing cities from manual per-university lookups (agent-resolved id -> city)
+resolved_city = {}
+for _k in range(1, 6):
+    _p = _os.path.join(RAW, f"uni_city_resolved_{_k}.json")
+    if _os.path.exists(_p):
+        for r in json.load(open(_p, encoding="utf-8")):
+            if r.get("city"): resolved_city[int(r["id"])] = r["city"]
+res_filled = 0
+for u in unis:
+    if u["city"]: continue
+    c = resolved_city.get(u["id"])
+    if not c: continue
+    g = GAZ.get((u["country_code"], norm(c).strip()))
+    if g:
+        u["city"], u["lat"], u["lon"] = g[0], g[1], g[2]
+    else:
+        u["city"] = c  # keep resolved label for display even if not in the GeoNames gazetteer
+    res_filled += 1
+print(f"City: filled from ETER {city_filled}, from manual lookup {res_filled}")
 for u in unis:
     codes = eter_codes_by_uid.get(u["id"])
     if codes:

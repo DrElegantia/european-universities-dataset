@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "city": ""
+  },
+  {
+    "id": 3,
+    "city": "Watford"
+  },
+  {
+    "id": 6,
+    "city": "Lille"
+  },
+  {
+    "id": 9,
+    "city": "Gif-sur-Yvette"
+  },
+  {
+    "id": 15,
+    "city": "Tirana"
+  },
+  {
+    "id": 16,
+    "city": "Tirana"
+  },
+  {
+    "id": 28,
+    "city": "Gjirokastër"
+  },
+  {
+    "id": 30,
+    "city": "Tirana"
+  },
+  {
+    "id": 34,
+    "city": "Krems"
+  },
+  {
+    "id": 35,
+    "city": "Eisenstadt"
+  },
+  {
+    "id": 36,
+    "city": "Hagenberg"
+  },
+  {
+    "id": 37,
+    "city": "Graz"
+  },
+  {
+    "id": 38,
+    "city": "Villach"
+  },
+  {
+    "id": 39,
+    "city": "Krems"
+  },
+  {
+    "id": 40,
+    "city": "Kufstein"
+  },
+  {
+    "id": 44,
+    "city": "Dornbirn"
+  },
+  {
+    "id": 45,
+    "city": "Vienna"
+  },
+  {
+    "id": 46,
+    "city": "Vienna"
+  },
+  {
+    "id": 49,
+    "city": "Krems"
+  },
+  {
+    "id": 51,
+    "city": "Klosterneuburg"
+  },
+  {
+    "id": 67,
+    "city": "Hall in Tirol"
+  },
+  {
+    "id": 69,
+    "city": "Leoben"
+  },
+  {
+    "id": 75,
+    "city": "Minsk"
+  },
+  {
+    "id": 76,
+    "city": "Horki"
+  },
+  {
+    "id": 77,
+    "city": "Minsk"
+  },
+  {
+    "id": 78,
+    "city": "Gomel"
+  },
+  {
+    "id": 79,
+    "city": "Minsk"
+  },
+  {
+    "id": 80,
+    "city": "Minsk"
+  },
+  {
+    "id": 82,
+    "city": "Mogilev"
+  },
+  {
+    "id": 83,
+    "city": "Minsk"
+  },
+  {
+    "id": 84,
+    "city": "Minsk"
+  },
+  {
+    "id": 85,
+    "city": "Minsk"
+  },
+  {
+    "id": 87,
+    "city": "Minsk"
+  },
+  {
+    "id": 88,
+    "city": "Minsk"
+  },
+  {
+    "id": 89,
+    "city": "Minsk"
+  },
+  {
+    "id": 90,
+    "city": "Minsk"
+  },
+  {
+    "id": 95,
+    "city": "Minsk"
+  },
+  {
+    "id": 96,
+    "city": "Minsk"
+  },
+  {
+    "id": 102,
+    "city": "Minsk"
+  },
+  {
+    "id": 109,
+    "city": "Brussels"
+  },
+  {
+    "id": 110,
+    "city": "Brussels"
+  },
+  {
+    "id": 111,
+    "city": "Bruges"
+  },
+  {
+    "id": 112,
+    "city": "Sint-Pieters-Leeuw"
+  },
+  {
+    "id": 113,
+    "city": "Brussels"
+  },
+  {
+    "id": 117,
+    "city": ""
+  },
+  {
+    "id": 121,
+    "city": "Arlon"
+  },
+  {
+    "id": 122,
+    "city": "Namur"
+  },
+  {
+    "id": 123,
+    "city": "Brussels"
+  },
+  {
+    "id": 125,
+    "city": "Antwerp"
+  },
+  {
+    "id": 128,
+    "city": "Geel"
+  },
+  {
+    "id": 130,
+    "city": "Hasselt"
+  },
+  {
+    "id": 134,
+    "city": "Brussels"
+  },
+  {
+    "id": 136,
+    "city": ""
+  },
+  {
+    "id": 139,
+    "city": "Brussels"
+  },
+  {
+    "id": 145,
+    "city": "Brussels"
+  },
+  {
+    "id": 149,
+    "city": "Brussels"
+  },
+  {
+    "id": 152,
+    "city": "Mechelen"
+  },
+  {
+    "id": 153,
+    "city": ""
+  },
+  {
+    "id": 154,
+    "city": "Sarajevo"
+  },
+  {
+    "id": 158,
+    "city": "Bijeljina"
+  },
+  {
+    "id": 162,
+    "city": "Mostar"
+  },
+  {
+    "id": 164,
+    "city": "East Sarajevo"
+  },
+  {
+    "id": 173,
+    "city": "Sofia"
+  },
+  {
+    "id": 182,
+    "city": "Sofia"
+  },
+  {
+    "id": 195,
+    "city": "Plovdiv"
+  },
+  {
+    "id": 199,
+    "city": "Svishtov"
+  },
+  {
+    "id": 204,
+    "city": "Dobrich"
+  },
+  {
+    "id": 205,
+    "city": "Szczecin"
+  },
+  {
+    "id": 218,
+    "city": "Koprivnica"
+  },
+  {
+    "id": 219,
+    "city": "Nicosia"
+  },
+  {
+    "id": 221,
+    "city": "Nicosia"
+  },
+  {
+    "id": 225,
+    "city": "Famagusta"
+  },
+  {
+    "id": 230,
+    "city": "Lefke"
+  },
+  {
+    "id": 231,
+    "city": "Nicosia"
+  },
+  {
+    "id": 232,
+    "city": "Nicosia"
+  },
+  {
+    "id": 233,
+    "city": "Nicosia"
+  },
+  {
+    "id": 235,
+    "city": "Güzelyurt"
+  },
+  {
+    "id": 240,
+    "city": "Prague"
+  },
+  {
+    "id": 241,
+    "city": "České Budějovice"
+  },
+  {
+    "id": 242,
+    "city": "Brno"
+  },
+  {
+    "id": 247,
+    "city": "Opava"
+  },
+  {
+    "id": 249,
+    "city": "Ústí nad Labem"
+  },
+  {
+    "id": 258,
+    "city": "Prague"
+  },
+  {
+    "id": 263,
+    "city": "Plzeň"
+  },
+  {
+    "id": 272,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 274,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 275,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 276,
+    "city": "Kongens Lyngby"
+  },
+  {
+    "id": 279,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 282,
+    "city": "Helsingør"
+  },
+  {
+    "id": 285,
+    "city": ""
+  },
+  {
+    "id": 287,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 288,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 292,
+    "city": "Odense"
+  },
+  {
+    "id": 294,
+    "city": "Odense"
+  },
+  {
+    "id": 295,
+    "city": "Aarhus"
+  },
+  {
+    "id": 302,
+    "city": "Tallinn"
+  },
+  {
+    "id": 307,
+    "city": "Kokkola"
+  },
+  {
+    "id": 309,
+    "city": "Espoo"
+  },
+  {
+    "id": 323,
+    "city": ""
+  },
+  {
+    "id": 324,
+    "city": "Pori"
+  },
+  {
+    "id": 325,
+    "city": "Lappeenranta"
+  },
+  {
+    "id": 326,
+    "city": "Helsinki"
+  },
+  {
+    "id": 340,
+    "city": "Paris"
+  },
+  {
+    "id": 341,
+    "city": "Salon-de-Provence"
+  },
+  {
+    "id": 342,
+    "city": "Paris"
+  },
+  {
+    "id": 349,
+    "city": "Paris"
+  },
+  {
+    "id": 351,
+    "city": "Montpellier"
+  },
+  {
+    "id": 356,
+    "city": "Courbevoie"
+  },
+  {
+    "id": 357,
+    "city": "Tours"
+  },
+  {
+    "id": 358,
+    "city": "Paris"
+  },
+  {
+    "id": 359,
+    "city": "Paris"
+  },
+  {
+    "id": 362,
+    "city": "Brest"
+  },
+  {
+    "id": 367,
+    "city": "Lyon"
+  },
+  {
+    "id": 369,
+    "city": "Nîmes"
+  },
+  {
+    "id": 370,
+    "city": "Grenoble"
+  },
+  {
+    "id": 371,
+    "city": "Villejuif"
+  },
+  {
+    "id": 376,
+    "city": "Toulouse"
+  },
+  {
+    "id": 377,
+    "city": "Strasbourg"
+  },
+  {
+    "id": 385,
+    "city": "Toulouse"
+  },
+  {
+    "id": 387,
+    "city": "Besançon"
+  },
+  {
+    "id": 389,
+    "city": "Nancy"
+  },
+  {
+    "id": 390,
+    "city": "Rennes"
+  },
+  {
+    "id": 404,
+    "city": "Nancy"
+  },
+  {
+    "id": 410,
+    "city": "Toulouse"
+  },
+  {
+    "id": 412,
+    "city": "Brest"
+  },
+  {
+    "id": 415,
+    "city": "Poitiers"
+  },
+  {
+    "id": 421,
+    "city": "Brest"
+  },
+  {
+    "id": 426,
+    "city": "Toulouse"
+  },
+  {
+    "id": 431,
+    "city": "Tours"
+  }
+]

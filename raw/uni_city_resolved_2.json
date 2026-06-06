@@ -1,0 +1,522 @@
+[
+  {
+    "id": 437,
+    "city": "Pau"
+  },
+  {
+    "id": 443,
+    "city": "Paris"
+  },
+  {
+    "id": 448,
+    "city": "Rouen"
+  },
+  {
+    "id": 449,
+    "city": "Ivry-sur-Seine"
+  },
+  {
+    "id": 452,
+    "city": "Cergy"
+  },
+  {
+    "id": 459,
+    "city": "Jouy-en-Josas"
+  },
+  {
+    "id": 466,
+    "city": "Rueil-Malmaison"
+  },
+  {
+    "id": 468,
+    "city": "Nancy"
+  },
+  {
+    "id": 473,
+    "city": "Paris"
+  },
+  {
+    "id": 474,
+    "city": "Évry"
+  },
+  {
+    "id": 475,
+    "city": "Palaiseau"
+  },
+  {
+    "id": 476,
+    "city": "Paris"
+  },
+  {
+    "id": 477,
+    "city": "Nantes"
+  },
+  {
+    "id": 481,
+    "city": "Lille"
+  },
+  {
+    "id": 485,
+    "city": "Caen"
+  },
+  {
+    "id": 501,
+    "city": "Vandœuvre-lès-Nancy"
+  },
+  {
+    "id": 502,
+    "city": "Toulouse"
+  },
+  {
+    "id": 511,
+    "city": "Angers"
+  },
+  {
+    "id": 522,
+    "city": "Brest"
+  },
+  {
+    "id": 524,
+    "city": "Corte"
+  },
+  {
+    "id": 527,
+    "city": "Le Mans"
+  },
+  {
+    "id": 531,
+    "city": "Dunkirk"
+  },
+  {
+    "id": 542,
+    "city": "Mulhouse"
+  },
+  {
+    "id": 558,
+    "city": "Chambéry"
+  },
+  {
+    "id": 566,
+    "city": "Lorient"
+  },
+  {
+    "id": 570,
+    "city": "Amiens"
+  },
+  {
+    "id": 580,
+    "city": "Maisons-Alfort"
+  },
+  {
+    "id": 591,
+    "city": "Paris"
+  },
+  {
+    "id": 594,
+    "city": "Ivry-sur-Seine"
+  },
+  {
+    "id": 596,
+    "city": "Erfurt"
+  },
+  {
+    "id": 599,
+    "city": "Neuendettelsau"
+  },
+  {
+    "id": 600,
+    "city": "Bielefeld"
+  },
+  {
+    "id": 601,
+    "city": "Iserlohn"
+  },
+  {
+    "id": 605,
+    "city": "Bad Sooden-Allendorf"
+  },
+  {
+    "id": 608,
+    "city": "Munich"
+  },
+  {
+    "id": 609,
+    "city": "Oestrich-Winkel"
+  },
+  {
+    "id": 610,
+    "city": "Berlin"
+  },
+  {
+    "id": 611,
+    "city": "Bochum"
+  },
+  {
+    "id": 618,
+    "city": "Mainz"
+  },
+  {
+    "id": 619,
+    "city": "Brühl"
+  },
+  {
+    "id": 639,
+    "city": "Bielefeld"
+  },
+  {
+    "id": 640,
+    "city": "Bergisch Gladbach"
+  },
+  {
+    "id": 645,
+    "city": "Idstein"
+  },
+  {
+    "id": 646,
+    "city": "Furtwangen"
+  },
+  {
+    "id": 655,
+    "city": "Hof"
+  },
+  {
+    "id": 657,
+    "city": "Isny im Allgäu"
+  },
+  {
+    "id": 666,
+    "city": "Nürtingen"
+  },
+  {
+    "id": 668,
+    "city": "Senftenberg"
+  },
+  {
+    "id": 669,
+    "city": "Lemgo"
+  },
+  {
+    "id": 675,
+    "city": "Bielefeld"
+  },
+  {
+    "id": 681,
+    "city": "Krefeld"
+  },
+  {
+    "id": 682,
+    "city": "Lüneburg"
+  },
+  {
+    "id": 690,
+    "city": "Ottersberg"
+  },
+  {
+    "id": 695,
+    "city": "Riedlingen"
+  },
+  {
+    "id": 701,
+    "city": "Moritzburg"
+  },
+  {
+    "id": 707,
+    "city": "Ulm"
+  },
+  {
+    "id": 711,
+    "city": "Freising"
+  },
+  {
+    "id": 713,
+    "city": "Heide"
+  },
+  {
+    "id": 715,
+    "city": "Wolfenbüttel"
+  },
+  {
+    "id": 720,
+    "city": "Essen"
+  },
+  {
+    "id": 722,
+    "city": "Rostock"
+  },
+  {
+    "id": 726,
+    "city": "Frankfurt"
+  },
+  {
+    "id": 729,
+    "city": "Munich"
+  },
+  {
+    "id": 731,
+    "city": "Heidelberg"
+  },
+  {
+    "id": 734,
+    "city": "Köthen"
+  },
+  {
+    "id": 741,
+    "city": "Wernigerode"
+  },
+  {
+    "id": 748,
+    "city": "Saarbrücken"
+  },
+  {
+    "id": 750,
+    "city": "Hamburg"
+  },
+  {
+    "id": 755,
+    "city": "Bruchsal"
+  },
+  {
+    "id": 758,
+    "city": "Vechta"
+  },
+  {
+    "id": 762,
+    "city": "Cologne"
+  },
+  {
+    "id": 766,
+    "city": "Eichstätt"
+  },
+  {
+    "id": 772,
+    "city": "Trossingen"
+  },
+  {
+    "id": 774,
+    "city": "Kiel"
+  },
+  {
+    "id": 775,
+    "city": "Elmshorn"
+  },
+  {
+    "id": 788,
+    "city": "Benediktbeuern"
+  },
+  {
+    "id": 790,
+    "city": "Vallendar"
+  },
+  {
+    "id": 796,
+    "city": "Weilheim"
+  },
+  {
+    "id": 798,
+    "city": "Berlin"
+  },
+  {
+    "id": 799,
+    "city": "Frankfurt"
+  },
+  {
+    "id": 803,
+    "city": "Wildau"
+  },
+  {
+    "id": 804,
+    "city": "Möckern"
+  },
+  {
+    "id": 809,
+    "city": "Clausthal-Zellerfeld"
+  },
+  {
+    "id": 843,
+    "city": "Karlsruhe"
+  },
+  {
+    "id": 865,
+    "city": "Saarbrücken"
+  },
+  {
+    "id": 876,
+    "city": "Vallendar"
+  },
+  {
+    "id": 877,
+    "city": "Athens"
+  },
+  {
+    "id": 879,
+    "city": "Mytilene"
+  },
+  {
+    "id": 888,
+    "city": "Thessaloniki"
+  },
+  {
+    "id": 889,
+    "city": "Komotini"
+  },
+  {
+    "id": 895,
+    "city": "Athens"
+  },
+  {
+    "id": 902,
+    "city": "Rethymno"
+  },
+  {
+    "id": 912,
+    "city": "Budapest"
+  },
+  {
+    "id": 913,
+    "city": "Szombathely"
+  },
+  {
+    "id": 923,
+    "city": "Budapest"
+  },
+  {
+    "id": 925,
+    "city": "Budapest"
+  },
+  {
+    "id": 926,
+    "city": "Pécs"
+  },
+  {
+    "id": 927,
+    "city": "Budapest"
+  },
+  {
+    "id": 928,
+    "city": "Budapest"
+  },
+  {
+    "id": 931,
+    "city": "Debrecen"
+  },
+  {
+    "id": 932,
+    "city": "Budapest"
+  },
+  {
+    "id": 933,
+    "city": "Sopron"
+  },
+  {
+    "id": 937,
+    "city": "Budapest"
+  },
+  {
+    "id": 938,
+    "city": "Győr"
+  },
+  {
+    "id": 944,
+    "city": "Budapest"
+  },
+  {
+    "id": 946,
+    "city": "Bifröst"
+  },
+  {
+    "id": 948,
+    "city": "Hólar"
+  },
+  {
+    "id": 949,
+    "city": "Ísafjörður"
+  },
+  {
+    "id": 950,
+    "city": "Hvanneyri"
+  },
+  {
+    "id": 951,
+    "city": "Reykjavik"
+  },
+  {
+    "id": 952,
+    "city": "Reykjavik"
+  },
+  {
+    "id": 961,
+    "city": "Dublin"
+  },
+  {
+    "id": 963,
+    "city": "Dublin"
+  },
+  {
+    "id": 966,
+    "city": "Dublin"
+  },
+  {
+    "id": 967,
+    "city": "Maynooth"
+  },
+  {
+    "id": 968,
+    "city": "Dublin"
+  },
+  {
+    "id": 969,
+    "city": "Dublin"
+  },
+  {
+    "id": 970,
+    "city": "Dublin"
+  },
+  {
+    "id": 971,
+    "city": "Dublin"
+  },
+  {
+    "id": 972,
+    "city": "Shannon"
+  },
+  {
+    "id": 973,
+    "city": "Limerick"
+  },
+  {
+    "id": 980,
+    "city": "Rome"
+  },
+  {
+    "id": 981,
+    "city": "Rome"
+  },
+  {
+    "id": 983,
+    "city": "Trieste"
+  },
+  {
+    "id": 986,
+    "city": "Fiesole"
+  },
+  {
+    "id": 987,
+    "city": "Milan"
+  },
+  {
+    "id": 988,
+    "city": "Florence"
+  },
+  {
+    "id": 989,
+    "city": "Naples"
+  },
+  {
+    "id": 990,
+    "city": "Pavia"
+  },
+  {
+    "id": 992,
+    "city": "Rome"
+  }
+]

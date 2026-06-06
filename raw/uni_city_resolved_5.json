@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1948,
+    "city": "Lucerne"
+  },
+  {
+    "id": 1949,
+    "city": "Lucerne"
+  },
+  {
+    "id": 1951,
+    "city": "Bluche"
+  },
+  {
+    "id": 1952,
+    "city": "Bulle"
+  },
+  {
+    "id": 1953,
+    "city": ""
+  },
+  {
+    "id": 1955,
+    "city": "Baar"
+  },
+  {
+    "id": 1956,
+    "city": ""
+  },
+  {
+    "id": 1957,
+    "city": "Brig"
+  },
+  {
+    "id": 1958,
+    "city": "Lugano"
+  },
+  {
+    "id": 1959,
+    "city": ""
+  },
+  {
+    "id": 1975,
+    "city": "Brig"
+  },
+  {
+    "id": 1976,
+    "city": "Windisch"
+  },
+  {
+    "id": 1977,
+    "city": "St. Gallen"
+  },
+  {
+    "id": 1978,
+    "city": "Lausanne"
+  },
+  {
+    "id": 1979,
+    "city": "Biel/Bienne"
+  },
+  {
+    "id": 1981,
+    "city": "St-Maurice"
+  },
+  {
+    "id": 1982,
+    "city": "Delémont"
+  },
+  {
+    "id": 1983,
+    "city": "Zurich"
+  },
+  {
+    "id": 1988,
+    "city": "Buchs"
+  },
+  {
+    "id": 1989,
+    "city": "Zug"
+  },
+  {
+    "id": 1992,
+    "city": "Chur"
+  },
+  {
+    "id": 1994,
+    "city": "St. Gallen"
+  },
+  {
+    "id": 1996,
+    "city": "Kreuzlingen"
+  },
+  {
+    "id": 1997,
+    "city": "Manno"
+  },
+  {
+    "id": 1998,
+    "city": "Winterthur"
+  },
+  {
+    "id": 2002,
+    "city": "Bern"
+  },
+  {
+    "id": 2004,
+    "city": "Rolle"
+  },
+  {
+    "id": 2005,
+    "city": "Sumy"
+  },
+  {
+    "id": 2009,
+    "city": "Simferopol"
+  },
+  {
+    "id": 2015,
+    "city": "Kamianske"
+  },
+  {
+    "id": 2016,
+    "city": "Dnipro"
+  },
+  {
+    "id": 2017,
+    "city": "Lviv"
+  },
+  {
+    "id": 2024,
+    "city": "Mykolaiv"
+  },
+  {
+    "id": 2029,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2040,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2041,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2042,
+    "city": "Dnipro"
+  },
+  {
+    "id": 2043,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2044,
+    "city": "Dnipro"
+  },
+  {
+    "id": 2045,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2046,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2053,
+    "city": "Ivano-Frankivsk"
+  },
+  {
+    "id": 2057,
+    "city": "Luhansk"
+  },
+  {
+    "id": 2060,
+    "city": "Simferopol"
+  },
+  {
+    "id": 2062,
+    "city": "Khmelnytskyi"
+  },
+  {
+    "id": 2063,
+    "city": "Poltava"
+  },
+  {
+    "id": 2065,
+    "city": "Kharkiv"
+  },
+  {
+    "id": 2066,
+    "city": "Kharkiv"
+  },
+  {
+    "id": 2070,
+    "city": "Ostroh"
+  },
+  {
+    "id": 2071,
+    "city": "Mykolaiv"
+  },
+  {
+    "id": 2072,
+    "city": "Kyiv"
+  },
+  {
+    "id": 2073,
+    "city": "Lutsk"
+  },
+  {
+    "id": 2074,
+    "city": "Vinnytsia"
+  },
+  {
+    "id": 2076,
+    "city": "Zaporizhzhia"
+  },
+  {
+    "id": 2077,
+    "city": "Zaporizhzhia"
+  },
+  {
+    "id": 2090,
+    "city": "London"
+  },
+  {
+    "id": 2102,
+    "city": "Buckingham"
+  },
+  {
+    "id": 2105,
+    "city": "London"
+  },
+  {
+    "id": 2113,
+    "city": "Cranfield"
+  },
+  {
+    "id": 2114,
+    "city": "London"
+  },
+  {
+    "id": 2121,
+    "city": "London"
+  },
+  {
+    "id": 2141,
+    "city": "London"
+  },
+  {
+    "id": 2144,
+    "city": "London"
+  },
+  {
+    "id": 2146,
+    "city": "Keele"
+  },
+  {
+    "id": 2147,
+    "city": "Kingston upon Thames"
+  },
+  {
+    "id": 2148,
+    "city": ""
+  },
+  {
+    "id": 2149,
+    "city": "Lampeter"
+  },
+  {
+    "id": 2168,
+    "city": "London"
+  },
+  {
+    "id": 2194,
+    "city": "London"
+  },
+  {
+    "id": 2215,
+    "city": "London"
+  },
+  {
+    "id": 2218,
+    "city": "London"
+  },
+  {
+    "id": 2221,
+    "city": "Ipswich"
+  },
+  {
+    "id": 2229,
+    "city": "Cardiff"
+  },
+  {
+    "id": 2232,
+    "city": "Cardiff"
+  },
+  {
+    "id": 2233,
+    "city": "Canterbury"
+  },
+  {
+    "id": 2236,
+    "city": ""
+  },
+  {
+    "id": 2244,
+    "city": "Lowestoft"
+  },
+  {
+    "id": 2248,
+    "city": "Burgos"
+  },
+  {
+    "id": 2249,
+    "city": "Murcia"
+  },
+  {
+    "id": 2265,
+    "city": "Rouen"
+  },
+  {
+    "id": 2280,
+    "city": "Nantes"
+  },
+  {
+    "id": 2288,
+    "city": "Dresden"
+  },
+  {
+    "id": 2296,
+    "city": "Frankfurt (Oder)"
+  },
+  {
+    "id": 2300,
+    "city": "Barcelona"
+  },
+  {
+    "id": 2301,
+    "city": "Barcelona"
+  },
+  {
+    "id": 2304,
+    "city": "London"
+  },
+  {
+    "id": 2308,
+    "city": "Lille"
+  },
+  {
+    "id": 2312,
+    "city": "Lausanne"
+  },
+  {
+    "id": 2313,
+    "city": "Fontainebleau"
+  },
+  {
+    "id": 2315,
+    "city": "Mamoudzou"
+  },
+  {
+    "id": 2316,
+    "city": "Hall in Tirol"
+  },
+  {
+    "id": 2322,
+    "city": "Caparica"
+  },
+  {
+    "id": 2324,
+    "city": "Paris"
+  },
+  {
+    "id": 2325,
+    "city": "Kortrijk"
+  },
+  {
+    "id": 2327,
+    "city": "Vila do Conde"
+  },
+  {
+    "id": 2329,
+    "city": "Kraków"
+  },
+  {
+    "id": 2330,
+    "city": "Warsaw"
+  },
+  {
+    "id": 2333,
+    "city": "Viborg"
+  },
+  {
+    "id": 2335,
+    "city": "Rønde"
+  },
+  {
+    "id": 2336,
+    "city": "Catarroja"
+  },
+  {
+    "id": 2337,
+    "city": "Paris"
+  },
+  {
+    "id": 2338,
+    "city": "Amsterdam"
+  },
+  {
+    "id": 2341,
+    "city": "Düsseldorf"
+  },
+  {
+    "id": 2342,
+    "city": "London"
+  },
+  {
+    "id": 2345,
+    "city": "Leyland"
+  },
+  {
+    "id": 2346,
+    "city": "Bury St Edmunds"
+  },
+  {
+    "id": 2347,
+    "city": "Bormujos"
+  },
+  {
+    "id": 2349,
+    "city": "Santa Cruz de Tenerife"
+  },
+  {
+    "id": 2350,
+    "city": "Santander"
+  },
+  {
+    "id": 2357,
+    "city": "Albi"
+  },
+  {
+    "id": 2361,
+    "city": "České Budějovice"
+  },
+  {
+    "id": 2364,
+    "city": "Beauvais"
+  },
+  {
+    "id": 2365,
+    "city": "Lille"
+  },
+  {
+    "id": 2366,
+    "city": ""
+  },
+  {
+    "id": 2367,
+    "city": "Oestrich-Winkel"
+  },
+  {
+    "id": 2370,
+    "city": "Grantham"
+  },
+  {
+    "id": 2373,
+    "city": ""
+  },
+  {
+    "id": 2377,
+    "city": "Warsaw"
+  },
+  {
+    "id": 2379,
+    "city": "Dortmund"
+  },
+  {
+    "id": 2380,
+    "city": "Edinburgh"
+  },
+  {
+    "id": 2381,
+    "city": "Warsaw"
+  },
+  {
+    "id": 2387,
+    "city": "Gelsenkirchen"
+  },
+  {
+    "id": 2388,
+    "city": "Ulm"
+  },
+  {
+    "id": 2390,
+    "city": "Sopot"
+  },
+  {
+    "id": 2391,
+    "city": "Bucharest"
+  },
+  {
+    "id": 2392,
+    "city": "Kristiansand"
+  }
+]
