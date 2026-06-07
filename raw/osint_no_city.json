@@ -1,0 +1,202 @@
+[
+ {
+  "id": 1,
+  "name": "Hellenic College of Noah",
+  "country": "Greece",
+  "country_code": "GR",
+  "domain": "noah.edu.gr",
+  "website": "https://noah.edu.gr/"
+ },
+ {
+  "id": 117,
+  "name": "European International University",
+  "country": "Belgium",
+  "country_code": "BE",
+  "domain": "europeaniu.org",
+  "website": "http://www.europeaniu.org/"
+ },
+ {
+  "id": 136,
+  "name": "Thierry Graduate School of Leadership",
+  "country": "Belgium",
+  "country_code": "BE",
+  "domain": "thierryschool.org",
+  "website": "http://www.thierryschool.org/"
+ },
+ {
+  "id": 153,
+  "name": "American University",
+  "country": "Bosnia and Herzegovina",
+  "country_code": "BA",
+  "domain": "aubih.ba",
+  "website": "http://www.aubih.ba/"
+ },
+ {
+  "id": 285,
+  "name": "Knightsbridge University",
+  "country": "Denmark",
+  "country_code": "DK",
+  "domain": "knightsbridgeuniversity.com",
+  "website": "http://www.knightsbridgeuniversity.com/"
+ },
+ {
+  "id": 323,
+  "name": "Scandinavian Art and Business Institute",
+  "country": "Finland",
+  "country_code": "FI",
+  "domain": "sabi.eu.com",
+  "website": "http://www.sabi.eu.com/"
+ },
+ {
+  "id": 1129,
+  "name": "European Institute of Education",
+  "country": "Malta",
+  "country_code": "MT",
+  "domain": "eieonline.com",
+  "website": "http://www.eieonline.com/"
+ },
+ {
+  "id": 1134,
+  "name": "University of Sint Eustatius School of Medicine",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "domain": "eustatiusmed.edu",
+  "website": "http://www.eustatiusmed.edu/"
+ },
+ {
+  "id": 1135,
+  "name": "International University School of Medicine (IUSOM)",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "domain": "internationaluniversity-schoolofmedicine.org",
+  "website": "http://www.internationaluniversity-schoolofmedicine.org/"
+ },
+ {
+  "id": 1138,
+  "name": "Dutch Delta University",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "domain": "ddu.nl",
+  "website": "http://www.ddu.nl/"
+ },
+ {
+  "id": 1142,
+  "name": "European Open University",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "domain": "europeanopenuniversity.com",
+  "website": "http://www.europeanopenuniversity.com/"
+ },
+ {
+  "id": 1144,
+  "name": "Foundation University",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "domain": "foundationuniversity.com",
+  "website": "http://www.foundationuniversity.com/"
+ },
+ {
+  "id": 1152,
+  "name": "Hogeschool Inholland",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "domain": "inholland.nl",
+  "website": "http://www.inholland.nl/"
+ },
+ {
+  "id": 1345,
+  "name": "Instituto Piaget",
+  "country": "Portugal",
+  "country_code": "PT",
+  "domain": "ipiaget.org",
+  "website": "http://www.ipiaget.org/"
+ },
+ {
+  "id": 1355,
+  "name": "Instituto Superior de Saúde do Alto Ave",
+  "country": "Portugal",
+  "country_code": "PT",
+  "domain": "isave.edu.pt",
+  "website": "http://www.isave.edu.pt/"
+ },
+ {
+  "id": 1519,
+  "name": "Institute of Management and Economy",
+  "country": "Russian Federation",
+  "country_code": "RU",
+  "domain": "ime.ru",
+  "website": "http://www.ime.ru/"
+ },
+ {
+  "id": 1581,
+  "name": "Modern Institute of Managament",
+  "country": "Russian Federation",
+  "country_code": "RU",
+  "domain": "miom.org",
+  "website": "http://miom.org/"
+ },
+ {
+  "id": 1871,
+  "name": "Iniciativa Universidad del Atlantico",
+  "country": "Spain",
+  "country_code": "ES",
+  "domain": "universidadatlantico.org",
+  "website": "http://www.universidadatlantico.org/"
+ },
+ {
+  "id": 1953,
+  "name": "Fachhochschule Pur",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "domain": "phw.info",
+  "website": "http://www.phw.info/"
+ },
+ {
+  "id": 1956,
+  "name": "University of Switzerland",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "domain": "swissu.org",
+  "website": "http://www.swissu.org/"
+ },
+ {
+  "id": 1959,
+  "name": "Victoria University",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "domain": "victoria-uni.ch",
+  "website": "http://www.victoria-uni.ch/"
+ },
+ {
+  "id": 2148,
+  "name": "International Centre for Isclamic Science",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "domain": "kolieh.com",
+  "website": "http://www.kolieh.com/"
+ },
+ {
+  "id": 2236,
+  "name": "William Gilbert College",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "domain": "williamgilbert.co.uk",
+  "website": "http://www.williamgilbert.co.uk/"
+ },
+ {
+  "id": 2366,
+  "name": "IAE France",
+  "country": "France",
+  "country_code": "FR",
+  "domain": "iae-france.fr",
+  "website": "https://www.iae-france.fr/"
+ },
+ {
+  "id": 2373,
+  "name": "Pass26 College",
+  "country": "North Macedonia",
+  "country_code": "MK",
+  "domain": "pass26.edu.mk",
+  "website": "https://pass26.edu.mk/"
+ }
+]

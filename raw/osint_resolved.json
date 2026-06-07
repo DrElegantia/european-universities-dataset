@@ -1,0 +1,177 @@
+[
+ {
+  "id": 1,
+  "city": "Heraklion",
+  "confidence": "high",
+  "evidence": "WHOIS registrant address for noah.edu.gr: 100 Nikolaou Plastira str., Vassilika Vouton, Heraklion Crete GR-70013, Greece (Vassilika Vouton is the University of Crete / FORTH campus area in Heraklion).",
+  "source_url": "whois://noah.edu.gr"
+ },
+ {
+  "id": 117,
+  "city": "Paris",
+  "confidence": "medium",
+  "evidence": "European International University (EIU) is dataset-tagged Belgium only because its accreditation body ECBE is HQ'd in Belgium. The institution itself is a legally registered private distance-education provider in France (UAI 0756213W), operating as EIU-Paris at 59 rue Lamarck, 75018 Paris (earlier 66 Av des Champs Elysees). No Belgian registered office found.",
+  "source_url": "https://eiu.ac/about"
+ },
+ {
+  "id": 136,
+  "city": "Brussels",
+  "confidence": "medium",
+  "evidence": "Thierry Graduate School of Leadership had its main offices in Brussels (Square de Meeus) from 2000; in 2009 it added a campus in the Ardennes. WHOIS for thierryschool.org masks the registrant but lists Registrant State/Province: France (a coordination point). Belgian seat = Brussels.",
+  "source_url": "http://www.thierryschool.be/home.htm"
+ },
+ {
+  "id": 153,
+  "city": "Tuzla",
+  "confidence": "high",
+  "evidence": "American University in Bosnia and Herzegovina's main campus is in Tuzla (per Wikipedia and IAU WHED); postgraduate dept later opened in Sarajevo, undergrad depts in Banja Luka and Mostar. The .ba WHOIS Sarajevo address is the UTIC registry contact, not the institution seat.",
+  "source_url": "https://en.wikipedia.org/wiki/American_University_in_Bosnia_and_Herzegovina"
+ },
+ {
+  "id": 285,
+  "city": "Spentrup",
+  "confidence": "medium",
+  "evidence": "Knightsbridge University is a known diploma mill (listed by AACRAO 2009) but it did operate from a real Danish address in Spentrup, Denmark, founded 1991 by Henrik Fyrst Kristensen. Was variously incorporated in Liberia/Antigua with a Scotland mailing address.",
+  "source_url": "https://en.wikipedia.org/wiki/Knightsbridge_University"
+ },
+ {
+  "id": 323,
+  "city": "",
+  "confidence": "low",
+  "evidence": "Scandinavian Art and Business Institute (SABI), founded 2006 in Finland (later 'Sabi University', absorbed into Canada-based Learntura Group in 2018). All sources confirm Finland but no source (site, brochure, directory) gives a verifiable Finnish city; left blank to avoid fabrication.",
+  "source_url": "https://sabiuniversity.com/our-story"
+ },
+ {
+  "id": 1129,
+  "city": "St. Julian's",
+  "confidence": "high",
+  "evidence": "European Institute of Education (eieonline.com, now 'eie European Business School') is a government-licensed Maltese institution based in St. Julian's, Malta (STJ 3019). WHOIS shows a Shield Whois privacy proxy (Sweden), not the real seat.",
+  "source_url": "https://eieinstitute.com/about-us"
+ },
+ {
+  "id": 1134,
+  "city": "",
+  "confidence": "high",
+  "evidence": "University of Sint Eustatius School of Medicine's campus was on the Caribbean island of Sint Eustatius (Goldenrock), later relocating to Sint Maarten then Barbados (became AUIS). Caribbean / non-European seat per instructions, so city left blank. Documented location: Goldenrock, Sint Eustatius.",
+  "source_url": "https://en.wikipedia.org/wiki/American_University_of_Integrative_Sciences"
+ },
+ {
+  "id": 1135,
+  "city": "",
+  "confidence": "high",
+  "evidence": "International University School of Medicine (IUSOM) main campus & HQ is at Kaya Mofi 1, Kralendijk, Bonaire (Caribbean Netherlands), with additional campuses in Barranquilla (Colombia), Mexico City, Sialkot (Pakistan). Caribbean / non-mainland-European seat per instructions, so city left blank. Documented location: Kralendijk, Bonaire.",
+  "source_url": "https://www.internationaluniversity-schoolofmedicine.org/Contact_us.html"
+ },
+ {
+  "id": 1138,
+  "city": "Wapenveld",
+  "confidence": "medium",
+  "evidence": "Dutch Delta University (ddu.nl) listed at Hondenbergseweg 12-1, Wapenveld, Netherlands (some directories also cite Deventer). The .nl WHOIS Arnhem P.O. Box is the SIDN registry contact, not the institution.",
+  "source_url": "https://worlduniversitydirectory.com/Dutch-Delta-University---/info/11750/"
+ },
+ {
+  "id": 1142,
+  "city": "",
+  "confidence": "low",
+  "evidence": "europeanopenuniversity.com is 'Under Construction' (Dutch text). WHOIS registrant org 'Nedlook internet' (Netherlands) with city redacted for privacy. No verifiable city found; left blank to avoid fabrication.",
+  "source_url": "http://www.europeanopenuniversity.com/"
+ },
+ {
+  "id": 1144,
+  "city": "",
+  "confidence": "high",
+  "evidence": "foundationuniversity.com WHOIS registrant is HugeDomains.com (domain for sale, 2635 Walnut Street, Denver). No institution operating; defunct/parked, no real seat.",
+  "source_url": "whois://foundationuniversity.com"
+ },
+ {
+  "id": 1152,
+  "city": "Haarlem",
+  "confidence": "medium",
+  "evidence": "Hogeschool Inholland is a large real Dutch university of applied sciences with multiple campuses; its statutory/administrative headquarters (College van Bestuur) is registered in Haarlem (Bijdorplaan 15). Other large sites in The Hague, Amsterdam, Alkmaar, Rotterdam. The .nl WHOIS Arnhem address is the SIDN registry.",
+  "source_url": "https://www.inholland.nl/inhollandcom/about-inholland/our-locations/"
+ },
+ {
+  "id": 1345,
+  "city": "Lisboa",
+  "confidence": "high",
+  "evidence": "Instituto Piaget (Cooperativa para o Desenvolvimento Humano, Integral e Ecologico CRL, NIF 501048740) has its registered seat (sede social) in Lisboa, Avenida Joao Paulo II, Lote 544, 1950-157 Lisboa. Campuses spread across Almada, Vila Nova de Gaia, Viseu, Silves, etc.",
+  "source_url": "https://codigopostal.ciberforma.pt/dir/501048740/instituto-piaget-cooperativa-para-o-desenvolviment/"
+ },
+ {
+  "id": 1355,
+  "city": "Povoa de Lanhoso",
+  "confidence": "high",
+  "evidence": "Instituto Superior de Saude do Alto Ave (ISAVE), founded 2015, is located in Povoa de Lanhoso, Braga district, northern Portugal (renamed 'ISAVE - Instituto Superior de Saude' in 2017). The .pt WHOIS Lisboa address is the registrar contact.",
+  "source_url": "https://www.dges.gov.pt/en/node/917"
+ },
+ {
+  "id": 1519,
+  "city": "Moscow",
+  "confidence": "high",
+  "evidence": "WHOIS registrant address for ime.ru: 8 Marta street 1, bld 12, Moscow 127083, Russian Federation. Institute of Management and Economy registered in Moscow.",
+  "source_url": "whois://ime.ru"
+ },
+ {
+  "id": 1581,
+  "city": "",
+  "confidence": "high",
+  "evidence": "miom.org redirects to a GoDaddy 'domain for sale' parking page. The Modern Institute of Management is defunct; no operating site and no verifiable physical seat.",
+  "source_url": "https://forsale.godaddy.com/forsale/miom.org"
+ },
+ {
+  "id": 1871,
+  "city": "Santander",
+  "confidence": "high",
+  "evidence": "universidadatlantico.org now 301-redirects to uneatlantico.es. 'Iniciativa Universidad del Atlantico' was the precursor name for the Universidad Europea del Atlantico (UNEATLANTICO), a recognised private university in the Cantabria Science & Technology Park (PCTCAN) in Santander, Spain.",
+  "source_url": "https://en.wikipedia.org/wiki/European_University_of_the_Atlantic"
+ },
+ {
+  "id": 1953,
+  "city": "Bern",
+  "confidence": "high",
+  "evidence": "phw.info ('Fachhochschule Pur') is an older reference for the Private Hochschule Wirtschaft PHW Bern, a private business school in Bern, Switzerland (Max-Daetwyler-Platz 1, 3014 Bern). Live phw.info is dead; current site phw.ch.",
+  "source_url": "https://en.wikipedia.org/wiki/PHW_Hochschule_Wirtschaft_Bern"
+ },
+ {
+  "id": 1956,
+  "city": "",
+  "confidence": "low",
+  "evidence": "swissu.org ('University of Switzerland') serves only a generic 'We're getting things ready' placeholder with a domain-purchase link; no impressum, contact, or address. Appears to be a non-operating / diploma-mill style domain with no verifiable Swiss seat.",
+  "source_url": "http://www.swissu.org/"
+ },
+ {
+  "id": 1959,
+  "city": "Neuchatel",
+  "confidence": "medium",
+  "evidence": "Victoria University (Switzerland), via its VU School of Management (vubs.ch), is located in Neuchatel (Avenue de la Gare 2); the canton of Neuchatel approved 'Victoria University' in 2002. The .ch WHOIS Zurich/Werdstrasse address is the SWITCH registry contact.",
+  "source_url": "https://www.unipage.net/en/9793/victoria_university_neuch%C3%A2tel"
+ },
+ {
+  "id": 2148,
+  "city": "London",
+  "confidence": "medium",
+  "evidence": "International Centre for Islamic Science (ICIS, kolieh.com) was founded in London in 1989 as a charitable organisation, with its first college established in London in 1990. WHOIS is privacy-redacted.",
+  "source_url": "http://kolieh.com/en/"
+ },
+ {
+  "id": 2236,
+  "city": "",
+  "confidence": "low",
+  "evidence": "williamgilbert.co.uk does not resolve (connection refused) and no directory/news source confirms a city for 'William Gilbert College'. The WHOIS address (Minerva House, Edmund Halley Road, Oxford Science Park) is the registrar/hosting agent (NetNames), not the institution. No verifiable seat; left blank to avoid fabrication.",
+  "source_url": "whois://williamgilbert.co.uk"
+ },
+ {
+  "id": 2366,
+  "city": "Paris",
+  "confidence": "high",
+  "evidence": "IAE France is the national network (Conference des directeurs d'IAE) of French university management schools; its headquarters is at 8 Bis rue de la Croix Jarry, 75644 Paris Cedex 13, France.",
+  "source_url": "https://www.iae-france.fr/en/contact"
+ },
+ {
+  "id": 2373,
+  "city": "Skopje",
+  "confidence": "high",
+  "evidence": "WHOIS for pass26.edu.mk lists registrant/admin addresses in Skopje, North Macedonia (Blvd. Partizanski Odredi 17, Skopje 1000; and 'Rugjer Boshkovikj' 16, Skopje 1000).",
+  "source_url": "whois://pass26.edu.mk"
+ }
+]

@@ -150,8 +150,8 @@ for u in unis:
 
 # fill remaining missing cities from manual per-university lookups (agent-resolved id -> city)
 resolved_city = {}
-for _k in range(1, 6):
-    _p = _os.path.join(RAW, f"uni_city_resolved_{_k}.json")
+for _fn in [f"uni_city_resolved_{_k}.json" for _k in range(1, 6)] + ["osint_resolved.json"]:
+    _p = _os.path.join(RAW, _fn)
     if _os.path.exists(_p):
         for r in json.load(open(_p, encoding="utf-8")):
             if r.get("city"): resolved_city[int(r["id"])] = r["city"]
